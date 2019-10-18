@@ -75,8 +75,6 @@ the SAME directory, and run it... enjoy... :)
 
 ### MS-DOS
 
-2019: you can use FreeDOS to enjoy this program in Windows!
-
 DJGPP (DOS) users: READ THIS!!
 
 For making the program, you *NEED* the *PDCurses* library.
@@ -90,6 +88,10 @@ For use it, just run
 	> cd src
 	
 	> make -f makefile.dj
+	
+### WINDOWS
+
+You can use DosBox to enjoy this software on Windows. Works perfect!
 
 ## Documentation
 
