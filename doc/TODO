@@ -1,0 +1,29 @@
+GNUitarra
+
+Copyright (c) 2002-2019, Kronoman.
+In loving memory of my father.
+En memoria de mi querido padre.
+
+BUGS
+
+- The program searches the current path (./) for the datafiles
+  It needs to take the path from argv[0]...
+
+- Please send me all the bugs that you found!
+
+TODO
+
+- Hacer que el programa busque los archivos de datos en el path de su ejecutable,
+  extrayendo el path del parametro[0]!!!
+- Agregar una funcion de "busqueda".
+- Agregar mas afinaciones.
+- Generador de punteos sobre una escala
+- Generador de digitaciones de acordes y escalas
+- Generador de ejercicios para aprender la digitacion rapida de escalas
+- Escritura de lo generado a tablatura en archivo
+- Permitir ingresar acordes y escalas en el momento por el usuario
+- Permitir identificar una escala o un acorde mediante sus notas
+- Permitir buscar por nombre o nombre parcial
+- Clasificar las 4096 escalas obtenidas
+- Verificar que las afinaciones de los instrumentos sean correctas (afinacio.dat)
+- Etc, etc, etc... y etc!

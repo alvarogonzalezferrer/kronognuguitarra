@@ -1,0 +1,21 @@
+GNUitarra - Change Log
+
+v0.1.1 beta - October 2019 Revision
+	Improved GIT distribution
+	Many minor improvements
+
+
+
+v0.1.1 beta
+   Simplified the distribution.
+   It was just too complicated for a small project like this!
+   I managed to compile a version for DOS using DJGPP!
+
+0.1.0 beta
+   Added more instruments (+50!!) and afinations (+4000!!!) to the database.
+   Enhanced information in fretboard display.
+   Better arrange of fretboard analisys and generation functions.
+   Misc. Stuff.
+   
+v0.0.1 alpha
+   Initial release.

@@ -1,0 +1,4585 @@
+octavas|0
+todo el trastero|0,1,2,3,4,5,6,7,8,9,10,11
+mayor|0,2,4,5,7,9,11
+jonica|0,2,4,5,7,9,11
+etiope 1|0,2,4,5,7,9,11
+dorica|0,2,3,5,7,9,10
+frigia|0,1,3,5,7,8,10
+menor|0,2,3,5,7,8,10
+eolica|0,2,3,5,7,8,10
+etiope 2|0,2,3,5,7,8,10
+etiope 3|0,2,4,5,7,8,11
+armonica mayor|0,2,4,5,7,8,11
+arabe 2|0,2,3,5,6,8,9,11
+disminuida 1|0,2,3,5,6,8,9,11
+hungara mayor 1|0,3,4,6,7,9,10
+disminuida 2|0,3,4,6,7,9,10
+disminuida 3|0,1,3,4,6,7,9,10
+doble armonica|0,1,4,5,7,8,11
+cingara mayor 1|0,1,4,5,7,8,11
+persa 2|0,1,4,5,7,8,11
+bizantina 2|0,1,4,5,7,8,11
+hispano-arabe|0,1,4,5,7,8,11
+enigmatica 1|0,1,3,5,8
+balinesa 1|0,1,3,5,8
+javanesa 1|0,1,3,5,8
+frigia #6|0,1,3,5,7,9,10
+javanesa 2|0,1,3,5,7,9,10
+locria mayor|0,2,4,5,6,8,10
+arabe 1|0,2,4,5,6,8,10
+frigia mayor|0,1,4,5,7,8,10
+israeli 2|0,1,4,5,7,8,10
+bizantina 1|0,1,4,5,7,8,10
+menor armonica|0,2,3,5,7,8,11
+mahometana|0,2,3,5,7,8,11
+hawayana 1|0,2,3,7,9,11
+menor melodica|0,2,3,5,7,9,11
+jazz menor|0,2,3,5,7,9,11
+hawayana 2|0,2,3,5,7,9,11
+lidia|0,2,4,6,7,9,11
+mixolidia|0,2,4,5,7,9,10
+mixolidia cromatica|0,1,2,5,6,7,10
+mixolidia aumentada|0,2,4,5,8,9,10
+mixolidia hexatonica|0,2,5,7,9,10
+lidia aumentada|0,2,4,6,8,9,11
+lidia b7|0,2,4,6,7,9,10
+overtone|0,2,4,6,7,9,10
+lidia disminuida|0,2,3,6,7,9,11
+locria|0,1,3,5,6,8,10
+pentatonica mayor 1|0,2,4,7,9
+china 2|0,2,4,7,9
+mongolica|0,2,4,7,9
+coreana 1|0,2,4,7,9
+pentatonica mayor 2|0,2,4,7,11
+pentatonica alt.b2|0,1,4,7,9
+skriabin 2|0,1,4,7,9
+pentatonica alt. b5|0,2,4,6,9
+pentatonica alt. b6|0,2,4,7,8
+pentatonica alt.b3/b6|0,2,3,7,8
+pentatonica menor 1|0,3,5,7,10
+pentatonica menor 2|0,2,3,7,9
+pentatonica menor 3|0,3,5,6,10
+pentatonica menor 4|0,2,3,7,10
+pentatonica de dominante|0,2,4,7,10
+pentatonica de dominante|0,4,5,7,10
+simetrica 1|0,2,3,5,6,8,9,11
+simetrica 2|0,1,3,4,6,7,9,10
+simetrica 3|0,1,2,4,5,6,7,8,10,11
+algeriana|0,2,3,5,6,7,8,11
+hungara menor 2|0,2,3,6,7,8,11
+balinesa 2|0,1,3,7,8
+cingara mayor 2|0,1,4,6,7,8,10
+hungara mayor 2|0,1,4,6,7,8,10
+coreana 2|0,2,5,7,9,10
+dom. sus 4|0,2,5,7,9,10
+china 1|0,4,6,7,11
+egipcia|0,2,5,7,10
+pentatonica neutral 1|0,2,5,7,10
+pentatonica neutral 2|0,1,5,7,9
+enigmatica 2|0,1,4,6,8,11
+espa~ola octotonica|0,1,3,4,5,6,8,10
+espa~ola hexatonica|0,1,4,5,7,10
+indostan|0,2,4,5,7,8,10
+hungara menor 1|0,2,3,6,7,8,10
+napolitana 3|0,1,3,5,7,8,11
+israeli 1|0,1,3,4,6,8,9,11
+javanesa 3|0,1,3,7,8
+napolitana 1|0,1,4,6,9,10
+napolitana 2|0,1,3,5,7,9,11
+oriental 1|0,1,4,5,6,8,10
+oriental 2|0,1,4,5,6,9,10
+pelog|0,1,3,7,10
+persa 1|0,1,4,5,6,8,11
+rumana|0,2,3,6,7,9,10
+skriabin 1|0,2,4,6,9,10
+tcherepnin|0,1,3,4,5,7,8,9,11
+tonal|0,2,4,6,8,10
+leading whole tone|0,2,4,6,8,10,11
+alterada|0,1,3,4,6,8,10
+blues 1|0,3,5,6,7,10
+blues 2|0,3,5,6,7,10,11
+blues 3|0,2,3,4,5,6,7,9,10,11
+blues 4|0,1,3,4,6,7,9,10
+blues 5|0,2,3,5,6,7,10
+blues 6|0,2,3,5,6,7,9,10
+blues 7|0,3,4,5,6,7,10,11
+blues 8|0,2,3,4,5,6,7,9,10
+blues 9|0,3,4,5,6,7,9,10,11
+blues 10|0,3,4,5,7,8,10
+tritonica o teoria de los 3 acordes|0,5,7
+tetratonica|0,5,6,11
+cromatica|0,1,2,3,4,5,6,7,8,9,10,11
+dorica alterada|0,2,3,5,6,8,10
+flamenca|0,1,4,5,7,8,10
+aumentada 1|0,3,4,7,8,11
+aumentada 2|0,3,4,7,8,10
+aumentada 3|0,2,4,6,8,10
+super locria|0,1,3,4,6,8,10
+be-bop menor|0,2,3,4,5,7,9,10
+be-bop mayor|0,2,4,5,7,8,9,11
+be-bop semi-disminuida|0,1,3,5,6,7,8,11
+be-bop dominante|0,2,4,5,7,9,10,11
+frigia espa~ola|0,1,3,4,5,7,8,10
+kumoi|0,4,5,9,11
+judia|0,2,4,5,8,9,11
+jonica aumentada|0,2,4,5,8,9,11
+prometheus|0,2,4,6,9,10
+prometheus neopolitan|0,1,4,6,9,10
+simetrica hexatonica|0,1,4,5,8,9
+nonatonica|0,2,3,4,6,7,8,9,11
+ichikosucho|0,2,4,5,6,7,9,11
+dorica b2|0,1,3,5,7,9,10
+warao tetratonica|0,2,3,10
+esquimal tetratonica|0,2,4,7
+esquimal hexatonica 1|0,2,4,6,8,11
+esquimal hexatonica 2|0,2,3,5,7,10
+esquimal heptatonica|0,2,3,5,7,9,10
+yu heptatonica|0,2,3,5,7,9,10
+bi yu|0,3,7,10
+yu pentatonica|0,3,5,7,10
+kung|0,2,4,6,9
+yo|0,2,5,7,10
+jin yu|0,2,5,7,10
+chaio|0,2,5,8,10
+menor hexatonica|0,2,3,5,7,10
+pyongjo|0,2,5,7,9,10
+enigmatica de verdi 1|0,1,4,5,6,8,10,11
+enigmatica de verdi 2|0,1,4,5,8,10,11
+enigmatica de verdi 3|0,1,4,6,8,10,11
+dorica cromatica|0,1,2,5,7,8,9
+frigia cromatica|0,3,4,5,8,9,10
+lidia cromatica|0,1,4,5,6,9,11
+sansagari|0,5,10
+ritusen|0,2,5,7,9
+zhi|0,2,5,7,9
+ujo|0,2,5,7,9
+honchoshi plagal|0,1,3,5,6,10
+hexatonica piramidal|0,2,3,5,6,9
+ultra locria|0,1,3,4,6,8,9
+todi that|0,1,3,6,7,8,11
+espla|0,1,3,4,5,6,8,10
+zirafkend|0,2,3,5,7,8,9,11
+youlan|0,1,2,4,5,6,7,9,10
+taishikicho|0,2,4,5,6,7,9,10,11
+arabe 3|0,2,3,5,6,9,10
+arabe 4|0,2,3,5,7,9,10,11
+ute|0,3,10
+arabe 5|0,1,3,4,5,7,8,10,11
+mesianica 1|0,1,2,4,5,6,7,9,10
+mesianica 2|0,1,2,3,6,7,8,9
+mesianica 3|0,1,2,6,7,8
+mesianica 4|0,1,2,4,6,7,8,10
+mesianica 5|0,1,2,3,4,6,7,8,9,10
+honchoshi|0,5
+niagari ditonica|0,7
+niagari hexatonica|0,1,5,7,8,10
+warao ditonica|0,10
+warao tritonica|0,5,7
+peruana tritonica 1|0,4,7
+peruana tritonica 2|0,3,7
+peruana menor|0,2,3,5,7,8,10
+peruana mayor|0,2,4,5,7,9,11
+genus primum|0,2,5,7
+genus diatonicum|0,2,4,5,7,9,10,11
+genus chromaticum|0,1,3,4,5,7,8,9,11
+genus secundum|0,4,5,7,9,11
+genus tertium|0,3,4,7,8,11
+genus diatonicum veterum|0,2,4,5,6,7,9,11
+han-kumoi|0,2,5,7,8
+hira-joshi|0,2,3,7,8
+hon-kumoi-joshi|0,1,5,7,8
+kokin-joshi|0,1,5,7,10
+iwato|0,1,5,6,10
+ryosen|0,2,4,7,9
+gong|0,2,4,7,9
+minyo|0,3,5,7,10
+yi ze|0,3,5,8,10
+akebono|0,2,3,7,9
+shang|0,2,4,7,10
+kyemyonjo|0,3,5,7,9
+yosen|0,2,5,7,9,10
+frigia b4|0,1,3,4,7,8,10
+cingara menor|0,2,3,6,7,8,11
+cingara espa~ola|0,2,3,5,7,8,11
+cingara hexatonica|0,1,4,5,7,8,bb7
+hipofrigia cromatica|0,3,5,6,7,10,11
+hipolidia cromatica|0,1,4,6,7,8,11
+hipodorica cromatica|0,2,3,4,7,8,9
+frigia doble hexatonica|0,1,3,5,6,9
+marva that|0,1,4,6,7,9,11
+adonai malakh|0,1,2,3,5,7,9,10
+octatonica|0,1,3,4,6,7,9,10
+semitono-tono|0,1,3,4,6,7,9,10
+magen abot|0,1,3,4,6,8,9,11
+maqam hijaz|0,1,4,5,7,8,10,11
+maqam shadd'araban|0,1,3,4,5,6,9,10
+maqam nahawand|0,2,3,5,7,8,10,11
+maqam karcigar|0,2,3,5,6,9,10
+maqam bayat-e-esfahan|0,2,3,5,7,8,11
+maqam hicaz|0,1,4,5,7,9,10
+maqam huzzam|0,1,3,4,7,8,10
+maqam shahnaz kurdi|0,1,3,5,7,8,11
+maqam humayun|0,1,4,5,7,8,10
+maqam zengule|0,1,4,5,7,8,11
+maqam nakriz|0,2,3,6,7,9,10
+maqam shawq|0,2,4,5,7,9,10,11
+maqam kurd|0,1,3,5,7,8,10
+maqam suzdil|0,2,3,6,7,8,10
+mayor invertida|0,1,3,5,7,8,10
+frigia arabe|0,1,3,4,5,7,8,10,11
+frigia hexatonica|0,3,5,7,8,10
+chin|0,3,6,8,10
+chiao|0,2,3,5,7,8,10
+siria|0,1,4,5,8
+ritsu|0,1,3,5,8,10
+lidia hexatonica|0,2,4,7,9,11
+china antigua|0,2,4,6,7,9
+china octontonica|0,2,4,5,7,9,10,11
+pien chih|0,1,3,5,6,8,10
+in|0,1,3,5,7,8,10
+ousak|0,1,3,5,7,8,10
+nohkan|0,2,5,6,8,9,11
+ryukyu|0,4,5,7,11
+sambah|0,2,3,4,7,8,10
+alhijaz|0,1,4,5,7,8,10
+hitzaskiar|0,1,4,5,7,8,11
+hitzaz|0,1,4,5,7,8,10
+sengah|0,3,4,5,7,8,11
+houzam|0,3,4,5,7,9,11
+peiraiotikos|0,1,4,6,7,9,11
+niavent|0,2,3,6,7,8,11
+souzinak|0,2,3,6,7,9,10
+rast|0,2,4,5,7,9,10,11
+ghana pentatonica 1|0,2,3,5,7
+ghana pentatonica 2|0,2,4,7,9
+ghana heptatonica|0,2,4,5,7,9,11
+semidisminuida|0,2,3,5,6,8,10
+gregoriana|0,2,3,5,7,8,9,10
+tono-semitono|0,2,3,5,6,8,9,11
+chad gadyo|0,2,3,5,7
+ahavoh rabboh|0,1,4,5,7,8,10
+hedjaz|0,2,3,6,7,9,10
+mischung 1|0,2,3,5,7,9,11
+mischung 2|0,2,4,5,7,8,11
+mischung 3|0,2,4,5,7,9,10
+mischung 4|0,2,3,5,7,8,11
+mischung 5|0,2,3,5,7,9,10
+mischung 6|0,2,4,5,7,8,10
+raga malasri|0,4,7
+raga sarvasri|0,5,7
+raga ongkari|0,6,7
+raga lavangi|0,1,7,10
+raga bhavani tetratonica|0,2,5,9
+raga sumukam|0,2,6,11
+raga mahathi|0,4,7,10
+raga nabhomani|0,1,2,6,7
+raga chhaya todi|0,1,3,6,8
+raga megharanjani|0,1,4,5,8
+raga megharanji|0,1,4,5,11
+raga reva|0,1,4,7,8
+raga rasika ranjani|0,1,4,7,9
+raga gauri|0,1,5,7,11
+raga kshanika|0,1,5,8,11
+raga saugandhini|0,1,6,7,8
+raga deshgaur|0,1,7,8,11
+raga purnalalita|0,2,3,5,7
+raga audav tukhari|0,2,3,5,8
+raga abhogi|0,2,3,5,9
+raga kumurdaki|0,2,4,6,11
+raga bhupeshwari|0,2,4,7,8
+raga bhupalam|0,1,3,7,8
+raga hamsadhvani|0,2,4,7,10
+raga neroshta|0,2,4,8,10
+raga desh|0,2,5,7,11
+raga priyadharshini|0,2,5,8,11
+raga gorakh kalyan|0,2,5,9,10
+raga rasranjani|0,2,5,9,11
+raga shri kalyan|0,2,6,7,9
+raga vaijayanti|0,2,6,7,11
+raga mohanangi|0,3,4,7,9
+raga jayakauns|0,3,5,6,10
+raga kokil pancham|0,3,5,7,8
+raga nata|0,3,5,7,11
+raga samudhra priya|0,3,6,7,10
+raga multani|0,3,6,7,11
+raga harikauns|0,3,6,8,10
+raga shailaja|0,3,7,8,10
+raga zilaf|0,4,5,7,8
+raga nagasvaravali|0,4,5,7,9
+raga gambhiranata|0,4,5,7,11
+raga girija|0,4,5,8,11
+raga khamaji durga|0,4,5,9,10
+raga bhinna shadja|0,4,5,9,11
+raga dhavalashri|0,4,6,7,9
+raga amritavarsini|0,4,6,7,11
+raga valaji|0,4,7,9,10
+raga mamata|0,4,7,9,11
+raga devranjani|0,5,7,8,10
+raga devaranji|0,5,7,8,11
+raga kuntvarali|0,5,7,9,10
+raga puruhutika|0,5,7,9,11
+raga suddha mukhari|0,1,2,5,8,9
+raga chandrajyoti|0,1,2,6,7,9
+raga suddha simantini|0,1,3,5,7,8
+raga gandharavam|0,1,3,5,7,10
+raga vijayasri|0,1,3,6,7,11
+raga bhavani hexatonica|0,1,3,6,8,10
+raga gurjari todi|0,1,3,6,8,11
+raga salagavarali|0,1,3,7,9,10
+raga purna pancama|0,1,4,5,7,8
+raga kalavati|0,1,4,5,7,9
+raga gaula|0,1,4,5,7,11
+raga vasantabhairavi|0,1,4,5,8,10
+raga lalita|0,1,4,5,6,8,11
+raga rudra pancama|0,1,4,5,9,10
+raga vasanta|0,1,4,5,9,11
+raga dhavalangam|0,1,4,6,7,8
+raga mandari|0,1,4,6,7,11
+raga hejjajji|0,1,4,6,8,9
+raga hamsanandi|0,1,4,6,9,11
+raga kalagada|0,1,4,7,8,9
+raga bauli|0,1,4,7,8,11
+raga malayamarutam|0,1,4,7,9,10
+raga kalakanthi|0,1,5,7,8,9
+raga phenadyuti|0,1,5,7,8,10
+raga padi|0,1,5,7,8,11
+raga rasavali|0,1,5,7,9,10
+raga jivantika|0,1,5,7,9,11
+raga suddha bangala|0,2,3,5,7,9
+raga suddha todi|0,1,3,5,8,10
+raga sindhura kafi|0,2,3,5,7,11
+raga ghantana|0,2,3,5,8,11
+raga bagesri|0,2,3,5,9,10
+raga syamalam|0,2,3,6,7,8
+raga vijayanagari|0,2,3,6,7,9
+raga kaikavasi|0,2,3,6,7,11
+raga ranjani|0,2,3,6,9,11
+raga trimurti|0,2,3,7,8,10
+raga manavi|0,2,3,7,9,10
+raga dipak|0,2,4,5,6,7
+raga siva kambhoji|0,2,4,5,7,10
+raga nalinakanti|0,2,4,5,7,11
+raga sarasanana|0,2,4,5,8,11
+raga rageshri|0,2,4,5,9,10
+raga shri|0,1,4,6,7,8,11
+raga hamsa vinodini|0,2,4,5,9,11
+raga yamuna kalyani|0,2,4,6,7,9
+raga caturangini|0,2,4,6,7,11
+raga mruganandana|0,2,4,6,9,11
+raga latika|0,2,4,7,8,11
+raga kumud|0,2,4,7,9,11
+raga navamanohari|0,2,5,7,8,10
+raga bhinna pancama|0,2,5,7,8,11
+raga nagagandhari|0,2,5,7,9,11
+raga sarang|0,2,5,7,10,11
+raga jaganmohanam|0,2,6,7,8,10
+raga sarasvati|0,2,6,7,9,10
+raga malarani|0,2,6,7,10,11
+raga bhanumanjari|0,3,4,5,7,10
+raga bhanumati|0,1,2,5,7,9,10
+raga rasamanjari|0,3,4,6,7,11
+raga gopikavasantam|0,3,5,7,8,10
+raga takka|0,3,5,7,8,11
+raga manohari|0,3,5,7,9,10
+raga jivantini|0,3,6,7,10,11
+raga kamalamanohari|0,4,5,7,8,10
+raga paraju|0,4,5,7,8,11
+raga khamas|0,4,5,7,9,10
+raga hari nata|0,4,5,7,9,11
+raga tilang|0,4,5,7,10,11
+raga jyoti|0,4,6,7,8,10
+raga vutari|0,4,6,7,9,10
+raga vijayavasanta|0,4,6,7,10,11
+raga ragesri|0,2,4,5,9,10,11
+raga sorati|0,2,5,7,9,10,11
+raga madhuri|0,4,5,7,9,10,11
+raga ramkali|0,1,4,5,6,7,8,11
+raga bhatiyar|0,1,4,5,6,7,9,11
+raga saurastra|0,1,4,5,7,8,9,11
+raga mukhari|0,2,3,5,7,8,9,10
+raga mian ki malhar|0,2,3,5,7,9,10,11
+raga cintamani|0,2,3,6,7,8,9,10
+raga ramdasi malhar|0,2,3,4,6,8,9,10,11
+raga pilu|0,2,3,5,7,8,9,10,11
+raga sindhi bhairavi|0,1,2,3,4,5,7,8,10,11
+raga manaranjani i|0,1,4,7,10
+raga manaranjani ii|0,1,5,7,9
+raga madhukauns|0,3,6,7,9,10
+raga saravati|0,4,5,7,8,bb7
+raga sivaranjini|0,2,3,7,9
+raga malkauns|0,3,5,8,10
+raga chndrakauns-kiravani|0,3,5,8,11
+raga chandrakauns-kafi|0,3,5,9,10
+raga chandrakauns-modern|0,3,5,9,11
+raga matha kokila|0,2,7,9,10
+raga hindol|0,4,6,9,11
+raga simharava|0,2,3,6,7,10
+raga gopriya|0,2,4,6,8,10
+raga barbara|0,2,4,6,9,10
+raga amarasenapriya|0,2,3,6,7,11
+raga brindabani sarang|0,2,5,7,10,11
+raga viyogavarali|0,1,3,5,8,11
+raga salanganata|0,1,5,7,8
+raga shobhavari|0,2,5,7,8
+raga vibhavari|0,1,5,7,10
+raga devakriya|0,2,5,7,9
+raga madhyamavati|0,2,5,7,10
+raga darbar|0,2,5,7,9,10
+raga kambhoji|0,2,4,5,7,9
+raga palasi|0,2,3,5,7,10
+raga bilashkhani todi|0,1,3,5,7,8,10
+raga shuddh kalyan|0,2,4,6,7,9,11
+raga adana|0,2,3,5,7,8,10
+raga kanakambari|0,1,2,5,7,8,bb7
+raga patdip|0,2,3,5,7,9,11
+raga kiranavali|0,2,3,5,7,8,11
+raga ahir bhairav|0,1,4,5,7,9,10
+raga ganasamavarali|0,1,2,5,7,8,11
+mela ratnangi|0,1,2,5,7,8,10
+mela shankarabharanam|0,2,4,5,7,9,11
+mela ganamurti|0,1,2,5,7,8,11
+mela vanaspati|0,1,2,5,7,9,10
+mela manavati|0,1,2,5,7,9,11
+mela tanarupi|0,1,2,5,7,10,11
+mela salaga|0,1,2,6,7,8,bb7
+mela jalarnava|0,1,2,6,7,8,10
+mela jhalavarali|0,1,2,6,7,8,11
+mela navanitam|0,1,2,6,7,9,10
+mela pavani|0,1,2,6,7,9,11
+mela raghupriya|0,1,2,6,7,10,11
+mela senavati|0,1,3,5,7,8,bb7
+mela natakapriya|0,1,3,5,7,9,10
+mela rupavati|0,1,3,5,7,10,11
+mela gavambodhi|0,1,3,6,7,8,bb7
+mela bhavapriya|0,1,3,6,7,8,10
+mela sadvidhamargini|0,1,3,6,7,9,10
+mela suvarnangi|0,1,3,6,7,9,11
+mela divyamani|0,1,3,6,7,10,11
+mela gayakapriya|0,1,4,5,7,8,bb7
+mela vakulabharanam|0,1,4,5,7,8,10
+mela chakravakam|0,1,4,5,7,9,10
+mela suryakanta|0,1,4,5,7,9,11
+mela hatakambari|0,1,4,5,7,10,11
+mela dhavalambari|0,1,4,6,7,8,bb7
+mela namanarayani|0,1,4,6,7,8,10
+mela ramapriya|0,1,4,6,7,9,10
+mela visvambhari|0,1,4,6,7,10,11
+mela jhankaradhvani|0,2,3,5,7,8,bb7
+mela varunapriya|0,2,3,5,7,10,11
+mela syamalangi|0,2,3,6,7,8,bb7
+mela sanmukhapriya|0,2,3,6,7,8,10
+mela hemavati|0,2,3,6,7,9,10
+mela dharmavati|0,2,3,6,7,9,11
+mela nitimati|0,2,3,6,7,10,11
+mela mararanjani|0,2,4,5,7,8,bb7
+mela carukesi|0,2,4,5,7,8,bb7
+mela naganandini|0,2,4,5,7,10,11
+mela kantamani|0,2,4,6,7,8,bb7
+mela latangi|0,2,4,6,7,8,11
+mela citrambari|0,2,4,6,7,10,11
+mela yagapriya|0,3,4,5,7,8,bb7
+mela ragavardhani|0,3,4,5,7,8,10
+mela gangeyabhusani|0,3,4,5,7,8,11
+mela vagadhisvari|0,3,4,5,7,9,10
+mela sulini|0,3,4,5,7,9,11
+mela calanata|0,3,4,5,7,10,11
+mela sucaritra|0,3,4,6,7,8,bb7
+mela jyotisvarupini|0,3,4,6,7,8,10
+mela dhatuvardhani|0,3,4,6,7,8,11
+mela kosalam|0,3,4,6,7,9,11
+mela rasikapriya|0,3,4,6,7,10,11
+mela harikambhoji|0,2,4,5,7,9,10
+Intervalo 1| 1
+Intervalo 2| 2
+Intervalo 3| 3
+Intervalo 4| 4
+Intervalo 5| 5
+Intervalo 6| 6
+Intervalo 7| 7
+Intervalo 8| 8
+Intervalo 9| 9
+Intervalo 10|10
+Intervalo 11|11
+Bitonica 1| 0, 1
+Bitonica 2| 0, 2
+Bitonica 3| 1, 2
+Bitonica 4| 0, 3
+Bitonica 5| 1, 3
+Bitonica 6| 2, 3
+Bitonica 7| 0, 4
+Bitonica 8| 1, 4
+Bitonica 9| 2, 4
+Bitonica 10| 3, 4
+Bitonica 11| 0, 5
+Bitonica 12| 1, 5
+Bitonica 13| 2, 5
+Bitonica 14| 3, 5
+Bitonica 15| 4, 5
+Bitonica 16| 0, 6
+Bitonica 17| 1, 6
+Bitonica 18| 2, 6
+Bitonica 19| 3, 6
+Bitonica 20| 4, 6
+Bitonica 21| 5, 6
+Bitonica 22| 0, 7
+Bitonica 23| 1, 7
+Bitonica 24| 2, 7
+Bitonica 25| 3, 7
+Bitonica 26| 4, 7
+Bitonica 27| 5, 7
+Bitonica 28| 6, 7
+Bitonica 29| 0, 8
+Bitonica 30| 1, 8
+Bitonica 31| 2, 8
+Bitonica 32| 3, 8
+Bitonica 33| 4, 8
+Bitonica 34| 5, 8
+Bitonica 35| 6, 8
+Bitonica 36| 7, 8
+Bitonica 37| 0, 9
+Bitonica 38| 1, 9
+Bitonica 39| 2, 9
+Bitonica 40| 3, 9
+Bitonica 41| 4, 9
+Bitonica 42| 5, 9
+Bitonica 43| 6, 9
+Bitonica 44| 7, 9
+Bitonica 45| 8, 9
+Bitonica 46| 0,10
+Bitonica 47| 1,10
+Bitonica 48| 2,10
+Bitonica 49| 3,10
+Bitonica 50| 4,10
+Bitonica 51| 5,10
+Bitonica 52| 6,10
+Bitonica 53| 7,10
+Bitonica 54| 8,10
+Bitonica 55| 9,10
+Bitonica 56| 0,11
+Bitonica 57| 1,11
+Bitonica 58| 2,11
+Bitonica 59| 3,11
+Bitonica 60| 4,11
+Bitonica 61| 5,11
+Bitonica 62| 6,11
+Bitonica 63| 7,11
+Bitonica 64| 8,11
+Bitonica 65| 9,11
+Bitonica 66|10,11
+Tritonica 1| 0, 1, 2
+Tritonica 2| 0, 1, 3
+Tritonica 3| 0, 2, 3
+Tritonica 4| 1, 2, 3
+Tritonica 5| 0, 1, 4
+Tritonica 6| 0, 2, 4
+Tritonica 7| 1, 2, 4
+Tritonica 8| 0, 3, 4
+Tritonica 9| 1, 3, 4
+Tritonica 10| 2, 3, 4
+Tritonica 11| 0, 1, 5
+Tritonica 12| 0, 2, 5
+Tritonica 13| 1, 2, 5
+Tritonica 14| 0, 3, 5
+Tritonica 15| 1, 3, 5
+Tritonica 16| 2, 3, 5
+Tritonica 17| 0, 4, 5
+Tritonica 18| 1, 4, 5
+Tritonica 19| 2, 4, 5
+Tritonica 20| 3, 4, 5
+Tritonica 21| 0, 1, 6
+Tritonica 22| 0, 2, 6
+Tritonica 23| 1, 2, 6
+Tritonica 24| 0, 3, 6
+Tritonica 25| 1, 3, 6
+Tritonica 26| 2, 3, 6
+Tritonica 27| 0, 4, 6
+Tritonica 28| 1, 4, 6
+Tritonica 29| 2, 4, 6
+Tritonica 30| 3, 4, 6
+Tritonica 31| 0, 5, 6
+Tritonica 32| 1, 5, 6
+Tritonica 33| 2, 5, 6
+Tritonica 34| 3, 5, 6
+Tritonica 35| 4, 5, 6
+Tritonica 36| 0, 1, 7
+Tritonica 37| 0, 2, 7
+Tritonica 38| 1, 2, 7
+Tritonica 39| 0, 3, 7
+Tritonica 40| 1, 3, 7
+Tritonica 41| 2, 3, 7
+Tritonica 42| 0, 4, 7
+Tritonica 43| 1, 4, 7
+Tritonica 44| 2, 4, 7
+Tritonica 45| 3, 4, 7
+Tritonica 46| 0, 5, 7
+Tritonica 47| 1, 5, 7
+Tritonica 48| 2, 5, 7
+Tritonica 49| 3, 5, 7
+Tritonica 50| 4, 5, 7
+Tritonica 51| 0, 6, 7
+Tritonica 52| 1, 6, 7
+Tritonica 53| 2, 6, 7
+Tritonica 54| 3, 6, 7
+Tritonica 55| 4, 6, 7
+Tritonica 56| 5, 6, 7
+Tritonica 57| 0, 1, 8
+Tritonica 58| 0, 2, 8
+Tritonica 59| 1, 2, 8
+Tritonica 60| 0, 3, 8
+Tritonica 61| 1, 3, 8
+Tritonica 62| 2, 3, 8
+Tritonica 63| 0, 4, 8
+Tritonica 64| 1, 4, 8
+Tritonica 65| 2, 4, 8
+Tritonica 66| 3, 4, 8
+Tritonica 67| 0, 5, 8
+Tritonica 68| 1, 5, 8
+Tritonica 69| 2, 5, 8
+Tritonica 70| 3, 5, 8
+Tritonica 71| 4, 5, 8
+Tritonica 72| 0, 6, 8
+Tritonica 73| 1, 6, 8
+Tritonica 74| 2, 6, 8
+Tritonica 75| 3, 6, 8
+Tritonica 76| 4, 6, 8
+Tritonica 77| 5, 6, 8
+Tritonica 78| 0, 7, 8
+Tritonica 79| 1, 7, 8
+Tritonica 80| 2, 7, 8
+Tritonica 81| 3, 7, 8
+Tritonica 82| 4, 7, 8
+Tritonica 83| 5, 7, 8
+Tritonica 84| 6, 7, 8
+Tritonica 85| 0, 1, 9
+Tritonica 86| 0, 2, 9
+Tritonica 87| 1, 2, 9
+Tritonica 88| 0, 3, 9
+Tritonica 89| 1, 3, 9
+Tritonica 90| 2, 3, 9
+Tritonica 91| 0, 4, 9
+Tritonica 92| 1, 4, 9
+Tritonica 93| 2, 4, 9
+Tritonica 94| 3, 4, 9
+Tritonica 95| 0, 5, 9
+Tritonica 96| 1, 5, 9
+Tritonica 97| 2, 5, 9
+Tritonica 98| 3, 5, 9
+Tritonica 99| 4, 5, 9
+Tritonica 100| 0, 6, 9
+Tritonica 101| 1, 6, 9
+Tritonica 102| 2, 6, 9
+Tritonica 103| 3, 6, 9
+Tritonica 104| 4, 6, 9
+Tritonica 105| 5, 6, 9
+Tritonica 106| 0, 7, 9
+Tritonica 107| 1, 7, 9
+Tritonica 108| 2, 7, 9
+Tritonica 109| 3, 7, 9
+Tritonica 110| 4, 7, 9
+Tritonica 111| 5, 7, 9
+Tritonica 112| 6, 7, 9
+Tritonica 113| 0, 8, 9
+Tritonica 114| 1, 8, 9
+Tritonica 115| 2, 8, 9
+Tritonica 116| 3, 8, 9
+Tritonica 117| 4, 8, 9
+Tritonica 118| 5, 8, 9
+Tritonica 119| 6, 8, 9
+Tritonica 120| 7, 8, 9
+Tritonica 121| 0, 1,10
+Tritonica 122| 0, 2,10
+Tritonica 123| 1, 2,10
+Tritonica 124| 0, 3,10
+Tritonica 125| 1, 3,10
+Tritonica 126| 2, 3,10
+Tritonica 127| 0, 4,10
+Tritonica 128| 1, 4,10
+Tritonica 129| 2, 4,10
+Tritonica 130| 3, 4,10
+Tritonica 131| 0, 5,10
+Tritonica 132| 1, 5,10
+Tritonica 133| 2, 5,10
+Tritonica 134| 3, 5,10
+Tritonica 135| 4, 5,10
+Tritonica 136| 0, 6,10
+Tritonica 137| 1, 6,10
+Tritonica 138| 2, 6,10
+Tritonica 139| 3, 6,10
+Tritonica 140| 4, 6,10
+Tritonica 141| 5, 6,10
+Tritonica 142| 0, 7,10
+Tritonica 143| 1, 7,10
+Tritonica 144| 2, 7,10
+Tritonica 145| 3, 7,10
+Tritonica 146| 4, 7,10
+Tritonica 147| 5, 7,10
+Tritonica 148| 6, 7,10
+Tritonica 149| 0, 8,10
+Tritonica 150| 1, 8,10
+Tritonica 151| 2, 8,10
+Tritonica 152| 3, 8,10
+Tritonica 153| 4, 8,10
+Tritonica 154| 5, 8,10
+Tritonica 155| 6, 8,10
+Tritonica 156| 7, 8,10
+Tritonica 157| 0, 9,10
+Tritonica 158| 1, 9,10
+Tritonica 159| 2, 9,10
+Tritonica 160| 3, 9,10
+Tritonica 161| 4, 9,10
+Tritonica 162| 5, 9,10
+Tritonica 163| 6, 9,10
+Tritonica 164| 7, 9,10
+Tritonica 165| 8, 9,10
+Tritonica 166| 0, 1,11
+Tritonica 167| 0, 2,11
+Tritonica 168| 1, 2,11
+Tritonica 169| 0, 3,11
+Tritonica 170| 1, 3,11
+Tritonica 171| 2, 3,11
+Tritonica 172| 0, 4,11
+Tritonica 173| 1, 4,11
+Tritonica 174| 2, 4,11
+Tritonica 175| 3, 4,11
+Tritonica 176| 0, 5,11
+Tritonica 177| 1, 5,11
+Tritonica 178| 2, 5,11
+Tritonica 179| 3, 5,11
+Tritonica 180| 4, 5,11
+Tritonica 181| 0, 6,11
+Tritonica 182| 1, 6,11
+Tritonica 183| 2, 6,11
+Tritonica 184| 3, 6,11
+Tritonica 185| 4, 6,11
+Tritonica 186| 5, 6,11
+Tritonica 187| 0, 7,11
+Tritonica 188| 1, 7,11
+Tritonica 189| 2, 7,11
+Tritonica 190| 3, 7,11
+Tritonica 191| 4, 7,11
+Tritonica 192| 5, 7,11
+Tritonica 193| 6, 7,11
+Tritonica 194| 0, 8,11
+Tritonica 195| 1, 8,11
+Tritonica 196| 2, 8,11
+Tritonica 197| 3, 8,11
+Tritonica 198| 4, 8,11
+Tritonica 199| 5, 8,11
+Tritonica 200| 6, 8,11
+Tritonica 201| 7, 8,11
+Tritonica 202| 0, 9,11
+Tritonica 203| 1, 9,11
+Tritonica 204| 2, 9,11
+Tritonica 205| 3, 9,11
+Tritonica 206| 4, 9,11
+Tritonica 207| 5, 9,11
+Tritonica 208| 6, 9,11
+Tritonica 209| 7, 9,11
+Tritonica 210| 8, 9,11
+Tritonica 211| 0,10,11
+Tritonica 212| 1,10,11
+Tritonica 213| 2,10,11
+Tritonica 214| 3,10,11
+Tritonica 215| 4,10,11
+Tritonica 216| 5,10,11
+Tritonica 217| 6,10,11
+Tritonica 218| 7,10,11
+Tritonica 219| 8,10,11
+Tritonica 220| 9,10,11
+Cuadritonica 1| 0, 1, 2, 3
+Cuadritonica 2| 0, 1, 2, 4
+Cuadritonica 3| 0, 1, 3, 4
+Cuadritonica 4| 0, 2, 3, 4
+Cuadritonica 5| 1, 2, 3, 4
+Cuadritonica 6| 0, 1, 2, 5
+Cuadritonica 7| 0, 1, 3, 5
+Cuadritonica 8| 0, 2, 3, 5
+Cuadritonica 9| 1, 2, 3, 5
+Cuadritonica 10| 0, 1, 4, 5
+Cuadritonica 11| 0, 2, 4, 5
+Cuadritonica 12| 1, 2, 4, 5
+Cuadritonica 13| 0, 3, 4, 5
+Cuadritonica 14| 1, 3, 4, 5
+Cuadritonica 15| 2, 3, 4, 5
+Cuadritonica 16| 0, 1, 2, 6
+Cuadritonica 17| 0, 1, 3, 6
+Cuadritonica 18| 0, 2, 3, 6
+Cuadritonica 19| 1, 2, 3, 6
+Cuadritonica 20| 0, 1, 4, 6
+Cuadritonica 21| 0, 2, 4, 6
+Cuadritonica 22| 1, 2, 4, 6
+Cuadritonica 23| 0, 3, 4, 6
+Cuadritonica 24| 1, 3, 4, 6
+Cuadritonica 25| 2, 3, 4, 6
+Cuadritonica 26| 0, 1, 5, 6
+Cuadritonica 27| 0, 2, 5, 6
+Cuadritonica 28| 1, 2, 5, 6
+Cuadritonica 29| 0, 3, 5, 6
+Cuadritonica 30| 1, 3, 5, 6
+Cuadritonica 31| 2, 3, 5, 6
+Cuadritonica 32| 0, 4, 5, 6
+Cuadritonica 33| 1, 4, 5, 6
+Cuadritonica 34| 2, 4, 5, 6
+Cuadritonica 35| 3, 4, 5, 6
+Cuadritonica 36| 0, 1, 2, 7
+Cuadritonica 37| 0, 1, 3, 7
+Cuadritonica 38| 0, 2, 3, 7
+Cuadritonica 39| 1, 2, 3, 7
+Cuadritonica 40| 0, 1, 4, 7
+Cuadritonica 41| 0, 2, 4, 7
+Cuadritonica 42| 1, 2, 4, 7
+Cuadritonica 43| 0, 3, 4, 7
+Cuadritonica 44| 1, 3, 4, 7
+Cuadritonica 45| 2, 3, 4, 7
+Cuadritonica 46| 0, 1, 5, 7
+Cuadritonica 47| 0, 2, 5, 7
+Cuadritonica 48| 1, 2, 5, 7
+Cuadritonica 49| 0, 3, 5, 7
+Cuadritonica 50| 1, 3, 5, 7
+Cuadritonica 51| 2, 3, 5, 7
+Cuadritonica 52| 0, 4, 5, 7
+Cuadritonica 53| 1, 4, 5, 7
+Cuadritonica 54| 2, 4, 5, 7
+Cuadritonica 55| 3, 4, 5, 7
+Cuadritonica 56| 0, 1, 6, 7
+Cuadritonica 57| 0, 2, 6, 7
+Cuadritonica 58| 1, 2, 6, 7
+Cuadritonica 59| 0, 3, 6, 7
+Cuadritonica 60| 1, 3, 6, 7
+Cuadritonica 61| 2, 3, 6, 7
+Cuadritonica 62| 0, 4, 6, 7
+Cuadritonica 63| 1, 4, 6, 7
+Cuadritonica 64| 2, 4, 6, 7
+Cuadritonica 65| 3, 4, 6, 7
+Cuadritonica 66| 0, 5, 6, 7
+Cuadritonica 67| 1, 5, 6, 7
+Cuadritonica 68| 2, 5, 6, 7
+Cuadritonica 69| 3, 5, 6, 7
+Cuadritonica 70| 4, 5, 6, 7
+Cuadritonica 71| 0, 1, 2, 8
+Cuadritonica 72| 0, 1, 3, 8
+Cuadritonica 73| 0, 2, 3, 8
+Cuadritonica 74| 1, 2, 3, 8
+Cuadritonica 75| 0, 1, 4, 8
+Cuadritonica 76| 0, 2, 4, 8
+Cuadritonica 77| 1, 2, 4, 8
+Cuadritonica 78| 0, 3, 4, 8
+Cuadritonica 79| 1, 3, 4, 8
+Cuadritonica 80| 2, 3, 4, 8
+Cuadritonica 81| 0, 1, 5, 8
+Cuadritonica 82| 0, 2, 5, 8
+Cuadritonica 83| 1, 2, 5, 8
+Cuadritonica 84| 0, 3, 5, 8
+Cuadritonica 85| 1, 3, 5, 8
+Cuadritonica 86| 2, 3, 5, 8
+Cuadritonica 87| 0, 4, 5, 8
+Cuadritonica 88| 1, 4, 5, 8
+Cuadritonica 89| 2, 4, 5, 8
+Cuadritonica 90| 3, 4, 5, 8
+Cuadritonica 91| 0, 1, 6, 8
+Cuadritonica 92| 0, 2, 6, 8
+Cuadritonica 93| 1, 2, 6, 8
+Cuadritonica 94| 0, 3, 6, 8
+Cuadritonica 95| 1, 3, 6, 8
+Cuadritonica 96| 2, 3, 6, 8
+Cuadritonica 97| 0, 4, 6, 8
+Cuadritonica 98| 1, 4, 6, 8
+Cuadritonica 99| 2, 4, 6, 8
+Cuadritonica 100| 3, 4, 6, 8
+Cuadritonica 101| 0, 5, 6, 8
+Cuadritonica 102| 1, 5, 6, 8
+Cuadritonica 103| 2, 5, 6, 8
+Cuadritonica 104| 3, 5, 6, 8
+Cuadritonica 105| 4, 5, 6, 8
+Cuadritonica 106| 0, 1, 7, 8
+Cuadritonica 107| 0, 2, 7, 8
+Cuadritonica 108| 1, 2, 7, 8
+Cuadritonica 109| 0, 3, 7, 8
+Cuadritonica 110| 1, 3, 7, 8
+Cuadritonica 111| 2, 3, 7, 8
+Cuadritonica 112| 0, 4, 7, 8
+Cuadritonica 113| 1, 4, 7, 8
+Cuadritonica 114| 2, 4, 7, 8
+Cuadritonica 115| 3, 4, 7, 8
+Cuadritonica 116| 0, 5, 7, 8
+Cuadritonica 117| 1, 5, 7, 8
+Cuadritonica 118| 2, 5, 7, 8
+Cuadritonica 119| 3, 5, 7, 8
+Cuadritonica 120| 4, 5, 7, 8
+Cuadritonica 121| 0, 6, 7, 8
+Cuadritonica 122| 1, 6, 7, 8
+Cuadritonica 123| 2, 6, 7, 8
+Cuadritonica 124| 3, 6, 7, 8
+Cuadritonica 125| 4, 6, 7, 8
+Cuadritonica 126| 5, 6, 7, 8
+Cuadritonica 127| 0, 1, 2, 9
+Cuadritonica 128| 0, 1, 3, 9
+Cuadritonica 129| 0, 2, 3, 9
+Cuadritonica 130| 1, 2, 3, 9
+Cuadritonica 131| 0, 1, 4, 9
+Cuadritonica 132| 0, 2, 4, 9
+Cuadritonica 133| 1, 2, 4, 9
+Cuadritonica 134| 0, 3, 4, 9
+Cuadritonica 135| 1, 3, 4, 9
+Cuadritonica 136| 2, 3, 4, 9
+Cuadritonica 137| 0, 1, 5, 9
+Cuadritonica 138| 0, 2, 5, 9
+Cuadritonica 139| 1, 2, 5, 9
+Cuadritonica 140| 0, 3, 5, 9
+Cuadritonica 141| 1, 3, 5, 9
+Cuadritonica 142| 2, 3, 5, 9
+Cuadritonica 143| 0, 4, 5, 9
+Cuadritonica 144| 1, 4, 5, 9
+Cuadritonica 145| 2, 4, 5, 9
+Cuadritonica 146| 3, 4, 5, 9
+Cuadritonica 147| 0, 1, 6, 9
+Cuadritonica 148| 0, 2, 6, 9
+Cuadritonica 149| 1, 2, 6, 9
+Cuadritonica 150| 0, 3, 6, 9
+Cuadritonica 151| 1, 3, 6, 9
+Cuadritonica 152| 2, 3, 6, 9
+Cuadritonica 153| 0, 4, 6, 9
+Cuadritonica 154| 1, 4, 6, 9
+Cuadritonica 155| 2, 4, 6, 9
+Cuadritonica 156| 3, 4, 6, 9
+Cuadritonica 157| 0, 5, 6, 9
+Cuadritonica 158| 1, 5, 6, 9
+Cuadritonica 159| 2, 5, 6, 9
+Cuadritonica 160| 3, 5, 6, 9
+Cuadritonica 161| 4, 5, 6, 9
+Cuadritonica 162| 0, 1, 7, 9
+Cuadritonica 163| 0, 2, 7, 9
+Cuadritonica 164| 1, 2, 7, 9
+Cuadritonica 165| 0, 3, 7, 9
+Cuadritonica 166| 1, 3, 7, 9
+Cuadritonica 167| 2, 3, 7, 9
+Cuadritonica 168| 0, 4, 7, 9
+Cuadritonica 169| 1, 4, 7, 9
+Cuadritonica 170| 2, 4, 7, 9
+Cuadritonica 171| 3, 4, 7, 9
+Cuadritonica 172| 0, 5, 7, 9
+Cuadritonica 173| 1, 5, 7, 9
+Cuadritonica 174| 2, 5, 7, 9
+Cuadritonica 175| 3, 5, 7, 9
+Cuadritonica 176| 4, 5, 7, 9
+Cuadritonica 177| 0, 6, 7, 9
+Cuadritonica 178| 1, 6, 7, 9
+Cuadritonica 179| 2, 6, 7, 9
+Cuadritonica 180| 3, 6, 7, 9
+Cuadritonica 181| 4, 6, 7, 9
+Cuadritonica 182| 5, 6, 7, 9
+Cuadritonica 183| 0, 1, 8, 9
+Cuadritonica 184| 0, 2, 8, 9
+Cuadritonica 185| 1, 2, 8, 9
+Cuadritonica 186| 0, 3, 8, 9
+Cuadritonica 187| 1, 3, 8, 9
+Cuadritonica 188| 2, 3, 8, 9
+Cuadritonica 189| 0, 4, 8, 9
+Cuadritonica 190| 1, 4, 8, 9
+Cuadritonica 191| 2, 4, 8, 9
+Cuadritonica 192| 3, 4, 8, 9
+Cuadritonica 193| 0, 5, 8, 9
+Cuadritonica 194| 1, 5, 8, 9
+Cuadritonica 195| 2, 5, 8, 9
+Cuadritonica 196| 3, 5, 8, 9
+Cuadritonica 197| 4, 5, 8, 9
+Cuadritonica 198| 0, 6, 8, 9
+Cuadritonica 199| 1, 6, 8, 9
+Cuadritonica 200| 2, 6, 8, 9
+Cuadritonica 201| 3, 6, 8, 9
+Cuadritonica 202| 4, 6, 8, 9
+Cuadritonica 203| 5, 6, 8, 9
+Cuadritonica 204| 0, 7, 8, 9
+Cuadritonica 205| 1, 7, 8, 9
+Cuadritonica 206| 2, 7, 8, 9
+Cuadritonica 207| 3, 7, 8, 9
+Cuadritonica 208| 4, 7, 8, 9
+Cuadritonica 209| 5, 7, 8, 9
+Cuadritonica 210| 6, 7, 8, 9
+Cuadritonica 211| 0, 1, 2,10
+Cuadritonica 212| 0, 1, 3,10
+Cuadritonica 213| 0, 2, 3,10
+Cuadritonica 214| 1, 2, 3,10
+Cuadritonica 215| 0, 1, 4,10
+Cuadritonica 216| 0, 2, 4,10
+Cuadritonica 217| 1, 2, 4,10
+Cuadritonica 218| 0, 3, 4,10
+Cuadritonica 219| 1, 3, 4,10
+Cuadritonica 220| 2, 3, 4,10
+Cuadritonica 221| 0, 1, 5,10
+Cuadritonica 222| 0, 2, 5,10
+Cuadritonica 223| 1, 2, 5,10
+Cuadritonica 224| 0, 3, 5,10
+Cuadritonica 225| 1, 3, 5,10
+Cuadritonica 226| 2, 3, 5,10
+Cuadritonica 227| 0, 4, 5,10
+Cuadritonica 228| 1, 4, 5,10
+Cuadritonica 229| 2, 4, 5,10
+Cuadritonica 230| 3, 4, 5,10
+Cuadritonica 231| 0, 1, 6,10
+Cuadritonica 232| 0, 2, 6,10
+Cuadritonica 233| 1, 2, 6,10
+Cuadritonica 234| 0, 3, 6,10
+Cuadritonica 235| 1, 3, 6,10
+Cuadritonica 236| 2, 3, 6,10
+Cuadritonica 237| 0, 4, 6,10
+Cuadritonica 238| 1, 4, 6,10
+Cuadritonica 239| 2, 4, 6,10
+Cuadritonica 240| 3, 4, 6,10
+Cuadritonica 241| 0, 5, 6,10
+Cuadritonica 242| 1, 5, 6,10
+Cuadritonica 243| 2, 5, 6,10
+Cuadritonica 244| 3, 5, 6,10
+Cuadritonica 245| 4, 5, 6,10
+Cuadritonica 246| 0, 1, 7,10
+Cuadritonica 247| 0, 2, 7,10
+Cuadritonica 248| 1, 2, 7,10
+Cuadritonica 249| 0, 3, 7,10
+Cuadritonica 250| 1, 3, 7,10
+Cuadritonica 251| 2, 3, 7,10
+Cuadritonica 252| 0, 4, 7,10
+Cuadritonica 253| 1, 4, 7,10
+Cuadritonica 254| 2, 4, 7,10
+Cuadritonica 255| 3, 4, 7,10
+Cuadritonica 256| 0, 5, 7,10
+Cuadritonica 257| 1, 5, 7,10
+Cuadritonica 258| 2, 5, 7,10
+Cuadritonica 259| 3, 5, 7,10
+Cuadritonica 260| 4, 5, 7,10
+Cuadritonica 261| 0, 6, 7,10
+Cuadritonica 262| 1, 6, 7,10
+Cuadritonica 263| 2, 6, 7,10
+Cuadritonica 264| 3, 6, 7,10
+Cuadritonica 265| 4, 6, 7,10
+Cuadritonica 266| 5, 6, 7,10
+Cuadritonica 267| 0, 1, 8,10
+Cuadritonica 268| 0, 2, 8,10
+Cuadritonica 269| 1, 2, 8,10
+Cuadritonica 270| 0, 3, 8,10
+Cuadritonica 271| 1, 3, 8,10
+Cuadritonica 272| 2, 3, 8,10
+Cuadritonica 273| 0, 4, 8,10
+Cuadritonica 274| 1, 4, 8,10
+Cuadritonica 275| 2, 4, 8,10
+Cuadritonica 276| 3, 4, 8,10
+Cuadritonica 277| 0, 5, 8,10
+Cuadritonica 278| 1, 5, 8,10
+Cuadritonica 279| 2, 5, 8,10
+Cuadritonica 280| 3, 5, 8,10
+Cuadritonica 281| 4, 5, 8,10
+Cuadritonica 282| 0, 6, 8,10
+Cuadritonica 283| 1, 6, 8,10
+Cuadritonica 284| 2, 6, 8,10
+Cuadritonica 285| 3, 6, 8,10
+Cuadritonica 286| 4, 6, 8,10
+Cuadritonica 287| 5, 6, 8,10
+Cuadritonica 288| 0, 7, 8,10
+Cuadritonica 289| 1, 7, 8,10
+Cuadritonica 290| 2, 7, 8,10
+Cuadritonica 291| 3, 7, 8,10
+Cuadritonica 292| 4, 7, 8,10
+Cuadritonica 293| 5, 7, 8,10
+Cuadritonica 294| 6, 7, 8,10
+Cuadritonica 295| 0, 1, 9,10
+Cuadritonica 296| 0, 2, 9,10
+Cuadritonica 297| 1, 2, 9,10
+Cuadritonica 298| 0, 3, 9,10
+Cuadritonica 299| 1, 3, 9,10
+Cuadritonica 300| 2, 3, 9,10
+Cuadritonica 301| 0, 4, 9,10
+Cuadritonica 302| 1, 4, 9,10
+Cuadritonica 303| 2, 4, 9,10
+Cuadritonica 304| 3, 4, 9,10
+Cuadritonica 305| 0, 5, 9,10
+Cuadritonica 306| 1, 5, 9,10
+Cuadritonica 307| 2, 5, 9,10
+Cuadritonica 308| 3, 5, 9,10
+Cuadritonica 309| 4, 5, 9,10
+Cuadritonica 310| 0, 6, 9,10
+Cuadritonica 311| 1, 6, 9,10
+Cuadritonica 312| 2, 6, 9,10
+Cuadritonica 313| 3, 6, 9,10
+Cuadritonica 314| 4, 6, 9,10
+Cuadritonica 315| 5, 6, 9,10
+Cuadritonica 316| 0, 7, 9,10
+Cuadritonica 317| 1, 7, 9,10
+Cuadritonica 318| 2, 7, 9,10
+Cuadritonica 319| 3, 7, 9,10
+Cuadritonica 320| 4, 7, 9,10
+Cuadritonica 321| 5, 7, 9,10
+Cuadritonica 322| 6, 7, 9,10
+Cuadritonica 323| 0, 8, 9,10
+Cuadritonica 324| 1, 8, 9,10
+Cuadritonica 325| 2, 8, 9,10
+Cuadritonica 326| 3, 8, 9,10
+Cuadritonica 327| 4, 8, 9,10
+Cuadritonica 328| 5, 8, 9,10
+Cuadritonica 329| 6, 8, 9,10
+Cuadritonica 330| 7, 8, 9,10
+Cuadritonica 331| 0, 1, 2,11
+Cuadritonica 332| 0, 1, 3,11
+Cuadritonica 333| 0, 2, 3,11
+Cuadritonica 334| 1, 2, 3,11
+Cuadritonica 335| 0, 1, 4,11
+Cuadritonica 336| 0, 2, 4,11
+Cuadritonica 337| 1, 2, 4,11
+Cuadritonica 338| 0, 3, 4,11
+Cuadritonica 339| 1, 3, 4,11
+Cuadritonica 340| 2, 3, 4,11
+Cuadritonica 341| 0, 1, 5,11
+Cuadritonica 342| 0, 2, 5,11
+Cuadritonica 343| 1, 2, 5,11
+Cuadritonica 344| 0, 3, 5,11
+Cuadritonica 345| 1, 3, 5,11
+Cuadritonica 346| 2, 3, 5,11
+Cuadritonica 347| 0, 4, 5,11
+Cuadritonica 348| 1, 4, 5,11
+Cuadritonica 349| 2, 4, 5,11
+Cuadritonica 350| 3, 4, 5,11
+Cuadritonica 351| 0, 1, 6,11
+Cuadritonica 352| 0, 2, 6,11
+Cuadritonica 353| 1, 2, 6,11
+Cuadritonica 354| 0, 3, 6,11
+Cuadritonica 355| 1, 3, 6,11
+Cuadritonica 356| 2, 3, 6,11
+Cuadritonica 357| 0, 4, 6,11
+Cuadritonica 358| 1, 4, 6,11
+Cuadritonica 359| 2, 4, 6,11
+Cuadritonica 360| 3, 4, 6,11
+Cuadritonica 361| 0, 5, 6,11
+Cuadritonica 362| 1, 5, 6,11
+Cuadritonica 363| 2, 5, 6,11
+Cuadritonica 364| 3, 5, 6,11
+Cuadritonica 365| 4, 5, 6,11
+Cuadritonica 366| 0, 1, 7,11
+Cuadritonica 367| 0, 2, 7,11
+Cuadritonica 368| 1, 2, 7,11
+Cuadritonica 369| 0, 3, 7,11
+Cuadritonica 370| 1, 3, 7,11
+Cuadritonica 371| 2, 3, 7,11
+Cuadritonica 372| 0, 4, 7,11
+Cuadritonica 373| 1, 4, 7,11
+Cuadritonica 374| 2, 4, 7,11
+Cuadritonica 375| 3, 4, 7,11
+Cuadritonica 376| 0, 5, 7,11
+Cuadritonica 377| 1, 5, 7,11
+Cuadritonica 378| 2, 5, 7,11
+Cuadritonica 379| 3, 5, 7,11
+Cuadritonica 380| 4, 5, 7,11
+Cuadritonica 381| 0, 6, 7,11
+Cuadritonica 382| 1, 6, 7,11
+Cuadritonica 383| 2, 6, 7,11
+Cuadritonica 384| 3, 6, 7,11
+Cuadritonica 385| 4, 6, 7,11
+Cuadritonica 386| 5, 6, 7,11
+Cuadritonica 387| 0, 1, 8,11
+Cuadritonica 388| 0, 2, 8,11
+Cuadritonica 389| 1, 2, 8,11
+Cuadritonica 390| 0, 3, 8,11
+Cuadritonica 391| 1, 3, 8,11
+Cuadritonica 392| 2, 3, 8,11
+Cuadritonica 393| 0, 4, 8,11
+Cuadritonica 394| 1, 4, 8,11
+Cuadritonica 395| 2, 4, 8,11
+Cuadritonica 396| 3, 4, 8,11
+Cuadritonica 397| 0, 5, 8,11
+Cuadritonica 398| 1, 5, 8,11
+Cuadritonica 399| 2, 5, 8,11
+Cuadritonica 400| 3, 5, 8,11
+Cuadritonica 401| 4, 5, 8,11
+Cuadritonica 402| 0, 6, 8,11
+Cuadritonica 403| 1, 6, 8,11
+Cuadritonica 404| 2, 6, 8,11
+Cuadritonica 405| 3, 6, 8,11
+Cuadritonica 406| 4, 6, 8,11
+Cuadritonica 407| 5, 6, 8,11
+Cuadritonica 408| 0, 7, 8,11
+Cuadritonica 409| 1, 7, 8,11
+Cuadritonica 410| 2, 7, 8,11
+Cuadritonica 411| 3, 7, 8,11
+Cuadritonica 412| 4, 7, 8,11
+Cuadritonica 413| 5, 7, 8,11
+Cuadritonica 414| 6, 7, 8,11
+Cuadritonica 415| 0, 1, 9,11
+Cuadritonica 416| 0, 2, 9,11
+Cuadritonica 417| 1, 2, 9,11
+Cuadritonica 418| 0, 3, 9,11
+Cuadritonica 419| 1, 3, 9,11
+Cuadritonica 420| 2, 3, 9,11
+Cuadritonica 421| 0, 4, 9,11
+Cuadritonica 422| 1, 4, 9,11
+Cuadritonica 423| 2, 4, 9,11
+Cuadritonica 424| 3, 4, 9,11
+Cuadritonica 425| 0, 5, 9,11
+Cuadritonica 426| 1, 5, 9,11
+Cuadritonica 427| 2, 5, 9,11
+Cuadritonica 428| 3, 5, 9,11
+Cuadritonica 429| 4, 5, 9,11
+Cuadritonica 430| 0, 6, 9,11
+Cuadritonica 431| 1, 6, 9,11
+Cuadritonica 432| 2, 6, 9,11
+Cuadritonica 433| 3, 6, 9,11
+Cuadritonica 434| 4, 6, 9,11
+Cuadritonica 435| 5, 6, 9,11
+Cuadritonica 436| 0, 7, 9,11
+Cuadritonica 437| 1, 7, 9,11
+Cuadritonica 438| 2, 7, 9,11
+Cuadritonica 439| 3, 7, 9,11
+Cuadritonica 440| 4, 7, 9,11
+Cuadritonica 441| 5, 7, 9,11
+Cuadritonica 442| 6, 7, 9,11
+Cuadritonica 443| 0, 8, 9,11
+Cuadritonica 444| 1, 8, 9,11
+Cuadritonica 445| 2, 8, 9,11
+Cuadritonica 446| 3, 8, 9,11
+Cuadritonica 447| 4, 8, 9,11
+Cuadritonica 448| 5, 8, 9,11
+Cuadritonica 449| 6, 8, 9,11
+Cuadritonica 450| 7, 8, 9,11
+Cuadritonica 451| 0, 1,10,11
+Cuadritonica 452| 0, 2,10,11
+Cuadritonica 453| 1, 2,10,11
+Cuadritonica 454| 0, 3,10,11
+Cuadritonica 455| 1, 3,10,11
+Cuadritonica 456| 2, 3,10,11
+Cuadritonica 457| 0, 4,10,11
+Cuadritonica 458| 1, 4,10,11
+Cuadritonica 459| 2, 4,10,11
+Cuadritonica 460| 3, 4,10,11
+Cuadritonica 461| 0, 5,10,11
+Cuadritonica 462| 1, 5,10,11
+Cuadritonica 463| 2, 5,10,11
+Cuadritonica 464| 3, 5,10,11
+Cuadritonica 465| 4, 5,10,11
+Cuadritonica 466| 0, 6,10,11
+Cuadritonica 467| 1, 6,10,11
+Cuadritonica 468| 2, 6,10,11
+Cuadritonica 469| 3, 6,10,11
+Cuadritonica 470| 4, 6,10,11
+Cuadritonica 471| 5, 6,10,11
+Cuadritonica 472| 0, 7,10,11
+Cuadritonica 473| 1, 7,10,11
+Cuadritonica 474| 2, 7,10,11
+Cuadritonica 475| 3, 7,10,11
+Cuadritonica 476| 4, 7,10,11
+Cuadritonica 477| 5, 7,10,11
+Cuadritonica 478| 6, 7,10,11
+Cuadritonica 479| 0, 8,10,11
+Cuadritonica 480| 1, 8,10,11
+Cuadritonica 481| 2, 8,10,11
+Cuadritonica 482| 3, 8,10,11
+Cuadritonica 483| 4, 8,10,11
+Cuadritonica 484| 5, 8,10,11
+Cuadritonica 485| 6, 8,10,11
+Cuadritonica 486| 7, 8,10,11
+Cuadritonica 487| 0, 9,10,11
+Cuadritonica 488| 1, 9,10,11
+Cuadritonica 489| 2, 9,10,11
+Cuadritonica 490| 3, 9,10,11
+Cuadritonica 491| 4, 9,10,11
+Cuadritonica 492| 5, 9,10,11
+Cuadritonica 493| 6, 9,10,11
+Cuadritonica 494| 7, 9,10,11
+Cuadritonica 495| 8, 9,10,11
+Pentatonica 1| 0, 1, 2, 3, 4
+Pentatonica 2| 0, 1, 2, 3, 5
+Pentatonica 3| 0, 1, 2, 4, 5
+Pentatonica 4| 0, 1, 3, 4, 5
+Pentatonica 5| 0, 2, 3, 4, 5
+Pentatonica 6| 1, 2, 3, 4, 5
+Pentatonica 7| 0, 1, 2, 3, 6
+Pentatonica 8| 0, 1, 2, 4, 6
+Pentatonica 9| 0, 1, 3, 4, 6
+Pentatonica 10| 0, 2, 3, 4, 6
+Pentatonica 11| 1, 2, 3, 4, 6
+Pentatonica 12| 0, 1, 2, 5, 6
+Pentatonica 13| 0, 1, 3, 5, 6
+Pentatonica 14| 0, 2, 3, 5, 6
+Pentatonica 15| 1, 2, 3, 5, 6
+Pentatonica 16| 0, 1, 4, 5, 6
+Pentatonica 17| 0, 2, 4, 5, 6
+Pentatonica 18| 1, 2, 4, 5, 6
+Pentatonica 19| 0, 3, 4, 5, 6
+Pentatonica 20| 1, 3, 4, 5, 6
+Pentatonica 21| 2, 3, 4, 5, 6
+Pentatonica 22| 0, 1, 2, 3, 7
+Pentatonica 23| 0, 1, 2, 4, 7
+Pentatonica 24| 0, 1, 3, 4, 7
+Pentatonica 25| 0, 2, 3, 4, 7
+Pentatonica 26| 1, 2, 3, 4, 7
+Pentatonica 27| 0, 1, 2, 5, 7
+Pentatonica 28| 0, 1, 3, 5, 7
+Pentatonica 29| 0, 2, 3, 5, 7
+Pentatonica 30| 1, 2, 3, 5, 7
+Pentatonica 31| 0, 1, 4, 5, 7
+Pentatonica 32| 0, 2, 4, 5, 7
+Pentatonica 33| 1, 2, 4, 5, 7
+Pentatonica 34| 0, 3, 4, 5, 7
+Pentatonica 35| 1, 3, 4, 5, 7
+Pentatonica 36| 2, 3, 4, 5, 7
+Pentatonica 37| 0, 1, 2, 6, 7
+Pentatonica 38| 0, 1, 3, 6, 7
+Pentatonica 39| 0, 2, 3, 6, 7
+Pentatonica 40| 1, 2, 3, 6, 7
+Pentatonica 41| 0, 1, 4, 6, 7
+Pentatonica 42| 0, 2, 4, 6, 7
+Pentatonica 43| 1, 2, 4, 6, 7
+Pentatonica 44| 0, 3, 4, 6, 7
+Pentatonica 45| 1, 3, 4, 6, 7
+Pentatonica 46| 2, 3, 4, 6, 7
+Pentatonica 47| 0, 1, 5, 6, 7
+Pentatonica 48| 0, 2, 5, 6, 7
+Pentatonica 49| 1, 2, 5, 6, 7
+Pentatonica 50| 0, 3, 5, 6, 7
+Pentatonica 51| 1, 3, 5, 6, 7
+Pentatonica 52| 2, 3, 5, 6, 7
+Pentatonica 53| 0, 4, 5, 6, 7
+Pentatonica 54| 1, 4, 5, 6, 7
+Pentatonica 55| 2, 4, 5, 6, 7
+Pentatonica 56| 3, 4, 5, 6, 7
+Pentatonica 57| 0, 1, 2, 3, 8
+Pentatonica 58| 0, 1, 2, 4, 8
+Pentatonica 59| 0, 1, 3, 4, 8
+Pentatonica 60| 0, 2, 3, 4, 8
+Pentatonica 61| 1, 2, 3, 4, 8
+Pentatonica 62| 0, 1, 2, 5, 8
+Pentatonica 63| 0, 1, 3, 5, 8
+Pentatonica 64| 0, 2, 3, 5, 8
+Pentatonica 65| 1, 2, 3, 5, 8
+Pentatonica 66| 0, 1, 4, 5, 8
+Pentatonica 67| 0, 2, 4, 5, 8
+Pentatonica 68| 1, 2, 4, 5, 8
+Pentatonica 69| 0, 3, 4, 5, 8
+Pentatonica 70| 1, 3, 4, 5, 8
+Pentatonica 71| 2, 3, 4, 5, 8
+Pentatonica 72| 0, 1, 2, 6, 8
+Pentatonica 73| 0, 1, 3, 6, 8
+Pentatonica 74| 0, 2, 3, 6, 8
+Pentatonica 75| 1, 2, 3, 6, 8
+Pentatonica 76| 0, 1, 4, 6, 8
+Pentatonica 77| 0, 2, 4, 6, 8
+Pentatonica 78| 1, 2, 4, 6, 8
+Pentatonica 79| 0, 3, 4, 6, 8
+Pentatonica 80| 1, 3, 4, 6, 8
+Pentatonica 81| 2, 3, 4, 6, 8
+Pentatonica 82| 0, 1, 5, 6, 8
+Pentatonica 83| 0, 2, 5, 6, 8
+Pentatonica 84| 1, 2, 5, 6, 8
+Pentatonica 85| 0, 3, 5, 6, 8
+Pentatonica 86| 1, 3, 5, 6, 8
+Pentatonica 87| 2, 3, 5, 6, 8
+Pentatonica 88| 0, 4, 5, 6, 8
+Pentatonica 89| 1, 4, 5, 6, 8
+Pentatonica 90| 2, 4, 5, 6, 8
+Pentatonica 91| 3, 4, 5, 6, 8
+Pentatonica 92| 0, 1, 2, 7, 8
+Pentatonica 93| 0, 1, 3, 7, 8
+Pentatonica 94| 0, 2, 3, 7, 8
+Pentatonica 95| 1, 2, 3, 7, 8
+Pentatonica 96| 0, 1, 4, 7, 8
+Pentatonica 97| 0, 2, 4, 7, 8
+Pentatonica 98| 1, 2, 4, 7, 8
+Pentatonica 99| 0, 3, 4, 7, 8
+Pentatonica 100| 1, 3, 4, 7, 8
+Pentatonica 101| 2, 3, 4, 7, 8
+Pentatonica 102| 0, 1, 5, 7, 8
+Pentatonica 103| 0, 2, 5, 7, 8
+Pentatonica 104| 1, 2, 5, 7, 8
+Pentatonica 105| 0, 3, 5, 7, 8
+Pentatonica 106| 1, 3, 5, 7, 8
+Pentatonica 107| 2, 3, 5, 7, 8
+Pentatonica 108| 0, 4, 5, 7, 8
+Pentatonica 109| 1, 4, 5, 7, 8
+Pentatonica 110| 2, 4, 5, 7, 8
+Pentatonica 111| 3, 4, 5, 7, 8
+Pentatonica 112| 0, 1, 6, 7, 8
+Pentatonica 113| 0, 2, 6, 7, 8
+Pentatonica 114| 1, 2, 6, 7, 8
+Pentatonica 115| 0, 3, 6, 7, 8
+Pentatonica 116| 1, 3, 6, 7, 8
+Pentatonica 117| 2, 3, 6, 7, 8
+Pentatonica 118| 0, 4, 6, 7, 8
+Pentatonica 119| 1, 4, 6, 7, 8
+Pentatonica 120| 2, 4, 6, 7, 8
+Pentatonica 121| 3, 4, 6, 7, 8
+Pentatonica 122| 0, 5, 6, 7, 8
+Pentatonica 123| 1, 5, 6, 7, 8
+Pentatonica 124| 2, 5, 6, 7, 8
+Pentatonica 125| 3, 5, 6, 7, 8
+Pentatonica 126| 4, 5, 6, 7, 8
+Pentatonica 127| 0, 1, 2, 3, 9
+Pentatonica 128| 0, 1, 2, 4, 9
+Pentatonica 129| 0, 1, 3, 4, 9
+Pentatonica 130| 0, 2, 3, 4, 9
+Pentatonica 131| 1, 2, 3, 4, 9
+Pentatonica 132| 0, 1, 2, 5, 9
+Pentatonica 133| 0, 1, 3, 5, 9
+Pentatonica 134| 0, 2, 3, 5, 9
+Pentatonica 135| 1, 2, 3, 5, 9
+Pentatonica 136| 0, 1, 4, 5, 9
+Pentatonica 137| 0, 2, 4, 5, 9
+Pentatonica 138| 1, 2, 4, 5, 9
+Pentatonica 139| 0, 3, 4, 5, 9
+Pentatonica 140| 1, 3, 4, 5, 9
+Pentatonica 141| 2, 3, 4, 5, 9
+Pentatonica 142| 0, 1, 2, 6, 9
+Pentatonica 143| 0, 1, 3, 6, 9
+Pentatonica 144| 0, 2, 3, 6, 9
+Pentatonica 145| 1, 2, 3, 6, 9
+Pentatonica 146| 0, 1, 4, 6, 9
+Pentatonica 147| 0, 2, 4, 6, 9
+Pentatonica 148| 1, 2, 4, 6, 9
+Pentatonica 149| 0, 3, 4, 6, 9
+Pentatonica 150| 1, 3, 4, 6, 9
+Pentatonica 151| 2, 3, 4, 6, 9
+Pentatonica 152| 0, 1, 5, 6, 9
+Pentatonica 153| 0, 2, 5, 6, 9
+Pentatonica 154| 1, 2, 5, 6, 9
+Pentatonica 155| 0, 3, 5, 6, 9
+Pentatonica 156| 1, 3, 5, 6, 9
+Pentatonica 157| 2, 3, 5, 6, 9
+Pentatonica 158| 0, 4, 5, 6, 9
+Pentatonica 159| 1, 4, 5, 6, 9
+Pentatonica 160| 2, 4, 5, 6, 9
+Pentatonica 161| 3, 4, 5, 6, 9
+Pentatonica 162| 0, 1, 2, 7, 9
+Pentatonica 163| 0, 1, 3, 7, 9
+Pentatonica 164| 0, 2, 3, 7, 9
+Pentatonica 165| 1, 2, 3, 7, 9
+Pentatonica 166| 0, 1, 4, 7, 9
+Pentatonica 167| 0, 2, 4, 7, 9
+Pentatonica 168| 1, 2, 4, 7, 9
+Pentatonica 169| 0, 3, 4, 7, 9
+Pentatonica 170| 1, 3, 4, 7, 9
+Pentatonica 171| 2, 3, 4, 7, 9
+Pentatonica 172| 0, 1, 5, 7, 9
+Pentatonica 173| 0, 2, 5, 7, 9
+Pentatonica 174| 1, 2, 5, 7, 9
+Pentatonica 175| 0, 3, 5, 7, 9
+Pentatonica 176| 1, 3, 5, 7, 9
+Pentatonica 177| 2, 3, 5, 7, 9
+Pentatonica 178| 0, 4, 5, 7, 9
+Pentatonica 179| 1, 4, 5, 7, 9
+Pentatonica 180| 2, 4, 5, 7, 9
+Pentatonica 181| 3, 4, 5, 7, 9
+Pentatonica 182| 0, 1, 6, 7, 9
+Pentatonica 183| 0, 2, 6, 7, 9
+Pentatonica 184| 1, 2, 6, 7, 9
+Pentatonica 185| 0, 3, 6, 7, 9
+Pentatonica 186| 1, 3, 6, 7, 9
+Pentatonica 187| 2, 3, 6, 7, 9
+Pentatonica 188| 0, 4, 6, 7, 9
+Pentatonica 189| 1, 4, 6, 7, 9
+Pentatonica 190| 2, 4, 6, 7, 9
+Pentatonica 191| 3, 4, 6, 7, 9
+Pentatonica 192| 0, 5, 6, 7, 9
+Pentatonica 193| 1, 5, 6, 7, 9
+Pentatonica 194| 2, 5, 6, 7, 9
+Pentatonica 195| 3, 5, 6, 7, 9
+Pentatonica 196| 4, 5, 6, 7, 9
+Pentatonica 197| 0, 1, 2, 8, 9
+Pentatonica 198| 0, 1, 3, 8, 9
+Pentatonica 199| 0, 2, 3, 8, 9
+Pentatonica 200| 1, 2, 3, 8, 9
+Pentatonica 201| 0, 1, 4, 8, 9
+Pentatonica 202| 0, 2, 4, 8, 9
+Pentatonica 203| 1, 2, 4, 8, 9
+Pentatonica 204| 0, 3, 4, 8, 9
+Pentatonica 205| 1, 3, 4, 8, 9
+Pentatonica 206| 2, 3, 4, 8, 9
+Pentatonica 207| 0, 1, 5, 8, 9
+Pentatonica 208| 0, 2, 5, 8, 9
+Pentatonica 209| 1, 2, 5, 8, 9
+Pentatonica 210| 0, 3, 5, 8, 9
+Pentatonica 211| 1, 3, 5, 8, 9
+Pentatonica 212| 2, 3, 5, 8, 9
+Pentatonica 213| 0, 4, 5, 8, 9
+Pentatonica 214| 1, 4, 5, 8, 9
+Pentatonica 215| 2, 4, 5, 8, 9
+Pentatonica 216| 3, 4, 5, 8, 9
+Pentatonica 217| 0, 1, 6, 8, 9
+Pentatonica 218| 0, 2, 6, 8, 9
+Pentatonica 219| 1, 2, 6, 8, 9
+Pentatonica 220| 0, 3, 6, 8, 9
+Pentatonica 221| 1, 3, 6, 8, 9
+Pentatonica 222| 2, 3, 6, 8, 9
+Pentatonica 223| 0, 4, 6, 8, 9
+Pentatonica 224| 1, 4, 6, 8, 9
+Pentatonica 225| 2, 4, 6, 8, 9
+Pentatonica 226| 3, 4, 6, 8, 9
+Pentatonica 227| 0, 5, 6, 8, 9
+Pentatonica 228| 1, 5, 6, 8, 9
+Pentatonica 229| 2, 5, 6, 8, 9
+Pentatonica 230| 3, 5, 6, 8, 9
+Pentatonica 231| 4, 5, 6, 8, 9
+Pentatonica 232| 0, 1, 7, 8, 9
+Pentatonica 233| 0, 2, 7, 8, 9
+Pentatonica 234| 1, 2, 7, 8, 9
+Pentatonica 235| 0, 3, 7, 8, 9
+Pentatonica 236| 1, 3, 7, 8, 9
+Pentatonica 237| 2, 3, 7, 8, 9
+Pentatonica 238| 0, 4, 7, 8, 9
+Pentatonica 239| 1, 4, 7, 8, 9
+Pentatonica 240| 2, 4, 7, 8, 9
+Pentatonica 241| 3, 4, 7, 8, 9
+Pentatonica 242| 0, 5, 7, 8, 9
+Pentatonica 243| 1, 5, 7, 8, 9
+Pentatonica 244| 2, 5, 7, 8, 9
+Pentatonica 245| 3, 5, 7, 8, 9
+Pentatonica 246| 4, 5, 7, 8, 9
+Pentatonica 247| 0, 6, 7, 8, 9
+Pentatonica 248| 1, 6, 7, 8, 9
+Pentatonica 249| 2, 6, 7, 8, 9
+Pentatonica 250| 3, 6, 7, 8, 9
+Pentatonica 251| 4, 6, 7, 8, 9
+Pentatonica 252| 5, 6, 7, 8, 9
+Pentatonica 253| 0, 1, 2, 3,10
+Pentatonica 254| 0, 1, 2, 4,10
+Pentatonica 255| 0, 1, 3, 4,10
+Pentatonica 256| 0, 2, 3, 4,10
+Pentatonica 257| 1, 2, 3, 4,10
+Pentatonica 258| 0, 1, 2, 5,10
+Pentatonica 259| 0, 1, 3, 5,10
+Pentatonica 260| 0, 2, 3, 5,10
+Pentatonica 261| 1, 2, 3, 5,10
+Pentatonica 262| 0, 1, 4, 5,10
+Pentatonica 263| 0, 2, 4, 5,10
+Pentatonica 264| 1, 2, 4, 5,10
+Pentatonica 265| 0, 3, 4, 5,10
+Pentatonica 266| 1, 3, 4, 5,10
+Pentatonica 267| 2, 3, 4, 5,10
+Pentatonica 268| 0, 1, 2, 6,10
+Pentatonica 269| 0, 1, 3, 6,10
+Pentatonica 270| 0, 2, 3, 6,10
+Pentatonica 271| 1, 2, 3, 6,10
+Pentatonica 272| 0, 1, 4, 6,10
+Pentatonica 273| 0, 2, 4, 6,10
+Pentatonica 274| 1, 2, 4, 6,10
+Pentatonica 275| 0, 3, 4, 6,10
+Pentatonica 276| 1, 3, 4, 6,10
+Pentatonica 277| 2, 3, 4, 6,10
+Pentatonica 278| 0, 1, 5, 6,10
+Pentatonica 279| 0, 2, 5, 6,10
+Pentatonica 280| 1, 2, 5, 6,10
+Pentatonica 281| 0, 3, 5, 6,10
+Pentatonica 282| 1, 3, 5, 6,10
+Pentatonica 283| 2, 3, 5, 6,10
+Pentatonica 284| 0, 4, 5, 6,10
+Pentatonica 285| 1, 4, 5, 6,10
+Pentatonica 286| 2, 4, 5, 6,10
+Pentatonica 287| 3, 4, 5, 6,10
+Pentatonica 288| 0, 1, 2, 7,10
+Pentatonica 289| 0, 1, 3, 7,10
+Pentatonica 290| 0, 2, 3, 7,10
+Pentatonica 291| 1, 2, 3, 7,10
+Pentatonica 292| 0, 1, 4, 7,10
+Pentatonica 293| 0, 2, 4, 7,10
+Pentatonica 294| 1, 2, 4, 7,10
+Pentatonica 295| 0, 3, 4, 7,10
+Pentatonica 296| 1, 3, 4, 7,10
+Pentatonica 297| 2, 3, 4, 7,10
+Pentatonica 298| 0, 1, 5, 7,10
+Pentatonica 299| 0, 2, 5, 7,10
+Pentatonica 300| 1, 2, 5, 7,10
+Pentatonica 301| 0, 3, 5, 7,10
+Pentatonica 302| 1, 3, 5, 7,10
+Pentatonica 303| 2, 3, 5, 7,10
+Pentatonica 304| 0, 4, 5, 7,10
+Pentatonica 305| 1, 4, 5, 7,10
+Pentatonica 306| 2, 4, 5, 7,10
+Pentatonica 307| 3, 4, 5, 7,10
+Pentatonica 308| 0, 1, 6, 7,10
+Pentatonica 309| 0, 2, 6, 7,10
+Pentatonica 310| 1, 2, 6, 7,10
+Pentatonica 311| 0, 3, 6, 7,10
+Pentatonica 312| 1, 3, 6, 7,10
+Pentatonica 313| 2, 3, 6, 7,10
+Pentatonica 314| 0, 4, 6, 7,10
+Pentatonica 315| 1, 4, 6, 7,10
+Pentatonica 316| 2, 4, 6, 7,10
+Pentatonica 317| 3, 4, 6, 7,10
+Pentatonica 318| 0, 5, 6, 7,10
+Pentatonica 319| 1, 5, 6, 7,10
+Pentatonica 320| 2, 5, 6, 7,10
+Pentatonica 321| 3, 5, 6, 7,10
+Pentatonica 322| 4, 5, 6, 7,10
+Pentatonica 323| 0, 1, 2, 8,10
+Pentatonica 324| 0, 1, 3, 8,10
+Pentatonica 325| 0, 2, 3, 8,10
+Pentatonica 326| 1, 2, 3, 8,10
+Pentatonica 327| 0, 1, 4, 8,10
+Pentatonica 328| 0, 2, 4, 8,10
+Pentatonica 329| 1, 2, 4, 8,10
+Pentatonica 330| 0, 3, 4, 8,10
+Pentatonica 331| 1, 3, 4, 8,10
+Pentatonica 332| 2, 3, 4, 8,10
+Pentatonica 333| 0, 1, 5, 8,10
+Pentatonica 334| 0, 2, 5, 8,10
+Pentatonica 335| 1, 2, 5, 8,10
+Pentatonica 336| 0, 3, 5, 8,10
+Pentatonica 337| 1, 3, 5, 8,10
+Pentatonica 338| 2, 3, 5, 8,10
+Pentatonica 339| 0, 4, 5, 8,10
+Pentatonica 340| 1, 4, 5, 8,10
+Pentatonica 341| 2, 4, 5, 8,10
+Pentatonica 342| 3, 4, 5, 8,10
+Pentatonica 343| 0, 1, 6, 8,10
+Pentatonica 344| 0, 2, 6, 8,10
+Pentatonica 345| 1, 2, 6, 8,10
+Pentatonica 346| 0, 3, 6, 8,10
+Pentatonica 347| 1, 3, 6, 8,10
+Pentatonica 348| 2, 3, 6, 8,10
+Pentatonica 349| 0, 4, 6, 8,10
+Pentatonica 350| 1, 4, 6, 8,10
+Pentatonica 351| 2, 4, 6, 8,10
+Pentatonica 352| 3, 4, 6, 8,10
+Pentatonica 353| 0, 5, 6, 8,10
+Pentatonica 354| 1, 5, 6, 8,10
+Pentatonica 355| 2, 5, 6, 8,10
+Pentatonica 356| 3, 5, 6, 8,10
+Pentatonica 357| 4, 5, 6, 8,10
+Pentatonica 358| 0, 1, 7, 8,10
+Pentatonica 359| 0, 2, 7, 8,10
+Pentatonica 360| 1, 2, 7, 8,10
+Pentatonica 361| 0, 3, 7, 8,10
+Pentatonica 362| 1, 3, 7, 8,10
+Pentatonica 363| 2, 3, 7, 8,10
+Pentatonica 364| 0, 4, 7, 8,10
+Pentatonica 365| 1, 4, 7, 8,10
+Pentatonica 366| 2, 4, 7, 8,10
+Pentatonica 367| 3, 4, 7, 8,10
+Pentatonica 368| 0, 5, 7, 8,10
+Pentatonica 369| 1, 5, 7, 8,10
+Pentatonica 370| 2, 5, 7, 8,10
+Pentatonica 371| 3, 5, 7, 8,10
+Pentatonica 372| 4, 5, 7, 8,10
+Pentatonica 373| 0, 6, 7, 8,10
+Pentatonica 374| 1, 6, 7, 8,10
+Pentatonica 375| 2, 6, 7, 8,10
+Pentatonica 376| 3, 6, 7, 8,10
+Pentatonica 377| 4, 6, 7, 8,10
+Pentatonica 378| 5, 6, 7, 8,10
+Pentatonica 379| 0, 1, 2, 9,10
+Pentatonica 380| 0, 1, 3, 9,10
+Pentatonica 381| 0, 2, 3, 9,10
+Pentatonica 382| 1, 2, 3, 9,10
+Pentatonica 383| 0, 1, 4, 9,10
+Pentatonica 384| 0, 2, 4, 9,10
+Pentatonica 385| 1, 2, 4, 9,10
+Pentatonica 386| 0, 3, 4, 9,10
+Pentatonica 387| 1, 3, 4, 9,10
+Pentatonica 388| 2, 3, 4, 9,10
+Pentatonica 389| 0, 1, 5, 9,10
+Pentatonica 390| 0, 2, 5, 9,10
+Pentatonica 391| 1, 2, 5, 9,10
+Pentatonica 392| 0, 3, 5, 9,10
+Pentatonica 393| 1, 3, 5, 9,10
+Pentatonica 394| 2, 3, 5, 9,10
+Pentatonica 395| 0, 4, 5, 9,10
+Pentatonica 396| 1, 4, 5, 9,10
+Pentatonica 397| 2, 4, 5, 9,10
+Pentatonica 398| 3, 4, 5, 9,10
+Pentatonica 399| 0, 1, 6, 9,10
+Pentatonica 400| 0, 2, 6, 9,10
+Pentatonica 401| 1, 2, 6, 9,10
+Pentatonica 402| 0, 3, 6, 9,10
+Pentatonica 403| 1, 3, 6, 9,10
+Pentatonica 404| 2, 3, 6, 9,10
+Pentatonica 405| 0, 4, 6, 9,10
+Pentatonica 406| 1, 4, 6, 9,10
+Pentatonica 407| 2, 4, 6, 9,10
+Pentatonica 408| 3, 4, 6, 9,10
+Pentatonica 409| 0, 5, 6, 9,10
+Pentatonica 410| 1, 5, 6, 9,10
+Pentatonica 411| 2, 5, 6, 9,10
+Pentatonica 412| 3, 5, 6, 9,10
+Pentatonica 413| 4, 5, 6, 9,10
+Pentatonica 414| 0, 1, 7, 9,10
+Pentatonica 415| 0, 2, 7, 9,10
+Pentatonica 416| 1, 2, 7, 9,10
+Pentatonica 417| 0, 3, 7, 9,10
+Pentatonica 418| 1, 3, 7, 9,10
+Pentatonica 419| 2, 3, 7, 9,10
+Pentatonica 420| 0, 4, 7, 9,10
+Pentatonica 421| 1, 4, 7, 9,10
+Pentatonica 422| 2, 4, 7, 9,10
+Pentatonica 423| 3, 4, 7, 9,10
+Pentatonica 424| 0, 5, 7, 9,10
+Pentatonica 425| 1, 5, 7, 9,10
+Pentatonica 426| 2, 5, 7, 9,10
+Pentatonica 427| 3, 5, 7, 9,10
+Pentatonica 428| 4, 5, 7, 9,10
+Pentatonica 429| 0, 6, 7, 9,10
+Pentatonica 430| 1, 6, 7, 9,10
+Pentatonica 431| 2, 6, 7, 9,10
+Pentatonica 432| 3, 6, 7, 9,10
+Pentatonica 433| 4, 6, 7, 9,10
+Pentatonica 434| 5, 6, 7, 9,10
+Pentatonica 435| 0, 1, 8, 9,10
+Pentatonica 436| 0, 2, 8, 9,10
+Pentatonica 437| 1, 2, 8, 9,10
+Pentatonica 438| 0, 3, 8, 9,10
+Pentatonica 439| 1, 3, 8, 9,10
+Pentatonica 440| 2, 3, 8, 9,10
+Pentatonica 441| 0, 4, 8, 9,10
+Pentatonica 442| 1, 4, 8, 9,10
+Pentatonica 443| 2, 4, 8, 9,10
+Pentatonica 444| 3, 4, 8, 9,10
+Pentatonica 445| 0, 5, 8, 9,10
+Pentatonica 446| 1, 5, 8, 9,10
+Pentatonica 447| 2, 5, 8, 9,10
+Pentatonica 448| 3, 5, 8, 9,10
+Pentatonica 449| 4, 5, 8, 9,10
+Pentatonica 450| 0, 6, 8, 9,10
+Pentatonica 451| 1, 6, 8, 9,10
+Pentatonica 452| 2, 6, 8, 9,10
+Pentatonica 453| 3, 6, 8, 9,10
+Pentatonica 454| 4, 6, 8, 9,10
+Pentatonica 455| 5, 6, 8, 9,10
+Pentatonica 456| 0, 7, 8, 9,10
+Pentatonica 457| 1, 7, 8, 9,10
+Pentatonica 458| 2, 7, 8, 9,10
+Pentatonica 459| 3, 7, 8, 9,10
+Pentatonica 460| 4, 7, 8, 9,10
+Pentatonica 461| 5, 7, 8, 9,10
+Pentatonica 462| 6, 7, 8, 9,10
+Pentatonica 463| 0, 1, 2, 3,11
+Pentatonica 464| 0, 1, 2, 4,11
+Pentatonica 465| 0, 1, 3, 4,11
+Pentatonica 466| 0, 2, 3, 4,11
+Pentatonica 467| 1, 2, 3, 4,11
+Pentatonica 468| 0, 1, 2, 5,11
+Pentatonica 469| 0, 1, 3, 5,11
+Pentatonica 470| 0, 2, 3, 5,11
+Pentatonica 471| 1, 2, 3, 5,11
+Pentatonica 472| 0, 1, 4, 5,11
+Pentatonica 473| 0, 2, 4, 5,11
+Pentatonica 474| 1, 2, 4, 5,11
+Pentatonica 475| 0, 3, 4, 5,11
+Pentatonica 476| 1, 3, 4, 5,11
+Pentatonica 477| 2, 3, 4, 5,11
+Pentatonica 478| 0, 1, 2, 6,11
+Pentatonica 479| 0, 1, 3, 6,11
+Pentatonica 480| 0, 2, 3, 6,11
+Pentatonica 481| 1, 2, 3, 6,11
+Pentatonica 482| 0, 1, 4, 6,11
+Pentatonica 483| 0, 2, 4, 6,11
+Pentatonica 484| 1, 2, 4, 6,11
+Pentatonica 485| 0, 3, 4, 6,11
+Pentatonica 486| 1, 3, 4, 6,11
+Pentatonica 487| 2, 3, 4, 6,11
+Pentatonica 488| 0, 1, 5, 6,11
+Pentatonica 489| 0, 2, 5, 6,11
+Pentatonica 490| 1, 2, 5, 6,11
+Pentatonica 491| 0, 3, 5, 6,11
+Pentatonica 492| 1, 3, 5, 6,11
+Pentatonica 493| 2, 3, 5, 6,11
+Pentatonica 494| 0, 4, 5, 6,11
+Pentatonica 495| 1, 4, 5, 6,11
+Pentatonica 496| 2, 4, 5, 6,11
+Pentatonica 497| 3, 4, 5, 6,11
+Pentatonica 498| 0, 1, 2, 7,11
+Pentatonica 499| 0, 1, 3, 7,11
+Pentatonica 500| 0, 2, 3, 7,11
+Pentatonica 501| 1, 2, 3, 7,11
+Pentatonica 502| 0, 1, 4, 7,11
+Pentatonica 503| 0, 2, 4, 7,11
+Pentatonica 504| 1, 2, 4, 7,11
+Pentatonica 505| 0, 3, 4, 7,11
+Pentatonica 506| 1, 3, 4, 7,11
+Pentatonica 507| 2, 3, 4, 7,11
+Pentatonica 508| 0, 1, 5, 7,11
+Pentatonica 509| 0, 2, 5, 7,11
+Pentatonica 510| 1, 2, 5, 7,11
+Pentatonica 511| 0, 3, 5, 7,11
+Pentatonica 512| 1, 3, 5, 7,11
+Pentatonica 513| 2, 3, 5, 7,11
+Pentatonica 514| 0, 4, 5, 7,11
+Pentatonica 515| 1, 4, 5, 7,11
+Pentatonica 516| 2, 4, 5, 7,11
+Pentatonica 517| 3, 4, 5, 7,11
+Pentatonica 518| 0, 1, 6, 7,11
+Pentatonica 519| 0, 2, 6, 7,11
+Pentatonica 520| 1, 2, 6, 7,11
+Pentatonica 521| 0, 3, 6, 7,11
+Pentatonica 522| 1, 3, 6, 7,11
+Pentatonica 523| 2, 3, 6, 7,11
+Pentatonica 524| 0, 4, 6, 7,11
+Pentatonica 525| 1, 4, 6, 7,11
+Pentatonica 526| 2, 4, 6, 7,11
+Pentatonica 527| 3, 4, 6, 7,11
+Pentatonica 528| 0, 5, 6, 7,11
+Pentatonica 529| 1, 5, 6, 7,11
+Pentatonica 530| 2, 5, 6, 7,11
+Pentatonica 531| 3, 5, 6, 7,11
+Pentatonica 532| 4, 5, 6, 7,11
+Pentatonica 533| 0, 1, 2, 8,11
+Pentatonica 534| 0, 1, 3, 8,11
+Pentatonica 535| 0, 2, 3, 8,11
+Pentatonica 536| 1, 2, 3, 8,11
+Pentatonica 537| 0, 1, 4, 8,11
+Pentatonica 538| 0, 2, 4, 8,11
+Pentatonica 539| 1, 2, 4, 8,11
+Pentatonica 540| 0, 3, 4, 8,11
+Pentatonica 541| 1, 3, 4, 8,11
+Pentatonica 542| 2, 3, 4, 8,11
+Pentatonica 543| 0, 1, 5, 8,11
+Pentatonica 544| 0, 2, 5, 8,11
+Pentatonica 545| 1, 2, 5, 8,11
+Pentatonica 546| 0, 3, 5, 8,11
+Pentatonica 547| 1, 3, 5, 8,11
+Pentatonica 548| 2, 3, 5, 8,11
+Pentatonica 549| 0, 4, 5, 8,11
+Pentatonica 550| 1, 4, 5, 8,11
+Pentatonica 551| 2, 4, 5, 8,11
+Pentatonica 552| 3, 4, 5, 8,11
+Pentatonica 553| 0, 1, 6, 8,11
+Pentatonica 554| 0, 2, 6, 8,11
+Pentatonica 555| 1, 2, 6, 8,11
+Pentatonica 556| 0, 3, 6, 8,11
+Pentatonica 557| 1, 3, 6, 8,11
+Pentatonica 558| 2, 3, 6, 8,11
+Pentatonica 559| 0, 4, 6, 8,11
+Pentatonica 560| 1, 4, 6, 8,11
+Pentatonica 561| 2, 4, 6, 8,11
+Pentatonica 562| 3, 4, 6, 8,11
+Pentatonica 563| 0, 5, 6, 8,11
+Pentatonica 564| 1, 5, 6, 8,11
+Pentatonica 565| 2, 5, 6, 8,11
+Pentatonica 566| 3, 5, 6, 8,11
+Pentatonica 567| 4, 5, 6, 8,11
+Pentatonica 568| 0, 1, 7, 8,11
+Pentatonica 569| 0, 2, 7, 8,11
+Pentatonica 570| 1, 2, 7, 8,11
+Pentatonica 571| 0, 3, 7, 8,11
+Pentatonica 572| 1, 3, 7, 8,11
+Pentatonica 573| 2, 3, 7, 8,11
+Pentatonica 574| 0, 4, 7, 8,11
+Pentatonica 575| 1, 4, 7, 8,11
+Pentatonica 576| 2, 4, 7, 8,11
+Pentatonica 577| 3, 4, 7, 8,11
+Pentatonica 578| 0, 5, 7, 8,11
+Pentatonica 579| 1, 5, 7, 8,11
+Pentatonica 580| 2, 5, 7, 8,11
+Pentatonica 581| 3, 5, 7, 8,11
+Pentatonica 582| 4, 5, 7, 8,11
+Pentatonica 583| 0, 6, 7, 8,11
+Pentatonica 584| 1, 6, 7, 8,11
+Pentatonica 585| 2, 6, 7, 8,11
+Pentatonica 586| 3, 6, 7, 8,11
+Pentatonica 587| 4, 6, 7, 8,11
+Pentatonica 588| 5, 6, 7, 8,11
+Pentatonica 589| 0, 1, 2, 9,11
+Pentatonica 590| 0, 1, 3, 9,11
+Pentatonica 591| 0, 2, 3, 9,11
+Pentatonica 592| 1, 2, 3, 9,11
+Pentatonica 593| 0, 1, 4, 9,11
+Pentatonica 594| 0, 2, 4, 9,11
+Pentatonica 595| 1, 2, 4, 9,11
+Pentatonica 596| 0, 3, 4, 9,11
+Pentatonica 597| 1, 3, 4, 9,11
+Pentatonica 598| 2, 3, 4, 9,11
+Pentatonica 599| 0, 1, 5, 9,11
+Pentatonica 600| 0, 2, 5, 9,11
+Pentatonica 601| 1, 2, 5, 9,11
+Pentatonica 602| 0, 3, 5, 9,11
+Pentatonica 603| 1, 3, 5, 9,11
+Pentatonica 604| 2, 3, 5, 9,11
+Pentatonica 605| 0, 4, 5, 9,11
+Pentatonica 606| 1, 4, 5, 9,11
+Pentatonica 607| 2, 4, 5, 9,11
+Pentatonica 608| 3, 4, 5, 9,11
+Pentatonica 609| 0, 1, 6, 9,11
+Pentatonica 610| 0, 2, 6, 9,11
+Pentatonica 611| 1, 2, 6, 9,11
+Pentatonica 612| 0, 3, 6, 9,11
+Pentatonica 613| 1, 3, 6, 9,11
+Pentatonica 614| 2, 3, 6, 9,11
+Pentatonica 615| 0, 4, 6, 9,11
+Pentatonica 616| 1, 4, 6, 9,11
+Pentatonica 617| 2, 4, 6, 9,11
+Pentatonica 618| 3, 4, 6, 9,11
+Pentatonica 619| 0, 5, 6, 9,11
+Pentatonica 620| 1, 5, 6, 9,11
+Pentatonica 621| 2, 5, 6, 9,11
+Pentatonica 622| 3, 5, 6, 9,11
+Pentatonica 623| 4, 5, 6, 9,11
+Pentatonica 624| 0, 1, 7, 9,11
+Pentatonica 625| 0, 2, 7, 9,11
+Pentatonica 626| 1, 2, 7, 9,11
+Pentatonica 627| 0, 3, 7, 9,11
+Pentatonica 628| 1, 3, 7, 9,11
+Pentatonica 629| 2, 3, 7, 9,11
+Pentatonica 630| 0, 4, 7, 9,11
+Pentatonica 631| 1, 4, 7, 9,11
+Pentatonica 632| 2, 4, 7, 9,11
+Pentatonica 633| 3, 4, 7, 9,11
+Pentatonica 634| 0, 5, 7, 9,11
+Pentatonica 635| 1, 5, 7, 9,11
+Pentatonica 636| 2, 5, 7, 9,11
+Pentatonica 637| 3, 5, 7, 9,11
+Pentatonica 638| 4, 5, 7, 9,11
+Pentatonica 639| 0, 6, 7, 9,11
+Pentatonica 640| 1, 6, 7, 9,11
+Pentatonica 641| 2, 6, 7, 9,11
+Pentatonica 642| 3, 6, 7, 9,11
+Pentatonica 643| 4, 6, 7, 9,11
+Pentatonica 644| 5, 6, 7, 9,11
+Pentatonica 645| 0, 1, 8, 9,11
+Pentatonica 646| 0, 2, 8, 9,11
+Pentatonica 647| 1, 2, 8, 9,11
+Pentatonica 648| 0, 3, 8, 9,11
+Pentatonica 649| 1, 3, 8, 9,11
+Pentatonica 650| 2, 3, 8, 9,11
+Pentatonica 651| 0, 4, 8, 9,11
+Pentatonica 652| 1, 4, 8, 9,11
+Pentatonica 653| 2, 4, 8, 9,11
+Pentatonica 654| 3, 4, 8, 9,11
+Pentatonica 655| 0, 5, 8, 9,11
+Pentatonica 656| 1, 5, 8, 9,11
+Pentatonica 657| 2, 5, 8, 9,11
+Pentatonica 658| 3, 5, 8, 9,11
+Pentatonica 659| 4, 5, 8, 9,11
+Pentatonica 660| 0, 6, 8, 9,11
+Pentatonica 661| 1, 6, 8, 9,11
+Pentatonica 662| 2, 6, 8, 9,11
+Pentatonica 663| 3, 6, 8, 9,11
+Pentatonica 664| 4, 6, 8, 9,11
+Pentatonica 665| 5, 6, 8, 9,11
+Pentatonica 666| 0, 7, 8, 9,11
+Pentatonica 667| 1, 7, 8, 9,11
+Pentatonica 668| 2, 7, 8, 9,11
+Pentatonica 669| 3, 7, 8, 9,11
+Pentatonica 670| 4, 7, 8, 9,11
+Pentatonica 671| 5, 7, 8, 9,11
+Pentatonica 672| 6, 7, 8, 9,11
+Pentatonica 673| 0, 1, 2,10,11
+Pentatonica 674| 0, 1, 3,10,11
+Pentatonica 675| 0, 2, 3,10,11
+Pentatonica 676| 1, 2, 3,10,11
+Pentatonica 677| 0, 1, 4,10,11
+Pentatonica 678| 0, 2, 4,10,11
+Pentatonica 679| 1, 2, 4,10,11
+Pentatonica 680| 0, 3, 4,10,11
+Pentatonica 681| 1, 3, 4,10,11
+Pentatonica 682| 2, 3, 4,10,11
+Pentatonica 683| 0, 1, 5,10,11
+Pentatonica 684| 0, 2, 5,10,11
+Pentatonica 685| 1, 2, 5,10,11
+Pentatonica 686| 0, 3, 5,10,11
+Pentatonica 687| 1, 3, 5,10,11
+Pentatonica 688| 2, 3, 5,10,11
+Pentatonica 689| 0, 4, 5,10,11
+Pentatonica 690| 1, 4, 5,10,11
+Pentatonica 691| 2, 4, 5,10,11
+Pentatonica 692| 3, 4, 5,10,11
+Pentatonica 693| 0, 1, 6,10,11
+Pentatonica 694| 0, 2, 6,10,11
+Pentatonica 695| 1, 2, 6,10,11
+Pentatonica 696| 0, 3, 6,10,11
+Pentatonica 697| 1, 3, 6,10,11
+Pentatonica 698| 2, 3, 6,10,11
+Pentatonica 699| 0, 4, 6,10,11
+Pentatonica 700| 1, 4, 6,10,11
+Pentatonica 701| 2, 4, 6,10,11
+Pentatonica 702| 3, 4, 6,10,11
+Pentatonica 703| 0, 5, 6,10,11
+Pentatonica 704| 1, 5, 6,10,11
+Pentatonica 705| 2, 5, 6,10,11
+Pentatonica 706| 3, 5, 6,10,11
+Pentatonica 707| 4, 5, 6,10,11
+Pentatonica 708| 0, 1, 7,10,11
+Pentatonica 709| 0, 2, 7,10,11
+Pentatonica 710| 1, 2, 7,10,11
+Pentatonica 711| 0, 3, 7,10,11
+Pentatonica 712| 1, 3, 7,10,11
+Pentatonica 713| 2, 3, 7,10,11
+Pentatonica 714| 0, 4, 7,10,11
+Pentatonica 715| 1, 4, 7,10,11
+Pentatonica 716| 2, 4, 7,10,11
+Pentatonica 717| 3, 4, 7,10,11
+Pentatonica 718| 0, 5, 7,10,11
+Pentatonica 719| 1, 5, 7,10,11
+Pentatonica 720| 2, 5, 7,10,11
+Pentatonica 721| 3, 5, 7,10,11
+Pentatonica 722| 4, 5, 7,10,11
+Pentatonica 723| 0, 6, 7,10,11
+Pentatonica 724| 1, 6, 7,10,11
+Pentatonica 725| 2, 6, 7,10,11
+Pentatonica 726| 3, 6, 7,10,11
+Pentatonica 727| 4, 6, 7,10,11
+Pentatonica 728| 5, 6, 7,10,11
+Pentatonica 729| 0, 1, 8,10,11
+Pentatonica 730| 0, 2, 8,10,11
+Pentatonica 731| 1, 2, 8,10,11
+Pentatonica 732| 0, 3, 8,10,11
+Pentatonica 733| 1, 3, 8,10,11
+Pentatonica 734| 2, 3, 8,10,11
+Pentatonica 735| 0, 4, 8,10,11
+Pentatonica 736| 1, 4, 8,10,11
+Pentatonica 737| 2, 4, 8,10,11
+Pentatonica 738| 3, 4, 8,10,11
+Pentatonica 739| 0, 5, 8,10,11
+Pentatonica 740| 1, 5, 8,10,11
+Pentatonica 741| 2, 5, 8,10,11
+Pentatonica 742| 3, 5, 8,10,11
+Pentatonica 743| 4, 5, 8,10,11
+Pentatonica 744| 0, 6, 8,10,11
+Pentatonica 745| 1, 6, 8,10,11
+Pentatonica 746| 2, 6, 8,10,11
+Pentatonica 747| 3, 6, 8,10,11
+Pentatonica 748| 4, 6, 8,10,11
+Pentatonica 749| 5, 6, 8,10,11
+Pentatonica 750| 0, 7, 8,10,11
+Pentatonica 751| 1, 7, 8,10,11
+Pentatonica 752| 2, 7, 8,10,11
+Pentatonica 753| 3, 7, 8,10,11
+Pentatonica 754| 4, 7, 8,10,11
+Pentatonica 755| 5, 7, 8,10,11
+Pentatonica 756| 6, 7, 8,10,11
+Pentatonica 757| 0, 1, 9,10,11
+Pentatonica 758| 0, 2, 9,10,11
+Pentatonica 759| 1, 2, 9,10,11
+Pentatonica 760| 0, 3, 9,10,11
+Pentatonica 761| 1, 3, 9,10,11
+Pentatonica 762| 2, 3, 9,10,11
+Pentatonica 763| 0, 4, 9,10,11
+Pentatonica 764| 1, 4, 9,10,11
+Pentatonica 765| 2, 4, 9,10,11
+Pentatonica 766| 3, 4, 9,10,11
+Pentatonica 767| 0, 5, 9,10,11
+Pentatonica 768| 1, 5, 9,10,11
+Pentatonica 769| 2, 5, 9,10,11
+Pentatonica 770| 3, 5, 9,10,11
+Pentatonica 771| 4, 5, 9,10,11
+Pentatonica 772| 0, 6, 9,10,11
+Pentatonica 773| 1, 6, 9,10,11
+Pentatonica 774| 2, 6, 9,10,11
+Pentatonica 775| 3, 6, 9,10,11
+Pentatonica 776| 4, 6, 9,10,11
+Pentatonica 777| 5, 6, 9,10,11
+Pentatonica 778| 0, 7, 9,10,11
+Pentatonica 779| 1, 7, 9,10,11
+Pentatonica 780| 2, 7, 9,10,11
+Pentatonica 781| 3, 7, 9,10,11
+Pentatonica 782| 4, 7, 9,10,11
+Pentatonica 783| 5, 7, 9,10,11
+Pentatonica 784| 6, 7, 9,10,11
+Pentatonica 785| 0, 8, 9,10,11
+Pentatonica 786| 1, 8, 9,10,11
+Pentatonica 787| 2, 8, 9,10,11
+Pentatonica 788| 3, 8, 9,10,11
+Pentatonica 789| 4, 8, 9,10,11
+Pentatonica 790| 5, 8, 9,10,11
+Pentatonica 791| 6, 8, 9,10,11
+Pentatonica 792| 7, 8, 9,10,11
+Hexatonica 1| 0, 1, 2, 3, 4, 5
+Hexatonica 2| 0, 1, 2, 3, 4, 6
+Hexatonica 3| 0, 1, 2, 3, 5, 6
+Hexatonica 4| 0, 1, 2, 4, 5, 6
+Hexatonica 5| 0, 1, 3, 4, 5, 6
+Hexatonica 6| 0, 2, 3, 4, 5, 6
+Hexatonica 7| 1, 2, 3, 4, 5, 6
+Hexatonica 8| 0, 1, 2, 3, 4, 7
+Hexatonica 9| 0, 1, 2, 3, 5, 7
+Hexatonica 10| 0, 1, 2, 4, 5, 7
+Hexatonica 11| 0, 1, 3, 4, 5, 7
+Hexatonica 12| 0, 2, 3, 4, 5, 7
+Hexatonica 13| 1, 2, 3, 4, 5, 7
+Hexatonica 14| 0, 1, 2, 3, 6, 7
+Hexatonica 15| 0, 1, 2, 4, 6, 7
+Hexatonica 16| 0, 1, 3, 4, 6, 7
+Hexatonica 17| 0, 2, 3, 4, 6, 7
+Hexatonica 18| 1, 2, 3, 4, 6, 7
+Hexatonica 19| 0, 1, 2, 5, 6, 7
+Hexatonica 20| 0, 1, 3, 5, 6, 7
+Hexatonica 21| 0, 2, 3, 5, 6, 7
+Hexatonica 22| 1, 2, 3, 5, 6, 7
+Hexatonica 23| 0, 1, 4, 5, 6, 7
+Hexatonica 24| 0, 2, 4, 5, 6, 7
+Hexatonica 25| 1, 2, 4, 5, 6, 7
+Hexatonica 26| 0, 3, 4, 5, 6, 7
+Hexatonica 27| 1, 3, 4, 5, 6, 7
+Hexatonica 28| 2, 3, 4, 5, 6, 7
+Hexatonica 29| 0, 1, 2, 3, 4, 8
+Hexatonica 30| 0, 1, 2, 3, 5, 8
+Hexatonica 31| 0, 1, 2, 4, 5, 8
+Hexatonica 32| 0, 1, 3, 4, 5, 8
+Hexatonica 33| 0, 2, 3, 4, 5, 8
+Hexatonica 34| 1, 2, 3, 4, 5, 8
+Hexatonica 35| 0, 1, 2, 3, 6, 8
+Hexatonica 36| 0, 1, 2, 4, 6, 8
+Hexatonica 37| 0, 1, 3, 4, 6, 8
+Hexatonica 38| 0, 2, 3, 4, 6, 8
+Hexatonica 39| 1, 2, 3, 4, 6, 8
+Hexatonica 40| 0, 1, 2, 5, 6, 8
+Hexatonica 41| 0, 1, 3, 5, 6, 8
+Hexatonica 42| 0, 2, 3, 5, 6, 8
+Hexatonica 43| 1, 2, 3, 5, 6, 8
+Hexatonica 44| 0, 1, 4, 5, 6, 8
+Hexatonica 45| 0, 2, 4, 5, 6, 8
+Hexatonica 46| 1, 2, 4, 5, 6, 8
+Hexatonica 47| 0, 3, 4, 5, 6, 8
+Hexatonica 48| 1, 3, 4, 5, 6, 8
+Hexatonica 49| 2, 3, 4, 5, 6, 8
+Hexatonica 50| 0, 1, 2, 3, 7, 8
+Hexatonica 51| 0, 1, 2, 4, 7, 8
+Hexatonica 52| 0, 1, 3, 4, 7, 8
+Hexatonica 53| 0, 2, 3, 4, 7, 8
+Hexatonica 54| 1, 2, 3, 4, 7, 8
+Hexatonica 55| 0, 1, 2, 5, 7, 8
+Hexatonica 56| 0, 1, 3, 5, 7, 8
+Hexatonica 57| 0, 2, 3, 5, 7, 8
+Hexatonica 58| 1, 2, 3, 5, 7, 8
+Hexatonica 59| 0, 1, 4, 5, 7, 8
+Hexatonica 60| 0, 2, 4, 5, 7, 8
+Hexatonica 61| 1, 2, 4, 5, 7, 8
+Hexatonica 62| 0, 3, 4, 5, 7, 8
+Hexatonica 63| 1, 3, 4, 5, 7, 8
+Hexatonica 64| 2, 3, 4, 5, 7, 8
+Hexatonica 65| 0, 1, 2, 6, 7, 8
+Hexatonica 66| 0, 1, 3, 6, 7, 8
+Hexatonica 67| 0, 2, 3, 6, 7, 8
+Hexatonica 68| 1, 2, 3, 6, 7, 8
+Hexatonica 69| 0, 1, 4, 6, 7, 8
+Hexatonica 70| 0, 2, 4, 6, 7, 8
+Hexatonica 71| 1, 2, 4, 6, 7, 8
+Hexatonica 72| 0, 3, 4, 6, 7, 8
+Hexatonica 73| 1, 3, 4, 6, 7, 8
+Hexatonica 74| 2, 3, 4, 6, 7, 8
+Hexatonica 75| 0, 1, 5, 6, 7, 8
+Hexatonica 76| 0, 2, 5, 6, 7, 8
+Hexatonica 77| 1, 2, 5, 6, 7, 8
+Hexatonica 78| 0, 3, 5, 6, 7, 8
+Hexatonica 79| 1, 3, 5, 6, 7, 8
+Hexatonica 80| 2, 3, 5, 6, 7, 8
+Hexatonica 81| 0, 4, 5, 6, 7, 8
+Hexatonica 82| 1, 4, 5, 6, 7, 8
+Hexatonica 83| 2, 4, 5, 6, 7, 8
+Hexatonica 84| 3, 4, 5, 6, 7, 8
+Hexatonica 85| 0, 1, 2, 3, 4, 9
+Hexatonica 86| 0, 1, 2, 3, 5, 9
+Hexatonica 87| 0, 1, 2, 4, 5, 9
+Hexatonica 88| 0, 1, 3, 4, 5, 9
+Hexatonica 89| 0, 2, 3, 4, 5, 9
+Hexatonica 90| 1, 2, 3, 4, 5, 9
+Hexatonica 91| 0, 1, 2, 3, 6, 9
+Hexatonica 92| 0, 1, 2, 4, 6, 9
+Hexatonica 93| 0, 1, 3, 4, 6, 9
+Hexatonica 94| 0, 2, 3, 4, 6, 9
+Hexatonica 95| 1, 2, 3, 4, 6, 9
+Hexatonica 96| 0, 1, 2, 5, 6, 9
+Hexatonica 97| 0, 1, 3, 5, 6, 9
+Hexatonica 98| 0, 2, 3, 5, 6, 9
+Hexatonica 99| 1, 2, 3, 5, 6, 9
+Hexatonica 100| 0, 1, 4, 5, 6, 9
+Hexatonica 101| 0, 2, 4, 5, 6, 9
+Hexatonica 102| 1, 2, 4, 5, 6, 9
+Hexatonica 103| 0, 3, 4, 5, 6, 9
+Hexatonica 104| 1, 3, 4, 5, 6, 9
+Hexatonica 105| 2, 3, 4, 5, 6, 9
+Hexatonica 106| 0, 1, 2, 3, 7, 9
+Hexatonica 107| 0, 1, 2, 4, 7, 9
+Hexatonica 108| 0, 1, 3, 4, 7, 9
+Hexatonica 109| 0, 2, 3, 4, 7, 9
+Hexatonica 110| 1, 2, 3, 4, 7, 9
+Hexatonica 111| 0, 1, 2, 5, 7, 9
+Hexatonica 112| 0, 1, 3, 5, 7, 9
+Hexatonica 113| 0, 2, 3, 5, 7, 9
+Hexatonica 114| 1, 2, 3, 5, 7, 9
+Hexatonica 115| 0, 1, 4, 5, 7, 9
+Hexatonica 116| 0, 2, 4, 5, 7, 9
+Hexatonica 117| 1, 2, 4, 5, 7, 9
+Hexatonica 118| 0, 3, 4, 5, 7, 9
+Hexatonica 119| 1, 3, 4, 5, 7, 9
+Hexatonica 120| 2, 3, 4, 5, 7, 9
+Hexatonica 121| 0, 1, 2, 6, 7, 9
+Hexatonica 122| 0, 1, 3, 6, 7, 9
+Hexatonica 123| 0, 2, 3, 6, 7, 9
+Hexatonica 124| 1, 2, 3, 6, 7, 9
+Hexatonica 125| 0, 1, 4, 6, 7, 9
+Hexatonica 126| 0, 2, 4, 6, 7, 9
+Hexatonica 127| 1, 2, 4, 6, 7, 9
+Hexatonica 128| 0, 3, 4, 6, 7, 9
+Hexatonica 129| 1, 3, 4, 6, 7, 9
+Hexatonica 130| 2, 3, 4, 6, 7, 9
+Hexatonica 131| 0, 1, 5, 6, 7, 9
+Hexatonica 132| 0, 2, 5, 6, 7, 9
+Hexatonica 133| 1, 2, 5, 6, 7, 9
+Hexatonica 134| 0, 3, 5, 6, 7, 9
+Hexatonica 135| 1, 3, 5, 6, 7, 9
+Hexatonica 136| 2, 3, 5, 6, 7, 9
+Hexatonica 137| 0, 4, 5, 6, 7, 9
+Hexatonica 138| 1, 4, 5, 6, 7, 9
+Hexatonica 139| 2, 4, 5, 6, 7, 9
+Hexatonica 140| 3, 4, 5, 6, 7, 9
+Hexatonica 141| 0, 1, 2, 3, 8, 9
+Hexatonica 142| 0, 1, 2, 4, 8, 9
+Hexatonica 143| 0, 1, 3, 4, 8, 9
+Hexatonica 144| 0, 2, 3, 4, 8, 9
+Hexatonica 145| 1, 2, 3, 4, 8, 9
+Hexatonica 146| 0, 1, 2, 5, 8, 9
+Hexatonica 147| 0, 1, 3, 5, 8, 9
+Hexatonica 148| 0, 2, 3, 5, 8, 9
+Hexatonica 149| 1, 2, 3, 5, 8, 9
+Hexatonica 150| 0, 1, 4, 5, 8, 9
+Hexatonica 151| 0, 2, 4, 5, 8, 9
+Hexatonica 152| 1, 2, 4, 5, 8, 9
+Hexatonica 153| 0, 3, 4, 5, 8, 9
+Hexatonica 154| 1, 3, 4, 5, 8, 9
+Hexatonica 155| 2, 3, 4, 5, 8, 9
+Hexatonica 156| 0, 1, 2, 6, 8, 9
+Hexatonica 157| 0, 1, 3, 6, 8, 9
+Hexatonica 158| 0, 2, 3, 6, 8, 9
+Hexatonica 159| 1, 2, 3, 6, 8, 9
+Hexatonica 160| 0, 1, 4, 6, 8, 9
+Hexatonica 161| 0, 2, 4, 6, 8, 9
+Hexatonica 162| 1, 2, 4, 6, 8, 9
+Hexatonica 163| 0, 3, 4, 6, 8, 9
+Hexatonica 164| 1, 3, 4, 6, 8, 9
+Hexatonica 165| 2, 3, 4, 6, 8, 9
+Hexatonica 166| 0, 1, 5, 6, 8, 9
+Hexatonica 167| 0, 2, 5, 6, 8, 9
+Hexatonica 168| 1, 2, 5, 6, 8, 9
+Hexatonica 169| 0, 3, 5, 6, 8, 9
+Hexatonica 170| 1, 3, 5, 6, 8, 9
+Hexatonica 171| 2, 3, 5, 6, 8, 9
+Hexatonica 172| 0, 4, 5, 6, 8, 9
+Hexatonica 173| 1, 4, 5, 6, 8, 9
+Hexatonica 174| 2, 4, 5, 6, 8, 9
+Hexatonica 175| 3, 4, 5, 6, 8, 9
+Hexatonica 176| 0, 1, 2, 7, 8, 9
+Hexatonica 177| 0, 1, 3, 7, 8, 9
+Hexatonica 178| 0, 2, 3, 7, 8, 9
+Hexatonica 179| 1, 2, 3, 7, 8, 9
+Hexatonica 180| 0, 1, 4, 7, 8, 9
+Hexatonica 181| 0, 2, 4, 7, 8, 9
+Hexatonica 182| 1, 2, 4, 7, 8, 9
+Hexatonica 183| 0, 3, 4, 7, 8, 9
+Hexatonica 184| 1, 3, 4, 7, 8, 9
+Hexatonica 185| 2, 3, 4, 7, 8, 9
+Hexatonica 186| 0, 1, 5, 7, 8, 9
+Hexatonica 187| 0, 2, 5, 7, 8, 9
+Hexatonica 188| 1, 2, 5, 7, 8, 9
+Hexatonica 189| 0, 3, 5, 7, 8, 9
+Hexatonica 190| 1, 3, 5, 7, 8, 9
+Hexatonica 191| 2, 3, 5, 7, 8, 9
+Hexatonica 192| 0, 4, 5, 7, 8, 9
+Hexatonica 193| 1, 4, 5, 7, 8, 9
+Hexatonica 194| 2, 4, 5, 7, 8, 9
+Hexatonica 195| 3, 4, 5, 7, 8, 9
+Hexatonica 196| 0, 1, 6, 7, 8, 9
+Hexatonica 197| 0, 2, 6, 7, 8, 9
+Hexatonica 198| 1, 2, 6, 7, 8, 9
+Hexatonica 199| 0, 3, 6, 7, 8, 9
+Hexatonica 200| 1, 3, 6, 7, 8, 9
+Hexatonica 201| 2, 3, 6, 7, 8, 9
+Hexatonica 202| 0, 4, 6, 7, 8, 9
+Hexatonica 203| 1, 4, 6, 7, 8, 9
+Hexatonica 204| 2, 4, 6, 7, 8, 9
+Hexatonica 205| 3, 4, 6, 7, 8, 9
+Hexatonica 206| 0, 5, 6, 7, 8, 9
+Hexatonica 207| 1, 5, 6, 7, 8, 9
+Hexatonica 208| 2, 5, 6, 7, 8, 9
+Hexatonica 209| 3, 5, 6, 7, 8, 9
+Hexatonica 210| 4, 5, 6, 7, 8, 9
+Hexatonica 211| 0, 1, 2, 3, 4,10
+Hexatonica 212| 0, 1, 2, 3, 5,10
+Hexatonica 213| 0, 1, 2, 4, 5,10
+Hexatonica 214| 0, 1, 3, 4, 5,10
+Hexatonica 215| 0, 2, 3, 4, 5,10
+Hexatonica 216| 1, 2, 3, 4, 5,10
+Hexatonica 217| 0, 1, 2, 3, 6,10
+Hexatonica 218| 0, 1, 2, 4, 6,10
+Hexatonica 219| 0, 1, 3, 4, 6,10
+Hexatonica 220| 0, 2, 3, 4, 6,10
+Hexatonica 221| 1, 2, 3, 4, 6,10
+Hexatonica 222| 0, 1, 2, 5, 6,10
+Hexatonica 223| 0, 1, 3, 5, 6,10
+Hexatonica 224| 0, 2, 3, 5, 6,10
+Hexatonica 225| 1, 2, 3, 5, 6,10
+Hexatonica 226| 0, 1, 4, 5, 6,10
+Hexatonica 227| 0, 2, 4, 5, 6,10
+Hexatonica 228| 1, 2, 4, 5, 6,10
+Hexatonica 229| 0, 3, 4, 5, 6,10
+Hexatonica 230| 1, 3, 4, 5, 6,10
+Hexatonica 231| 2, 3, 4, 5, 6,10
+Hexatonica 232| 0, 1, 2, 3, 7,10
+Hexatonica 233| 0, 1, 2, 4, 7,10
+Hexatonica 234| 0, 1, 3, 4, 7,10
+Hexatonica 235| 0, 2, 3, 4, 7,10
+Hexatonica 236| 1, 2, 3, 4, 7,10
+Hexatonica 237| 0, 1, 2, 5, 7,10
+Hexatonica 238| 0, 1, 3, 5, 7,10
+Hexatonica 239| 0, 2, 3, 5, 7,10
+Hexatonica 240| 1, 2, 3, 5, 7,10
+Hexatonica 241| 0, 1, 4, 5, 7,10
+Hexatonica 242| 0, 2, 4, 5, 7,10
+Hexatonica 243| 1, 2, 4, 5, 7,10
+Hexatonica 244| 0, 3, 4, 5, 7,10
+Hexatonica 245| 1, 3, 4, 5, 7,10
+Hexatonica 246| 2, 3, 4, 5, 7,10
+Hexatonica 247| 0, 1, 2, 6, 7,10
+Hexatonica 248| 0, 1, 3, 6, 7,10
+Hexatonica 249| 0, 2, 3, 6, 7,10
+Hexatonica 250| 1, 2, 3, 6, 7,10
+Hexatonica 251| 0, 1, 4, 6, 7,10
+Hexatonica 252| 0, 2, 4, 6, 7,10
+Hexatonica 253| 1, 2, 4, 6, 7,10
+Hexatonica 254| 0, 3, 4, 6, 7,10
+Hexatonica 255| 1, 3, 4, 6, 7,10
+Hexatonica 256| 2, 3, 4, 6, 7,10
+Hexatonica 257| 0, 1, 5, 6, 7,10
+Hexatonica 258| 0, 2, 5, 6, 7,10
+Hexatonica 259| 1, 2, 5, 6, 7,10
+Hexatonica 260| 0, 3, 5, 6, 7,10
+Hexatonica 261| 1, 3, 5, 6, 7,10
+Hexatonica 262| 2, 3, 5, 6, 7,10
+Hexatonica 263| 0, 4, 5, 6, 7,10
+Hexatonica 264| 1, 4, 5, 6, 7,10
+Hexatonica 265| 2, 4, 5, 6, 7,10
+Hexatonica 266| 3, 4, 5, 6, 7,10
+Hexatonica 267| 0, 1, 2, 3, 8,10
+Hexatonica 268| 0, 1, 2, 4, 8,10
+Hexatonica 269| 0, 1, 3, 4, 8,10
+Hexatonica 270| 0, 2, 3, 4, 8,10
+Hexatonica 271| 1, 2, 3, 4, 8,10
+Hexatonica 272| 0, 1, 2, 5, 8,10
+Hexatonica 273| 0, 1, 3, 5, 8,10
+Hexatonica 274| 0, 2, 3, 5, 8,10
+Hexatonica 275| 1, 2, 3, 5, 8,10
+Hexatonica 276| 0, 1, 4, 5, 8,10
+Hexatonica 277| 0, 2, 4, 5, 8,10
+Hexatonica 278| 1, 2, 4, 5, 8,10
+Hexatonica 279| 0, 3, 4, 5, 8,10
+Hexatonica 280| 1, 3, 4, 5, 8,10
+Hexatonica 281| 2, 3, 4, 5, 8,10
+Hexatonica 282| 0, 1, 2, 6, 8,10
+Hexatonica 283| 0, 1, 3, 6, 8,10
+Hexatonica 284| 0, 2, 3, 6, 8,10
+Hexatonica 285| 1, 2, 3, 6, 8,10
+Hexatonica 286| 0, 1, 4, 6, 8,10
+Hexatonica 287| 0, 2, 4, 6, 8,10
+Hexatonica 288| 1, 2, 4, 6, 8,10
+Hexatonica 289| 0, 3, 4, 6, 8,10
+Hexatonica 290| 1, 3, 4, 6, 8,10
+Hexatonica 291| 2, 3, 4, 6, 8,10
+Hexatonica 292| 0, 1, 5, 6, 8,10
+Hexatonica 293| 0, 2, 5, 6, 8,10
+Hexatonica 294| 1, 2, 5, 6, 8,10
+Hexatonica 295| 0, 3, 5, 6, 8,10
+Hexatonica 296| 1, 3, 5, 6, 8,10
+Hexatonica 297| 2, 3, 5, 6, 8,10
+Hexatonica 298| 0, 4, 5, 6, 8,10
+Hexatonica 299| 1, 4, 5, 6, 8,10
+Hexatonica 300| 2, 4, 5, 6, 8,10
+Hexatonica 301| 3, 4, 5, 6, 8,10
+Hexatonica 302| 0, 1, 2, 7, 8,10
+Hexatonica 303| 0, 1, 3, 7, 8,10
+Hexatonica 304| 0, 2, 3, 7, 8,10
+Hexatonica 305| 1, 2, 3, 7, 8,10
+Hexatonica 306| 0, 1, 4, 7, 8,10
+Hexatonica 307| 0, 2, 4, 7, 8,10
+Hexatonica 308| 1, 2, 4, 7, 8,10
+Hexatonica 309| 0, 3, 4, 7, 8,10
+Hexatonica 310| 1, 3, 4, 7, 8,10
+Hexatonica 311| 2, 3, 4, 7, 8,10
+Hexatonica 312| 0, 1, 5, 7, 8,10
+Hexatonica 313| 0, 2, 5, 7, 8,10
+Hexatonica 314| 1, 2, 5, 7, 8,10
+Hexatonica 315| 0, 3, 5, 7, 8,10
+Hexatonica 316| 1, 3, 5, 7, 8,10
+Hexatonica 317| 2, 3, 5, 7, 8,10
+Hexatonica 318| 0, 4, 5, 7, 8,10
+Hexatonica 319| 1, 4, 5, 7, 8,10
+Hexatonica 320| 2, 4, 5, 7, 8,10
+Hexatonica 321| 3, 4, 5, 7, 8,10
+Hexatonica 322| 0, 1, 6, 7, 8,10
+Hexatonica 323| 0, 2, 6, 7, 8,10
+Hexatonica 324| 1, 2, 6, 7, 8,10
+Hexatonica 325| 0, 3, 6, 7, 8,10
+Hexatonica 326| 1, 3, 6, 7, 8,10
+Hexatonica 327| 2, 3, 6, 7, 8,10
+Hexatonica 328| 0, 4, 6, 7, 8,10
+Hexatonica 329| 1, 4, 6, 7, 8,10
+Hexatonica 330| 2, 4, 6, 7, 8,10
+Hexatonica 331| 3, 4, 6, 7, 8,10
+Hexatonica 332| 0, 5, 6, 7, 8,10
+Hexatonica 333| 1, 5, 6, 7, 8,10
+Hexatonica 334| 2, 5, 6, 7, 8,10
+Hexatonica 335| 3, 5, 6, 7, 8,10
+Hexatonica 336| 4, 5, 6, 7, 8,10
+Hexatonica 337| 0, 1, 2, 3, 9,10
+Hexatonica 338| 0, 1, 2, 4, 9,10
+Hexatonica 339| 0, 1, 3, 4, 9,10
+Hexatonica 340| 0, 2, 3, 4, 9,10
+Hexatonica 341| 1, 2, 3, 4, 9,10
+Hexatonica 342| 0, 1, 2, 5, 9,10
+Hexatonica 343| 0, 1, 3, 5, 9,10
+Hexatonica 344| 0, 2, 3, 5, 9,10
+Hexatonica 345| 1, 2, 3, 5, 9,10
+Hexatonica 346| 0, 1, 4, 5, 9,10
+Hexatonica 347| 0, 2, 4, 5, 9,10
+Hexatonica 348| 1, 2, 4, 5, 9,10
+Hexatonica 349| 0, 3, 4, 5, 9,10
+Hexatonica 350| 1, 3, 4, 5, 9,10
+Hexatonica 351| 2, 3, 4, 5, 9,10
+Hexatonica 352| 0, 1, 2, 6, 9,10
+Hexatonica 353| 0, 1, 3, 6, 9,10
+Hexatonica 354| 0, 2, 3, 6, 9,10
+Hexatonica 355| 1, 2, 3, 6, 9,10
+Hexatonica 356| 0, 1, 4, 6, 9,10
+Hexatonica 357| 0, 2, 4, 6, 9,10
+Hexatonica 358| 1, 2, 4, 6, 9,10
+Hexatonica 359| 0, 3, 4, 6, 9,10
+Hexatonica 360| 1, 3, 4, 6, 9,10
+Hexatonica 361| 2, 3, 4, 6, 9,10
+Hexatonica 362| 0, 1, 5, 6, 9,10
+Hexatonica 363| 0, 2, 5, 6, 9,10
+Hexatonica 364| 1, 2, 5, 6, 9,10
+Hexatonica 365| 0, 3, 5, 6, 9,10
+Hexatonica 366| 1, 3, 5, 6, 9,10
+Hexatonica 367| 2, 3, 5, 6, 9,10
+Hexatonica 368| 0, 4, 5, 6, 9,10
+Hexatonica 369| 1, 4, 5, 6, 9,10
+Hexatonica 370| 2, 4, 5, 6, 9,10
+Hexatonica 371| 3, 4, 5, 6, 9,10
+Hexatonica 372| 0, 1, 2, 7, 9,10
+Hexatonica 373| 0, 1, 3, 7, 9,10
+Hexatonica 374| 0, 2, 3, 7, 9,10
+Hexatonica 375| 1, 2, 3, 7, 9,10
+Hexatonica 376| 0, 1, 4, 7, 9,10
+Hexatonica 377| 0, 2, 4, 7, 9,10
+Hexatonica 378| 1, 2, 4, 7, 9,10
+Hexatonica 379| 0, 3, 4, 7, 9,10
+Hexatonica 380| 1, 3, 4, 7, 9,10
+Hexatonica 381| 2, 3, 4, 7, 9,10
+Hexatonica 382| 0, 1, 5, 7, 9,10
+Hexatonica 383| 0, 2, 5, 7, 9,10
+Hexatonica 384| 1, 2, 5, 7, 9,10
+Hexatonica 385| 0, 3, 5, 7, 9,10
+Hexatonica 386| 1, 3, 5, 7, 9,10
+Hexatonica 387| 2, 3, 5, 7, 9,10
+Hexatonica 388| 0, 4, 5, 7, 9,10
+Hexatonica 389| 1, 4, 5, 7, 9,10
+Hexatonica 390| 2, 4, 5, 7, 9,10
+Hexatonica 391| 3, 4, 5, 7, 9,10
+Hexatonica 392| 0, 1, 6, 7, 9,10
+Hexatonica 393| 0, 2, 6, 7, 9,10
+Hexatonica 394| 1, 2, 6, 7, 9,10
+Hexatonica 395| 0, 3, 6, 7, 9,10
+Hexatonica 396| 1, 3, 6, 7, 9,10
+Hexatonica 397| 2, 3, 6, 7, 9,10
+Hexatonica 398| 0, 4, 6, 7, 9,10
+Hexatonica 399| 1, 4, 6, 7, 9,10
+Hexatonica 400| 2, 4, 6, 7, 9,10
+Hexatonica 401| 3, 4, 6, 7, 9,10
+Hexatonica 402| 0, 5, 6, 7, 9,10
+Hexatonica 403| 1, 5, 6, 7, 9,10
+Hexatonica 404| 2, 5, 6, 7, 9,10
+Hexatonica 405| 3, 5, 6, 7, 9,10
+Hexatonica 406| 4, 5, 6, 7, 9,10
+Hexatonica 407| 0, 1, 2, 8, 9,10
+Hexatonica 408| 0, 1, 3, 8, 9,10
+Hexatonica 409| 0, 2, 3, 8, 9,10
+Hexatonica 410| 1, 2, 3, 8, 9,10
+Hexatonica 411| 0, 1, 4, 8, 9,10
+Hexatonica 412| 0, 2, 4, 8, 9,10
+Hexatonica 413| 1, 2, 4, 8, 9,10
+Hexatonica 414| 0, 3, 4, 8, 9,10
+Hexatonica 415| 1, 3, 4, 8, 9,10
+Hexatonica 416| 2, 3, 4, 8, 9,10
+Hexatonica 417| 0, 1, 5, 8, 9,10
+Hexatonica 418| 0, 2, 5, 8, 9,10
+Hexatonica 419| 1, 2, 5, 8, 9,10
+Hexatonica 420| 0, 3, 5, 8, 9,10
+Hexatonica 421| 1, 3, 5, 8, 9,10
+Hexatonica 422| 2, 3, 5, 8, 9,10
+Hexatonica 423| 0, 4, 5, 8, 9,10
+Hexatonica 424| 1, 4, 5, 8, 9,10
+Hexatonica 425| 2, 4, 5, 8, 9,10
+Hexatonica 426| 3, 4, 5, 8, 9,10
+Hexatonica 427| 0, 1, 6, 8, 9,10
+Hexatonica 428| 0, 2, 6, 8, 9,10
+Hexatonica 429| 1, 2, 6, 8, 9,10
+Hexatonica 430| 0, 3, 6, 8, 9,10
+Hexatonica 431| 1, 3, 6, 8, 9,10
+Hexatonica 432| 2, 3, 6, 8, 9,10
+Hexatonica 433| 0, 4, 6, 8, 9,10
+Hexatonica 434| 1, 4, 6, 8, 9,10
+Hexatonica 435| 2, 4, 6, 8, 9,10
+Hexatonica 436| 3, 4, 6, 8, 9,10
+Hexatonica 437| 0, 5, 6, 8, 9,10
+Hexatonica 438| 1, 5, 6, 8, 9,10
+Hexatonica 439| 2, 5, 6, 8, 9,10
+Hexatonica 440| 3, 5, 6, 8, 9,10
+Hexatonica 441| 4, 5, 6, 8, 9,10
+Hexatonica 442| 0, 1, 7, 8, 9,10
+Hexatonica 443| 0, 2, 7, 8, 9,10
+Hexatonica 444| 1, 2, 7, 8, 9,10
+Hexatonica 445| 0, 3, 7, 8, 9,10
+Hexatonica 446| 1, 3, 7, 8, 9,10
+Hexatonica 447| 2, 3, 7, 8, 9,10
+Hexatonica 448| 0, 4, 7, 8, 9,10
+Hexatonica 449| 1, 4, 7, 8, 9,10
+Hexatonica 450| 2, 4, 7, 8, 9,10
+Hexatonica 451| 3, 4, 7, 8, 9,10
+Hexatonica 452| 0, 5, 7, 8, 9,10
+Hexatonica 453| 1, 5, 7, 8, 9,10
+Hexatonica 454| 2, 5, 7, 8, 9,10
+Hexatonica 455| 3, 5, 7, 8, 9,10
+Hexatonica 456| 4, 5, 7, 8, 9,10
+Hexatonica 457| 0, 6, 7, 8, 9,10
+Hexatonica 458| 1, 6, 7, 8, 9,10
+Hexatonica 459| 2, 6, 7, 8, 9,10
+Hexatonica 460| 3, 6, 7, 8, 9,10
+Hexatonica 461| 4, 6, 7, 8, 9,10
+Hexatonica 462| 5, 6, 7, 8, 9,10
+Hexatonica 463| 0, 1, 2, 3, 4,11
+Hexatonica 464| 0, 1, 2, 3, 5,11
+Hexatonica 465| 0, 1, 2, 4, 5,11
+Hexatonica 466| 0, 1, 3, 4, 5,11
+Hexatonica 467| 0, 2, 3, 4, 5,11
+Hexatonica 468| 1, 2, 3, 4, 5,11
+Hexatonica 469| 0, 1, 2, 3, 6,11
+Hexatonica 470| 0, 1, 2, 4, 6,11
+Hexatonica 471| 0, 1, 3, 4, 6,11
+Hexatonica 472| 0, 2, 3, 4, 6,11
+Hexatonica 473| 1, 2, 3, 4, 6,11
+Hexatonica 474| 0, 1, 2, 5, 6,11
+Hexatonica 475| 0, 1, 3, 5, 6,11
+Hexatonica 476| 0, 2, 3, 5, 6,11
+Hexatonica 477| 1, 2, 3, 5, 6,11
+Hexatonica 478| 0, 1, 4, 5, 6,11
+Hexatonica 479| 0, 2, 4, 5, 6,11
+Hexatonica 480| 1, 2, 4, 5, 6,11
+Hexatonica 481| 0, 3, 4, 5, 6,11
+Hexatonica 482| 1, 3, 4, 5, 6,11
+Hexatonica 483| 2, 3, 4, 5, 6,11
+Hexatonica 484| 0, 1, 2, 3, 7,11
+Hexatonica 485| 0, 1, 2, 4, 7,11
+Hexatonica 486| 0, 1, 3, 4, 7,11
+Hexatonica 487| 0, 2, 3, 4, 7,11
+Hexatonica 488| 1, 2, 3, 4, 7,11
+Hexatonica 489| 0, 1, 2, 5, 7,11
+Hexatonica 490| 0, 1, 3, 5, 7,11
+Hexatonica 491| 0, 2, 3, 5, 7,11
+Hexatonica 492| 1, 2, 3, 5, 7,11
+Hexatonica 493| 0, 1, 4, 5, 7,11
+Hexatonica 494| 0, 2, 4, 5, 7,11
+Hexatonica 495| 1, 2, 4, 5, 7,11
+Hexatonica 496| 0, 3, 4, 5, 7,11
+Hexatonica 497| 1, 3, 4, 5, 7,11
+Hexatonica 498| 2, 3, 4, 5, 7,11
+Hexatonica 499| 0, 1, 2, 6, 7,11
+Hexatonica 500| 0, 1, 3, 6, 7,11
+Hexatonica 501| 0, 2, 3, 6, 7,11
+Hexatonica 502| 1, 2, 3, 6, 7,11
+Hexatonica 503| 0, 1, 4, 6, 7,11
+Hexatonica 504| 0, 2, 4, 6, 7,11
+Hexatonica 505| 1, 2, 4, 6, 7,11
+Hexatonica 506| 0, 3, 4, 6, 7,11
+Hexatonica 507| 1, 3, 4, 6, 7,11
+Hexatonica 508| 2, 3, 4, 6, 7,11
+Hexatonica 509| 0, 1, 5, 6, 7,11
+Hexatonica 510| 0, 2, 5, 6, 7,11
+Hexatonica 511| 1, 2, 5, 6, 7,11
+Hexatonica 512| 0, 3, 5, 6, 7,11
+Hexatonica 513| 1, 3, 5, 6, 7,11
+Hexatonica 514| 2, 3, 5, 6, 7,11
+Hexatonica 515| 0, 4, 5, 6, 7,11
+Hexatonica 516| 1, 4, 5, 6, 7,11
+Hexatonica 517| 2, 4, 5, 6, 7,11
+Hexatonica 518| 3, 4, 5, 6, 7,11
+Hexatonica 519| 0, 1, 2, 3, 8,11
+Hexatonica 520| 0, 1, 2, 4, 8,11
+Hexatonica 521| 0, 1, 3, 4, 8,11
+Hexatonica 522| 0, 2, 3, 4, 8,11
+Hexatonica 523| 1, 2, 3, 4, 8,11
+Hexatonica 524| 0, 1, 2, 5, 8,11
+Hexatonica 525| 0, 1, 3, 5, 8,11
+Hexatonica 526| 0, 2, 3, 5, 8,11
+Hexatonica 527| 1, 2, 3, 5, 8,11
+Hexatonica 528| 0, 1, 4, 5, 8,11
+Hexatonica 529| 0, 2, 4, 5, 8,11
+Hexatonica 530| 1, 2, 4, 5, 8,11
+Hexatonica 531| 0, 3, 4, 5, 8,11
+Hexatonica 532| 1, 3, 4, 5, 8,11
+Hexatonica 533| 2, 3, 4, 5, 8,11
+Hexatonica 534| 0, 1, 2, 6, 8,11
+Hexatonica 535| 0, 1, 3, 6, 8,11
+Hexatonica 536| 0, 2, 3, 6, 8,11
+Hexatonica 537| 1, 2, 3, 6, 8,11
+Hexatonica 538| 0, 1, 4, 6, 8,11
+Hexatonica 539| 0, 2, 4, 6, 8,11
+Hexatonica 540| 1, 2, 4, 6, 8,11
+Hexatonica 541| 0, 3, 4, 6, 8,11
+Hexatonica 542| 1, 3, 4, 6, 8,11
+Hexatonica 543| 2, 3, 4, 6, 8,11
+Hexatonica 544| 0, 1, 5, 6, 8,11
+Hexatonica 545| 0, 2, 5, 6, 8,11
+Hexatonica 546| 1, 2, 5, 6, 8,11
+Hexatonica 547| 0, 3, 5, 6, 8,11
+Hexatonica 548| 1, 3, 5, 6, 8,11
+Hexatonica 549| 2, 3, 5, 6, 8,11
+Hexatonica 550| 0, 4, 5, 6, 8,11
+Hexatonica 551| 1, 4, 5, 6, 8,11
+Hexatonica 552| 2, 4, 5, 6, 8,11
+Hexatonica 553| 3, 4, 5, 6, 8,11
+Hexatonica 554| 0, 1, 2, 7, 8,11
+Hexatonica 555| 0, 1, 3, 7, 8,11
+Hexatonica 556| 0, 2, 3, 7, 8,11
+Hexatonica 557| 1, 2, 3, 7, 8,11
+Hexatonica 558| 0, 1, 4, 7, 8,11
+Hexatonica 559| 0, 2, 4, 7, 8,11
+Hexatonica 560| 1, 2, 4, 7, 8,11
+Hexatonica 561| 0, 3, 4, 7, 8,11
+Hexatonica 562| 1, 3, 4, 7, 8,11
+Hexatonica 563| 2, 3, 4, 7, 8,11
+Hexatonica 564| 0, 1, 5, 7, 8,11
+Hexatonica 565| 0, 2, 5, 7, 8,11
+Hexatonica 566| 1, 2, 5, 7, 8,11
+Hexatonica 567| 0, 3, 5, 7, 8,11
+Hexatonica 568| 1, 3, 5, 7, 8,11
+Hexatonica 569| 2, 3, 5, 7, 8,11
+Hexatonica 570| 0, 4, 5, 7, 8,11
+Hexatonica 571| 1, 4, 5, 7, 8,11
+Hexatonica 572| 2, 4, 5, 7, 8,11
+Hexatonica 573| 3, 4, 5, 7, 8,11
+Hexatonica 574| 0, 1, 6, 7, 8,11
+Hexatonica 575| 0, 2, 6, 7, 8,11
+Hexatonica 576| 1, 2, 6, 7, 8,11
+Hexatonica 577| 0, 3, 6, 7, 8,11
+Hexatonica 578| 1, 3, 6, 7, 8,11
+Hexatonica 579| 2, 3, 6, 7, 8,11
+Hexatonica 580| 0, 4, 6, 7, 8,11
+Hexatonica 581| 1, 4, 6, 7, 8,11
+Hexatonica 582| 2, 4, 6, 7, 8,11
+Hexatonica 583| 3, 4, 6, 7, 8,11
+Hexatonica 584| 0, 5, 6, 7, 8,11
+Hexatonica 585| 1, 5, 6, 7, 8,11
+Hexatonica 586| 2, 5, 6, 7, 8,11
+Hexatonica 587| 3, 5, 6, 7, 8,11
+Hexatonica 588| 4, 5, 6, 7, 8,11
+Hexatonica 589| 0, 1, 2, 3, 9,11
+Hexatonica 590| 0, 1, 2, 4, 9,11
+Hexatonica 591| 0, 1, 3, 4, 9,11
+Hexatonica 592| 0, 2, 3, 4, 9,11
+Hexatonica 593| 1, 2, 3, 4, 9,11
+Hexatonica 594| 0, 1, 2, 5, 9,11
+Hexatonica 595| 0, 1, 3, 5, 9,11
+Hexatonica 596| 0, 2, 3, 5, 9,11
+Hexatonica 597| 1, 2, 3, 5, 9,11
+Hexatonica 598| 0, 1, 4, 5, 9,11
+Hexatonica 599| 0, 2, 4, 5, 9,11
+Hexatonica 600| 1, 2, 4, 5, 9,11
+Hexatonica 601| 0, 3, 4, 5, 9,11
+Hexatonica 602| 1, 3, 4, 5, 9,11
+Hexatonica 603| 2, 3, 4, 5, 9,11
+Hexatonica 604| 0, 1, 2, 6, 9,11
+Hexatonica 605| 0, 1, 3, 6, 9,11
+Hexatonica 606| 0, 2, 3, 6, 9,11
+Hexatonica 607| 1, 2, 3, 6, 9,11
+Hexatonica 608| 0, 1, 4, 6, 9,11
+Hexatonica 609| 0, 2, 4, 6, 9,11
+Hexatonica 610| 1, 2, 4, 6, 9,11
+Hexatonica 611| 0, 3, 4, 6, 9,11
+Hexatonica 612| 1, 3, 4, 6, 9,11
+Hexatonica 613| 2, 3, 4, 6, 9,11
+Hexatonica 614| 0, 1, 5, 6, 9,11
+Hexatonica 615| 0, 2, 5, 6, 9,11
+Hexatonica 616| 1, 2, 5, 6, 9,11
+Hexatonica 617| 0, 3, 5, 6, 9,11
+Hexatonica 618| 1, 3, 5, 6, 9,11
+Hexatonica 619| 2, 3, 5, 6, 9,11
+Hexatonica 620| 0, 4, 5, 6, 9,11
+Hexatonica 621| 1, 4, 5, 6, 9,11
+Hexatonica 622| 2, 4, 5, 6, 9,11
+Hexatonica 623| 3, 4, 5, 6, 9,11
+Hexatonica 624| 0, 1, 2, 7, 9,11
+Hexatonica 625| 0, 1, 3, 7, 9,11
+Hexatonica 626| 0, 2, 3, 7, 9,11
+Hexatonica 627| 1, 2, 3, 7, 9,11
+Hexatonica 628| 0, 1, 4, 7, 9,11
+Hexatonica 629| 0, 2, 4, 7, 9,11
+Hexatonica 630| 1, 2, 4, 7, 9,11
+Hexatonica 631| 0, 3, 4, 7, 9,11
+Hexatonica 632| 1, 3, 4, 7, 9,11
+Hexatonica 633| 2, 3, 4, 7, 9,11
+Hexatonica 634| 0, 1, 5, 7, 9,11
+Hexatonica 635| 0, 2, 5, 7, 9,11
+Hexatonica 636| 1, 2, 5, 7, 9,11
+Hexatonica 637| 0, 3, 5, 7, 9,11
+Hexatonica 638| 1, 3, 5, 7, 9,11
+Hexatonica 639| 2, 3, 5, 7, 9,11
+Hexatonica 640| 0, 4, 5, 7, 9,11
+Hexatonica 641| 1, 4, 5, 7, 9,11
+Hexatonica 642| 2, 4, 5, 7, 9,11
+Hexatonica 643| 3, 4, 5, 7, 9,11
+Hexatonica 644| 0, 1, 6, 7, 9,11
+Hexatonica 645| 0, 2, 6, 7, 9,11
+Hexatonica 646| 1, 2, 6, 7, 9,11
+Hexatonica 647| 0, 3, 6, 7, 9,11
+Hexatonica 648| 1, 3, 6, 7, 9,11
+Hexatonica 649| 2, 3, 6, 7, 9,11
+Hexatonica 650| 0, 4, 6, 7, 9,11
+Hexatonica 651| 1, 4, 6, 7, 9,11
+Hexatonica 652| 2, 4, 6, 7, 9,11
+Hexatonica 653| 3, 4, 6, 7, 9,11
+Hexatonica 654| 0, 5, 6, 7, 9,11
+Hexatonica 655| 1, 5, 6, 7, 9,11
+Hexatonica 656| 2, 5, 6, 7, 9,11
+Hexatonica 657| 3, 5, 6, 7, 9,11
+Hexatonica 658| 4, 5, 6, 7, 9,11
+Hexatonica 659| 0, 1, 2, 8, 9,11
+Hexatonica 660| 0, 1, 3, 8, 9,11
+Hexatonica 661| 0, 2, 3, 8, 9,11
+Hexatonica 662| 1, 2, 3, 8, 9,11
+Hexatonica 663| 0, 1, 4, 8, 9,11
+Hexatonica 664| 0, 2, 4, 8, 9,11
+Hexatonica 665| 1, 2, 4, 8, 9,11
+Hexatonica 666| 0, 3, 4, 8, 9,11
+Hexatonica 667| 1, 3, 4, 8, 9,11
+Hexatonica 668| 2, 3, 4, 8, 9,11
+Hexatonica 669| 0, 1, 5, 8, 9,11
+Hexatonica 670| 0, 2, 5, 8, 9,11
+Hexatonica 671| 1, 2, 5, 8, 9,11
+Hexatonica 672| 0, 3, 5, 8, 9,11
+Hexatonica 673| 1, 3, 5, 8, 9,11
+Hexatonica 674| 2, 3, 5, 8, 9,11
+Hexatonica 675| 0, 4, 5, 8, 9,11
+Hexatonica 676| 1, 4, 5, 8, 9,11
+Hexatonica 677| 2, 4, 5, 8, 9,11
+Hexatonica 678| 3, 4, 5, 8, 9,11
+Hexatonica 679| 0, 1, 6, 8, 9,11
+Hexatonica 680| 0, 2, 6, 8, 9,11
+Hexatonica 681| 1, 2, 6, 8, 9,11
+Hexatonica 682| 0, 3, 6, 8, 9,11
+Hexatonica 683| 1, 3, 6, 8, 9,11
+Hexatonica 684| 2, 3, 6, 8, 9,11
+Hexatonica 685| 0, 4, 6, 8, 9,11
+Hexatonica 686| 1, 4, 6, 8, 9,11
+Hexatonica 687| 2, 4, 6, 8, 9,11
+Hexatonica 688| 3, 4, 6, 8, 9,11
+Hexatonica 689| 0, 5, 6, 8, 9,11
+Hexatonica 690| 1, 5, 6, 8, 9,11
+Hexatonica 691| 2, 5, 6, 8, 9,11
+Hexatonica 692| 3, 5, 6, 8, 9,11
+Hexatonica 693| 4, 5, 6, 8, 9,11
+Hexatonica 694| 0, 1, 7, 8, 9,11
+Hexatonica 695| 0, 2, 7, 8, 9,11
+Hexatonica 696| 1, 2, 7, 8, 9,11
+Hexatonica 697| 0, 3, 7, 8, 9,11
+Hexatonica 698| 1, 3, 7, 8, 9,11
+Hexatonica 699| 2, 3, 7, 8, 9,11
+Hexatonica 700| 0, 4, 7, 8, 9,11
+Hexatonica 701| 1, 4, 7, 8, 9,11
+Hexatonica 702| 2, 4, 7, 8, 9,11
+Hexatonica 703| 3, 4, 7, 8, 9,11
+Hexatonica 704| 0, 5, 7, 8, 9,11
+Hexatonica 705| 1, 5, 7, 8, 9,11
+Hexatonica 706| 2, 5, 7, 8, 9,11
+Hexatonica 707| 3, 5, 7, 8, 9,11
+Hexatonica 708| 4, 5, 7, 8, 9,11
+Hexatonica 709| 0, 6, 7, 8, 9,11
+Hexatonica 710| 1, 6, 7, 8, 9,11
+Hexatonica 711| 2, 6, 7, 8, 9,11
+Hexatonica 712| 3, 6, 7, 8, 9,11
+Hexatonica 713| 4, 6, 7, 8, 9,11
+Hexatonica 714| 5, 6, 7, 8, 9,11
+Hexatonica 715| 0, 1, 2, 3,10,11
+Hexatonica 716| 0, 1, 2, 4,10,11
+Hexatonica 717| 0, 1, 3, 4,10,11
+Hexatonica 718| 0, 2, 3, 4,10,11
+Hexatonica 719| 1, 2, 3, 4,10,11
+Hexatonica 720| 0, 1, 2, 5,10,11
+Hexatonica 721| 0, 1, 3, 5,10,11
+Hexatonica 722| 0, 2, 3, 5,10,11
+Hexatonica 723| 1, 2, 3, 5,10,11
+Hexatonica 724| 0, 1, 4, 5,10,11
+Hexatonica 725| 0, 2, 4, 5,10,11
+Hexatonica 726| 1, 2, 4, 5,10,11
+Hexatonica 727| 0, 3, 4, 5,10,11
+Hexatonica 728| 1, 3, 4, 5,10,11
+Hexatonica 729| 2, 3, 4, 5,10,11
+Hexatonica 730| 0, 1, 2, 6,10,11
+Hexatonica 731| 0, 1, 3, 6,10,11
+Hexatonica 732| 0, 2, 3, 6,10,11
+Hexatonica 733| 1, 2, 3, 6,10,11
+Hexatonica 734| 0, 1, 4, 6,10,11
+Hexatonica 735| 0, 2, 4, 6,10,11
+Hexatonica 736| 1, 2, 4, 6,10,11
+Hexatonica 737| 0, 3, 4, 6,10,11
+Hexatonica 738| 1, 3, 4, 6,10,11
+Hexatonica 739| 2, 3, 4, 6,10,11
+Hexatonica 740| 0, 1, 5, 6,10,11
+Hexatonica 741| 0, 2, 5, 6,10,11
+Hexatonica 742| 1, 2, 5, 6,10,11
+Hexatonica 743| 0, 3, 5, 6,10,11
+Hexatonica 744| 1, 3, 5, 6,10,11
+Hexatonica 745| 2, 3, 5, 6,10,11
+Hexatonica 746| 0, 4, 5, 6,10,11
+Hexatonica 747| 1, 4, 5, 6,10,11
+Hexatonica 748| 2, 4, 5, 6,10,11
+Hexatonica 749| 3, 4, 5, 6,10,11
+Hexatonica 750| 0, 1, 2, 7,10,11
+Hexatonica 751| 0, 1, 3, 7,10,11
+Hexatonica 752| 0, 2, 3, 7,10,11
+Hexatonica 753| 1, 2, 3, 7,10,11
+Hexatonica 754| 0, 1, 4, 7,10,11
+Hexatonica 755| 0, 2, 4, 7,10,11
+Hexatonica 756| 1, 2, 4, 7,10,11
+Hexatonica 757| 0, 3, 4, 7,10,11
+Hexatonica 758| 1, 3, 4, 7,10,11
+Hexatonica 759| 2, 3, 4, 7,10,11
+Hexatonica 760| 0, 1, 5, 7,10,11
+Hexatonica 761| 0, 2, 5, 7,10,11
+Hexatonica 762| 1, 2, 5, 7,10,11
+Hexatonica 763| 0, 3, 5, 7,10,11
+Hexatonica 764| 1, 3, 5, 7,10,11
+Hexatonica 765| 2, 3, 5, 7,10,11
+Hexatonica 766| 0, 4, 5, 7,10,11
+Hexatonica 767| 1, 4, 5, 7,10,11
+Hexatonica 768| 2, 4, 5, 7,10,11
+Hexatonica 769| 3, 4, 5, 7,10,11
+Hexatonica 770| 0, 1, 6, 7,10,11
+Hexatonica 771| 0, 2, 6, 7,10,11
+Hexatonica 772| 1, 2, 6, 7,10,11
+Hexatonica 773| 0, 3, 6, 7,10,11
+Hexatonica 774| 1, 3, 6, 7,10,11
+Hexatonica 775| 2, 3, 6, 7,10,11
+Hexatonica 776| 0, 4, 6, 7,10,11
+Hexatonica 777| 1, 4, 6, 7,10,11
+Hexatonica 778| 2, 4, 6, 7,10,11
+Hexatonica 779| 3, 4, 6, 7,10,11
+Hexatonica 780| 0, 5, 6, 7,10,11
+Hexatonica 781| 1, 5, 6, 7,10,11
+Hexatonica 782| 2, 5, 6, 7,10,11
+Hexatonica 783| 3, 5, 6, 7,10,11
+Hexatonica 784| 4, 5, 6, 7,10,11
+Hexatonica 785| 0, 1, 2, 8,10,11
+Hexatonica 786| 0, 1, 3, 8,10,11
+Hexatonica 787| 0, 2, 3, 8,10,11
+Hexatonica 788| 1, 2, 3, 8,10,11
+Hexatonica 789| 0, 1, 4, 8,10,11
+Hexatonica 790| 0, 2, 4, 8,10,11
+Hexatonica 791| 1, 2, 4, 8,10,11
+Hexatonica 792| 0, 3, 4, 8,10,11
+Hexatonica 793| 1, 3, 4, 8,10,11
+Hexatonica 794| 2, 3, 4, 8,10,11
+Hexatonica 795| 0, 1, 5, 8,10,11
+Hexatonica 796| 0, 2, 5, 8,10,11
+Hexatonica 797| 1, 2, 5, 8,10,11
+Hexatonica 798| 0, 3, 5, 8,10,11
+Hexatonica 799| 1, 3, 5, 8,10,11
+Hexatonica 800| 2, 3, 5, 8,10,11
+Hexatonica 801| 0, 4, 5, 8,10,11
+Hexatonica 802| 1, 4, 5, 8,10,11
+Hexatonica 803| 2, 4, 5, 8,10,11
+Hexatonica 804| 3, 4, 5, 8,10,11
+Hexatonica 805| 0, 1, 6, 8,10,11
+Hexatonica 806| 0, 2, 6, 8,10,11
+Hexatonica 807| 1, 2, 6, 8,10,11
+Hexatonica 808| 0, 3, 6, 8,10,11
+Hexatonica 809| 1, 3, 6, 8,10,11
+Hexatonica 810| 2, 3, 6, 8,10,11
+Hexatonica 811| 0, 4, 6, 8,10,11
+Hexatonica 812| 1, 4, 6, 8,10,11
+Hexatonica 813| 2, 4, 6, 8,10,11
+Hexatonica 814| 3, 4, 6, 8,10,11
+Hexatonica 815| 0, 5, 6, 8,10,11
+Hexatonica 816| 1, 5, 6, 8,10,11
+Hexatonica 817| 2, 5, 6, 8,10,11
+Hexatonica 818| 3, 5, 6, 8,10,11
+Hexatonica 819| 4, 5, 6, 8,10,11
+Hexatonica 820| 0, 1, 7, 8,10,11
+Hexatonica 821| 0, 2, 7, 8,10,11
+Hexatonica 822| 1, 2, 7, 8,10,11
+Hexatonica 823| 0, 3, 7, 8,10,11
+Hexatonica 824| 1, 3, 7, 8,10,11
+Hexatonica 825| 2, 3, 7, 8,10,11
+Hexatonica 826| 0, 4, 7, 8,10,11
+Hexatonica 827| 1, 4, 7, 8,10,11
+Hexatonica 828| 2, 4, 7, 8,10,11
+Hexatonica 829| 3, 4, 7, 8,10,11
+Hexatonica 830| 0, 5, 7, 8,10,11
+Hexatonica 831| 1, 5, 7, 8,10,11
+Hexatonica 832| 2, 5, 7, 8,10,11
+Hexatonica 833| 3, 5, 7, 8,10,11
+Hexatonica 834| 4, 5, 7, 8,10,11
+Hexatonica 835| 0, 6, 7, 8,10,11
+Hexatonica 836| 1, 6, 7, 8,10,11
+Hexatonica 837| 2, 6, 7, 8,10,11
+Hexatonica 838| 3, 6, 7, 8,10,11
+Hexatonica 839| 4, 6, 7, 8,10,11
+Hexatonica 840| 5, 6, 7, 8,10,11
+Hexatonica 841| 0, 1, 2, 9,10,11
+Hexatonica 842| 0, 1, 3, 9,10,11
+Hexatonica 843| 0, 2, 3, 9,10,11
+Hexatonica 844| 1, 2, 3, 9,10,11
+Hexatonica 845| 0, 1, 4, 9,10,11
+Hexatonica 846| 0, 2, 4, 9,10,11
+Hexatonica 847| 1, 2, 4, 9,10,11
+Hexatonica 848| 0, 3, 4, 9,10,11
+Hexatonica 849| 1, 3, 4, 9,10,11
+Hexatonica 850| 2, 3, 4, 9,10,11
+Hexatonica 851| 0, 1, 5, 9,10,11
+Hexatonica 852| 0, 2, 5, 9,10,11
+Hexatonica 853| 1, 2, 5, 9,10,11
+Hexatonica 854| 0, 3, 5, 9,10,11
+Hexatonica 855| 1, 3, 5, 9,10,11
+Hexatonica 856| 2, 3, 5, 9,10,11
+Hexatonica 857| 0, 4, 5, 9,10,11
+Hexatonica 858| 1, 4, 5, 9,10,11
+Hexatonica 859| 2, 4, 5, 9,10,11
+Hexatonica 860| 3, 4, 5, 9,10,11
+Hexatonica 861| 0, 1, 6, 9,10,11
+Hexatonica 862| 0, 2, 6, 9,10,11
+Hexatonica 863| 1, 2, 6, 9,10,11
+Hexatonica 864| 0, 3, 6, 9,10,11
+Hexatonica 865| 1, 3, 6, 9,10,11
+Hexatonica 866| 2, 3, 6, 9,10,11
+Hexatonica 867| 0, 4, 6, 9,10,11
+Hexatonica 868| 1, 4, 6, 9,10,11
+Hexatonica 869| 2, 4, 6, 9,10,11
+Hexatonica 870| 3, 4, 6, 9,10,11
+Hexatonica 871| 0, 5, 6, 9,10,11
+Hexatonica 872| 1, 5, 6, 9,10,11
+Hexatonica 873| 2, 5, 6, 9,10,11
+Hexatonica 874| 3, 5, 6, 9,10,11
+Hexatonica 875| 4, 5, 6, 9,10,11
+Hexatonica 876| 0, 1, 7, 9,10,11
+Hexatonica 877| 0, 2, 7, 9,10,11
+Hexatonica 878| 1, 2, 7, 9,10,11
+Hexatonica 879| 0, 3, 7, 9,10,11
+Hexatonica 880| 1, 3, 7, 9,10,11
+Hexatonica 881| 2, 3, 7, 9,10,11
+Hexatonica 882| 0, 4, 7, 9,10,11
+Hexatonica 883| 1, 4, 7, 9,10,11
+Hexatonica 884| 2, 4, 7, 9,10,11
+Hexatonica 885| 3, 4, 7, 9,10,11
+Hexatonica 886| 0, 5, 7, 9,10,11
+Hexatonica 887| 1, 5, 7, 9,10,11
+Hexatonica 888| 2, 5, 7, 9,10,11
+Hexatonica 889| 3, 5, 7, 9,10,11
+Hexatonica 890| 4, 5, 7, 9,10,11
+Hexatonica 891| 0, 6, 7, 9,10,11
+Hexatonica 892| 1, 6, 7, 9,10,11
+Hexatonica 893| 2, 6, 7, 9,10,11
+Hexatonica 894| 3, 6, 7, 9,10,11
+Hexatonica 895| 4, 6, 7, 9,10,11
+Hexatonica 896| 5, 6, 7, 9,10,11
+Hexatonica 897| 0, 1, 8, 9,10,11
+Hexatonica 898| 0, 2, 8, 9,10,11
+Hexatonica 899| 1, 2, 8, 9,10,11
+Hexatonica 900| 0, 3, 8, 9,10,11
+Hexatonica 901| 1, 3, 8, 9,10,11
+Hexatonica 902| 2, 3, 8, 9,10,11
+Hexatonica 903| 0, 4, 8, 9,10,11
+Hexatonica 904| 1, 4, 8, 9,10,11
+Hexatonica 905| 2, 4, 8, 9,10,11
+Hexatonica 906| 3, 4, 8, 9,10,11
+Hexatonica 907| 0, 5, 8, 9,10,11
+Hexatonica 908| 1, 5, 8, 9,10,11
+Hexatonica 909| 2, 5, 8, 9,10,11
+Hexatonica 910| 3, 5, 8, 9,10,11
+Hexatonica 911| 4, 5, 8, 9,10,11
+Hexatonica 912| 0, 6, 8, 9,10,11
+Hexatonica 913| 1, 6, 8, 9,10,11
+Hexatonica 914| 2, 6, 8, 9,10,11
+Hexatonica 915| 3, 6, 8, 9,10,11
+Hexatonica 916| 4, 6, 8, 9,10,11
+Hexatonica 917| 5, 6, 8, 9,10,11
+Hexatonica 918| 0, 7, 8, 9,10,11
+Hexatonica 919| 1, 7, 8, 9,10,11
+Hexatonica 920| 2, 7, 8, 9,10,11
+Hexatonica 921| 3, 7, 8, 9,10,11
+Hexatonica 922| 4, 7, 8, 9,10,11
+Hexatonica 923| 5, 7, 8, 9,10,11
+Hexatonica 924| 6, 7, 8, 9,10,11
+Heptatonica 1| 0, 1, 2, 3, 4, 5, 6
+Heptatonica 2| 0, 1, 2, 3, 4, 5, 7
+Heptatonica 3| 0, 1, 2, 3, 4, 6, 7
+Heptatonica 4| 0, 1, 2, 3, 5, 6, 7
+Heptatonica 5| 0, 1, 2, 4, 5, 6, 7
+Heptatonica 6| 0, 1, 3, 4, 5, 6, 7
+Heptatonica 7| 0, 2, 3, 4, 5, 6, 7
+Heptatonica 8| 1, 2, 3, 4, 5, 6, 7
+Heptatonica 9| 0, 1, 2, 3, 4, 5, 8
+Heptatonica 10| 0, 1, 2, 3, 4, 6, 8
+Heptatonica 11| 0, 1, 2, 3, 5, 6, 8
+Heptatonica 12| 0, 1, 2, 4, 5, 6, 8
+Heptatonica 13| 0, 1, 3, 4, 5, 6, 8
+Heptatonica 14| 0, 2, 3, 4, 5, 6, 8
+Heptatonica 15| 1, 2, 3, 4, 5, 6, 8
+Heptatonica 16| 0, 1, 2, 3, 4, 7, 8
+Heptatonica 17| 0, 1, 2, 3, 5, 7, 8
+Heptatonica 18| 0, 1, 2, 4, 5, 7, 8
+Heptatonica 19| 0, 1, 3, 4, 5, 7, 8
+Heptatonica 20| 0, 2, 3, 4, 5, 7, 8
+Heptatonica 21| 1, 2, 3, 4, 5, 7, 8
+Heptatonica 22| 0, 1, 2, 3, 6, 7, 8
+Heptatonica 23| 0, 1, 2, 4, 6, 7, 8
+Heptatonica 24| 0, 1, 3, 4, 6, 7, 8
+Heptatonica 25| 0, 2, 3, 4, 6, 7, 8
+Heptatonica 26| 1, 2, 3, 4, 6, 7, 8
+Heptatonica 27| 0, 1, 2, 5, 6, 7, 8
+Heptatonica 28| 0, 1, 3, 5, 6, 7, 8
+Heptatonica 29| 0, 2, 3, 5, 6, 7, 8
+Heptatonica 30| 1, 2, 3, 5, 6, 7, 8
+Heptatonica 31| 0, 1, 4, 5, 6, 7, 8
+Heptatonica 32| 0, 2, 4, 5, 6, 7, 8
+Heptatonica 33| 1, 2, 4, 5, 6, 7, 8
+Heptatonica 34| 0, 3, 4, 5, 6, 7, 8
+Heptatonica 35| 1, 3, 4, 5, 6, 7, 8
+Heptatonica 36| 2, 3, 4, 5, 6, 7, 8
+Heptatonica 37| 0, 1, 2, 3, 4, 5, 9
+Heptatonica 38| 0, 1, 2, 3, 4, 6, 9
+Heptatonica 39| 0, 1, 2, 3, 5, 6, 9
+Heptatonica 40| 0, 1, 2, 4, 5, 6, 9
+Heptatonica 41| 0, 1, 3, 4, 5, 6, 9
+Heptatonica 42| 0, 2, 3, 4, 5, 6, 9
+Heptatonica 43| 1, 2, 3, 4, 5, 6, 9
+Heptatonica 44| 0, 1, 2, 3, 4, 7, 9
+Heptatonica 45| 0, 1, 2, 3, 5, 7, 9
+Heptatonica 46| 0, 1, 2, 4, 5, 7, 9
+Heptatonica 47| 0, 1, 3, 4, 5, 7, 9
+Heptatonica 48| 0, 2, 3, 4, 5, 7, 9
+Heptatonica 49| 1, 2, 3, 4, 5, 7, 9
+Heptatonica 50| 0, 1, 2, 3, 6, 7, 9
+Heptatonica 51| 0, 1, 2, 4, 6, 7, 9
+Heptatonica 52| 0, 1, 3, 4, 6, 7, 9
+Heptatonica 53| 0, 2, 3, 4, 6, 7, 9
+Heptatonica 54| 1, 2, 3, 4, 6, 7, 9
+Heptatonica 55| 0, 1, 2, 5, 6, 7, 9
+Heptatonica 56| 0, 1, 3, 5, 6, 7, 9
+Heptatonica 57| 0, 2, 3, 5, 6, 7, 9
+Heptatonica 58| 1, 2, 3, 5, 6, 7, 9
+Heptatonica 59| 0, 1, 4, 5, 6, 7, 9
+Heptatonica 60| 0, 2, 4, 5, 6, 7, 9
+Heptatonica 61| 1, 2, 4, 5, 6, 7, 9
+Heptatonica 62| 0, 3, 4, 5, 6, 7, 9
+Heptatonica 63| 1, 3, 4, 5, 6, 7, 9
+Heptatonica 64| 2, 3, 4, 5, 6, 7, 9
+Heptatonica 65| 0, 1, 2, 3, 4, 8, 9
+Heptatonica 66| 0, 1, 2, 3, 5, 8, 9
+Heptatonica 67| 0, 1, 2, 4, 5, 8, 9
+Heptatonica 68| 0, 1, 3, 4, 5, 8, 9
+Heptatonica 69| 0, 2, 3, 4, 5, 8, 9
+Heptatonica 70| 1, 2, 3, 4, 5, 8, 9
+Heptatonica 71| 0, 1, 2, 3, 6, 8, 9
+Heptatonica 72| 0, 1, 2, 4, 6, 8, 9
+Heptatonica 73| 0, 1, 3, 4, 6, 8, 9
+Heptatonica 74| 0, 2, 3, 4, 6, 8, 9
+Heptatonica 75| 1, 2, 3, 4, 6, 8, 9
+Heptatonica 76| 0, 1, 2, 5, 6, 8, 9
+Heptatonica 77| 0, 1, 3, 5, 6, 8, 9
+Heptatonica 78| 0, 2, 3, 5, 6, 8, 9
+Heptatonica 79| 1, 2, 3, 5, 6, 8, 9
+Heptatonica 80| 0, 1, 4, 5, 6, 8, 9
+Heptatonica 81| 0, 2, 4, 5, 6, 8, 9
+Heptatonica 82| 1, 2, 4, 5, 6, 8, 9
+Heptatonica 83| 0, 3, 4, 5, 6, 8, 9
+Heptatonica 84| 1, 3, 4, 5, 6, 8, 9
+Heptatonica 85| 2, 3, 4, 5, 6, 8, 9
+Heptatonica 86| 0, 1, 2, 3, 7, 8, 9
+Heptatonica 87| 0, 1, 2, 4, 7, 8, 9
+Heptatonica 88| 0, 1, 3, 4, 7, 8, 9
+Heptatonica 89| 0, 2, 3, 4, 7, 8, 9
+Heptatonica 90| 1, 2, 3, 4, 7, 8, 9
+Heptatonica 91| 0, 1, 2, 5, 7, 8, 9
+Heptatonica 92| 0, 1, 3, 5, 7, 8, 9
+Heptatonica 93| 0, 2, 3, 5, 7, 8, 9
+Heptatonica 94| 1, 2, 3, 5, 7, 8, 9
+Heptatonica 95| 0, 1, 4, 5, 7, 8, 9
+Heptatonica 96| 0, 2, 4, 5, 7, 8, 9
+Heptatonica 97| 1, 2, 4, 5, 7, 8, 9
+Heptatonica 98| 0, 3, 4, 5, 7, 8, 9
+Heptatonica 99| 1, 3, 4, 5, 7, 8, 9
+Heptatonica 100| 2, 3, 4, 5, 7, 8, 9
+Heptatonica 101| 0, 1, 2, 6, 7, 8, 9
+Heptatonica 102| 0, 1, 3, 6, 7, 8, 9
+Heptatonica 103| 0, 2, 3, 6, 7, 8, 9
+Heptatonica 104| 1, 2, 3, 6, 7, 8, 9
+Heptatonica 105| 0, 1, 4, 6, 7, 8, 9
+Heptatonica 106| 0, 2, 4, 6, 7, 8, 9
+Heptatonica 107| 1, 2, 4, 6, 7, 8, 9
+Heptatonica 108| 0, 3, 4, 6, 7, 8, 9
+Heptatonica 109| 1, 3, 4, 6, 7, 8, 9
+Heptatonica 110| 2, 3, 4, 6, 7, 8, 9
+Heptatonica 111| 0, 1, 5, 6, 7, 8, 9
+Heptatonica 112| 0, 2, 5, 6, 7, 8, 9
+Heptatonica 113| 1, 2, 5, 6, 7, 8, 9
+Heptatonica 114| 0, 3, 5, 6, 7, 8, 9
+Heptatonica 115| 1, 3, 5, 6, 7, 8, 9
+Heptatonica 116| 2, 3, 5, 6, 7, 8, 9
+Heptatonica 117| 0, 4, 5, 6, 7, 8, 9
+Heptatonica 118| 1, 4, 5, 6, 7, 8, 9
+Heptatonica 119| 2, 4, 5, 6, 7, 8, 9
+Heptatonica 120| 3, 4, 5, 6, 7, 8, 9
+Heptatonica 121| 0, 1, 2, 3, 4, 5,10
+Heptatonica 122| 0, 1, 2, 3, 4, 6,10
+Heptatonica 123| 0, 1, 2, 3, 5, 6,10
+Heptatonica 124| 0, 1, 2, 4, 5, 6,10
+Heptatonica 125| 0, 1, 3, 4, 5, 6,10
+Heptatonica 126| 0, 2, 3, 4, 5, 6,10
+Heptatonica 127| 1, 2, 3, 4, 5, 6,10
+Heptatonica 128| 0, 1, 2, 3, 4, 7,10
+Heptatonica 129| 0, 1, 2, 3, 5, 7,10
+Heptatonica 130| 0, 1, 2, 4, 5, 7,10
+Heptatonica 131| 0, 1, 3, 4, 5, 7,10
+Heptatonica 132| 0, 2, 3, 4, 5, 7,10
+Heptatonica 133| 1, 2, 3, 4, 5, 7,10
+Heptatonica 134| 0, 1, 2, 3, 6, 7,10
+Heptatonica 135| 0, 1, 2, 4, 6, 7,10
+Heptatonica 136| 0, 1, 3, 4, 6, 7,10
+Heptatonica 137| 0, 2, 3, 4, 6, 7,10
+Heptatonica 138| 1, 2, 3, 4, 6, 7,10
+Heptatonica 139| 0, 1, 2, 5, 6, 7,10
+Heptatonica 140| 0, 1, 3, 5, 6, 7,10
+Heptatonica 141| 0, 2, 3, 5, 6, 7,10
+Heptatonica 142| 1, 2, 3, 5, 6, 7,10
+Heptatonica 143| 0, 1, 4, 5, 6, 7,10
+Heptatonica 144| 0, 2, 4, 5, 6, 7,10
+Heptatonica 145| 1, 2, 4, 5, 6, 7,10
+Heptatonica 146| 0, 3, 4, 5, 6, 7,10
+Heptatonica 147| 1, 3, 4, 5, 6, 7,10
+Heptatonica 148| 2, 3, 4, 5, 6, 7,10
+Heptatonica 149| 0, 1, 2, 3, 4, 8,10
+Heptatonica 150| 0, 1, 2, 3, 5, 8,10
+Heptatonica 151| 0, 1, 2, 4, 5, 8,10
+Heptatonica 152| 0, 1, 3, 4, 5, 8,10
+Heptatonica 153| 0, 2, 3, 4, 5, 8,10
+Heptatonica 154| 1, 2, 3, 4, 5, 8,10
+Heptatonica 155| 0, 1, 2, 3, 6, 8,10
+Heptatonica 156| 0, 1, 2, 4, 6, 8,10
+Heptatonica 157| 0, 1, 3, 4, 6, 8,10
+Heptatonica 158| 0, 2, 3, 4, 6, 8,10
+Heptatonica 159| 1, 2, 3, 4, 6, 8,10
+Heptatonica 160| 0, 1, 2, 5, 6, 8,10
+Heptatonica 161| 0, 1, 3, 5, 6, 8,10
+Heptatonica 162| 0, 2, 3, 5, 6, 8,10
+Heptatonica 163| 1, 2, 3, 5, 6, 8,10
+Heptatonica 164| 0, 1, 4, 5, 6, 8,10
+Heptatonica 165| 0, 2, 4, 5, 6, 8,10
+Heptatonica 166| 1, 2, 4, 5, 6, 8,10
+Heptatonica 167| 0, 3, 4, 5, 6, 8,10
+Heptatonica 168| 1, 3, 4, 5, 6, 8,10
+Heptatonica 169| 2, 3, 4, 5, 6, 8,10
+Heptatonica 170| 0, 1, 2, 3, 7, 8,10
+Heptatonica 171| 0, 1, 2, 4, 7, 8,10
+Heptatonica 172| 0, 1, 3, 4, 7, 8,10
+Heptatonica 173| 0, 2, 3, 4, 7, 8,10
+Heptatonica 174| 1, 2, 3, 4, 7, 8,10
+Heptatonica 175| 0, 1, 2, 5, 7, 8,10
+Heptatonica 176| 0, 1, 3, 5, 7, 8,10
+Heptatonica 177| 0, 2, 3, 5, 7, 8,10
+Heptatonica 178| 1, 2, 3, 5, 7, 8,10
+Heptatonica 179| 0, 1, 4, 5, 7, 8,10
+Heptatonica 180| 0, 2, 4, 5, 7, 8,10
+Heptatonica 181| 1, 2, 4, 5, 7, 8,10
+Heptatonica 182| 0, 3, 4, 5, 7, 8,10
+Heptatonica 183| 1, 3, 4, 5, 7, 8,10
+Heptatonica 184| 2, 3, 4, 5, 7, 8,10
+Heptatonica 185| 0, 1, 2, 6, 7, 8,10
+Heptatonica 186| 0, 1, 3, 6, 7, 8,10
+Heptatonica 187| 0, 2, 3, 6, 7, 8,10
+Heptatonica 188| 1, 2, 3, 6, 7, 8,10
+Heptatonica 189| 0, 1, 4, 6, 7, 8,10
+Heptatonica 190| 0, 2, 4, 6, 7, 8,10
+Heptatonica 191| 1, 2, 4, 6, 7, 8,10
+Heptatonica 192| 0, 3, 4, 6, 7, 8,10
+Heptatonica 193| 1, 3, 4, 6, 7, 8,10
+Heptatonica 194| 2, 3, 4, 6, 7, 8,10
+Heptatonica 195| 0, 1, 5, 6, 7, 8,10
+Heptatonica 196| 0, 2, 5, 6, 7, 8,10
+Heptatonica 197| 1, 2, 5, 6, 7, 8,10
+Heptatonica 198| 0, 3, 5, 6, 7, 8,10
+Heptatonica 199| 1, 3, 5, 6, 7, 8,10
+Heptatonica 200| 2, 3, 5, 6, 7, 8,10
+Heptatonica 201| 0, 4, 5, 6, 7, 8,10
+Heptatonica 202| 1, 4, 5, 6, 7, 8,10
+Heptatonica 203| 2, 4, 5, 6, 7, 8,10
+Heptatonica 204| 3, 4, 5, 6, 7, 8,10
+Heptatonica 205| 0, 1, 2, 3, 4, 9,10
+Heptatonica 206| 0, 1, 2, 3, 5, 9,10
+Heptatonica 207| 0, 1, 2, 4, 5, 9,10
+Heptatonica 208| 0, 1, 3, 4, 5, 9,10
+Heptatonica 209| 0, 2, 3, 4, 5, 9,10
+Heptatonica 210| 1, 2, 3, 4, 5, 9,10
+Heptatonica 211| 0, 1, 2, 3, 6, 9,10
+Heptatonica 212| 0, 1, 2, 4, 6, 9,10
+Heptatonica 213| 0, 1, 3, 4, 6, 9,10
+Heptatonica 214| 0, 2, 3, 4, 6, 9,10
+Heptatonica 215| 1, 2, 3, 4, 6, 9,10
+Heptatonica 216| 0, 1, 2, 5, 6, 9,10
+Heptatonica 217| 0, 1, 3, 5, 6, 9,10
+Heptatonica 218| 0, 2, 3, 5, 6, 9,10
+Heptatonica 219| 1, 2, 3, 5, 6, 9,10
+Heptatonica 220| 0, 1, 4, 5, 6, 9,10
+Heptatonica 221| 0, 2, 4, 5, 6, 9,10
+Heptatonica 222| 1, 2, 4, 5, 6, 9,10
+Heptatonica 223| 0, 3, 4, 5, 6, 9,10
+Heptatonica 224| 1, 3, 4, 5, 6, 9,10
+Heptatonica 225| 2, 3, 4, 5, 6, 9,10
+Heptatonica 226| 0, 1, 2, 3, 7, 9,10
+Heptatonica 227| 0, 1, 2, 4, 7, 9,10
+Heptatonica 228| 0, 1, 3, 4, 7, 9,10
+Heptatonica 229| 0, 2, 3, 4, 7, 9,10
+Heptatonica 230| 1, 2, 3, 4, 7, 9,10
+Heptatonica 231| 0, 1, 2, 5, 7, 9,10
+Heptatonica 232| 0, 1, 3, 5, 7, 9,10
+Heptatonica 233| 0, 2, 3, 5, 7, 9,10
+Heptatonica 234| 1, 2, 3, 5, 7, 9,10
+Heptatonica 235| 0, 1, 4, 5, 7, 9,10
+Heptatonica 236| 0, 2, 4, 5, 7, 9,10
+Heptatonica 237| 1, 2, 4, 5, 7, 9,10
+Heptatonica 238| 0, 3, 4, 5, 7, 9,10
+Heptatonica 239| 1, 3, 4, 5, 7, 9,10
+Heptatonica 240| 2, 3, 4, 5, 7, 9,10
+Heptatonica 241| 0, 1, 2, 6, 7, 9,10
+Heptatonica 242| 0, 1, 3, 6, 7, 9,10
+Heptatonica 243| 0, 2, 3, 6, 7, 9,10
+Heptatonica 244| 1, 2, 3, 6, 7, 9,10
+Heptatonica 245| 0, 1, 4, 6, 7, 9,10
+Heptatonica 246| 0, 2, 4, 6, 7, 9,10
+Heptatonica 247| 1, 2, 4, 6, 7, 9,10
+Heptatonica 248| 0, 3, 4, 6, 7, 9,10
+Heptatonica 249| 1, 3, 4, 6, 7, 9,10
+Heptatonica 250| 2, 3, 4, 6, 7, 9,10
+Heptatonica 251| 0, 1, 5, 6, 7, 9,10
+Heptatonica 252| 0, 2, 5, 6, 7, 9,10
+Heptatonica 253| 1, 2, 5, 6, 7, 9,10
+Heptatonica 254| 0, 3, 5, 6, 7, 9,10
+Heptatonica 255| 1, 3, 5, 6, 7, 9,10
+Heptatonica 256| 2, 3, 5, 6, 7, 9,10
+Heptatonica 257| 0, 4, 5, 6, 7, 9,10
+Heptatonica 258| 1, 4, 5, 6, 7, 9,10
+Heptatonica 259| 2, 4, 5, 6, 7, 9,10
+Heptatonica 260| 3, 4, 5, 6, 7, 9,10
+Heptatonica 261| 0, 1, 2, 3, 8, 9,10
+Heptatonica 262| 0, 1, 2, 4, 8, 9,10
+Heptatonica 263| 0, 1, 3, 4, 8, 9,10
+Heptatonica 264| 0, 2, 3, 4, 8, 9,10
+Heptatonica 265| 1, 2, 3, 4, 8, 9,10
+Heptatonica 266| 0, 1, 2, 5, 8, 9,10
+Heptatonica 267| 0, 1, 3, 5, 8, 9,10
+Heptatonica 268| 0, 2, 3, 5, 8, 9,10
+Heptatonica 269| 1, 2, 3, 5, 8, 9,10
+Heptatonica 270| 0, 1, 4, 5, 8, 9,10
+Heptatonica 271| 0, 2, 4, 5, 8, 9,10
+Heptatonica 272| 1, 2, 4, 5, 8, 9,10
+Heptatonica 273| 0, 3, 4, 5, 8, 9,10
+Heptatonica 274| 1, 3, 4, 5, 8, 9,10
+Heptatonica 275| 2, 3, 4, 5, 8, 9,10
+Heptatonica 276| 0, 1, 2, 6, 8, 9,10
+Heptatonica 277| 0, 1, 3, 6, 8, 9,10
+Heptatonica 278| 0, 2, 3, 6, 8, 9,10
+Heptatonica 279| 1, 2, 3, 6, 8, 9,10
+Heptatonica 280| 0, 1, 4, 6, 8, 9,10
+Heptatonica 281| 0, 2, 4, 6, 8, 9,10
+Heptatonica 282| 1, 2, 4, 6, 8, 9,10
+Heptatonica 283| 0, 3, 4, 6, 8, 9,10
+Heptatonica 284| 1, 3, 4, 6, 8, 9,10
+Heptatonica 285| 2, 3, 4, 6, 8, 9,10
+Heptatonica 286| 0, 1, 5, 6, 8, 9,10
+Heptatonica 287| 0, 2, 5, 6, 8, 9,10
+Heptatonica 288| 1, 2, 5, 6, 8, 9,10
+Heptatonica 289| 0, 3, 5, 6, 8, 9,10
+Heptatonica 290| 1, 3, 5, 6, 8, 9,10
+Heptatonica 291| 2, 3, 5, 6, 8, 9,10
+Heptatonica 292| 0, 4, 5, 6, 8, 9,10
+Heptatonica 293| 1, 4, 5, 6, 8, 9,10
+Heptatonica 294| 2, 4, 5, 6, 8, 9,10
+Heptatonica 295| 3, 4, 5, 6, 8, 9,10
+Heptatonica 296| 0, 1, 2, 7, 8, 9,10
+Heptatonica 297| 0, 1, 3, 7, 8, 9,10
+Heptatonica 298| 0, 2, 3, 7, 8, 9,10
+Heptatonica 299| 1, 2, 3, 7, 8, 9,10
+Heptatonica 300| 0, 1, 4, 7, 8, 9,10
+Heptatonica 301| 0, 2, 4, 7, 8, 9,10
+Heptatonica 302| 1, 2, 4, 7, 8, 9,10
+Heptatonica 303| 0, 3, 4, 7, 8, 9,10
+Heptatonica 304| 1, 3, 4, 7, 8, 9,10
+Heptatonica 305| 2, 3, 4, 7, 8, 9,10
+Heptatonica 306| 0, 1, 5, 7, 8, 9,10
+Heptatonica 307| 0, 2, 5, 7, 8, 9,10
+Heptatonica 308| 1, 2, 5, 7, 8, 9,10
+Heptatonica 309| 0, 3, 5, 7, 8, 9,10
+Heptatonica 310| 1, 3, 5, 7, 8, 9,10
+Heptatonica 311| 2, 3, 5, 7, 8, 9,10
+Heptatonica 312| 0, 4, 5, 7, 8, 9,10
+Heptatonica 313| 1, 4, 5, 7, 8, 9,10
+Heptatonica 314| 2, 4, 5, 7, 8, 9,10
+Heptatonica 315| 3, 4, 5, 7, 8, 9,10
+Heptatonica 316| 0, 1, 6, 7, 8, 9,10
+Heptatonica 317| 0, 2, 6, 7, 8, 9,10
+Heptatonica 318| 1, 2, 6, 7, 8, 9,10
+Heptatonica 319| 0, 3, 6, 7, 8, 9,10
+Heptatonica 320| 1, 3, 6, 7, 8, 9,10
+Heptatonica 321| 2, 3, 6, 7, 8, 9,10
+Heptatonica 322| 0, 4, 6, 7, 8, 9,10
+Heptatonica 323| 1, 4, 6, 7, 8, 9,10
+Heptatonica 324| 2, 4, 6, 7, 8, 9,10
+Heptatonica 325| 3, 4, 6, 7, 8, 9,10
+Heptatonica 326| 0, 5, 6, 7, 8, 9,10
+Heptatonica 327| 1, 5, 6, 7, 8, 9,10
+Heptatonica 328| 2, 5, 6, 7, 8, 9,10
+Heptatonica 329| 3, 5, 6, 7, 8, 9,10
+Heptatonica 330| 4, 5, 6, 7, 8, 9,10
+Heptatonica 331| 0, 1, 2, 3, 4, 5,11
+Heptatonica 332| 0, 1, 2, 3, 4, 6,11
+Heptatonica 333| 0, 1, 2, 3, 5, 6,11
+Heptatonica 334| 0, 1, 2, 4, 5, 6,11
+Heptatonica 335| 0, 1, 3, 4, 5, 6,11
+Heptatonica 336| 0, 2, 3, 4, 5, 6,11
+Heptatonica 337| 1, 2, 3, 4, 5, 6,11
+Heptatonica 338| 0, 1, 2, 3, 4, 7,11
+Heptatonica 339| 0, 1, 2, 3, 5, 7,11
+Heptatonica 340| 0, 1, 2, 4, 5, 7,11
+Heptatonica 341| 0, 1, 3, 4, 5, 7,11
+Heptatonica 342| 0, 2, 3, 4, 5, 7,11
+Heptatonica 343| 1, 2, 3, 4, 5, 7,11
+Heptatonica 344| 0, 1, 2, 3, 6, 7,11
+Heptatonica 345| 0, 1, 2, 4, 6, 7,11
+Heptatonica 346| 0, 1, 3, 4, 6, 7,11
+Heptatonica 347| 0, 2, 3, 4, 6, 7,11
+Heptatonica 348| 1, 2, 3, 4, 6, 7,11
+Heptatonica 349| 0, 1, 2, 5, 6, 7,11
+Heptatonica 350| 0, 1, 3, 5, 6, 7,11
+Heptatonica 351| 0, 2, 3, 5, 6, 7,11
+Heptatonica 352| 1, 2, 3, 5, 6, 7,11
+Heptatonica 353| 0, 1, 4, 5, 6, 7,11
+Heptatonica 354| 0, 2, 4, 5, 6, 7,11
+Heptatonica 355| 1, 2, 4, 5, 6, 7,11
+Heptatonica 356| 0, 3, 4, 5, 6, 7,11
+Heptatonica 357| 1, 3, 4, 5, 6, 7,11
+Heptatonica 358| 2, 3, 4, 5, 6, 7,11
+Heptatonica 359| 0, 1, 2, 3, 4, 8,11
+Heptatonica 360| 0, 1, 2, 3, 5, 8,11
+Heptatonica 361| 0, 1, 2, 4, 5, 8,11
+Heptatonica 362| 0, 1, 3, 4, 5, 8,11
+Heptatonica 363| 0, 2, 3, 4, 5, 8,11
+Heptatonica 364| 1, 2, 3, 4, 5, 8,11
+Heptatonica 365| 0, 1, 2, 3, 6, 8,11
+Heptatonica 366| 0, 1, 2, 4, 6, 8,11
+Heptatonica 367| 0, 1, 3, 4, 6, 8,11
+Heptatonica 368| 0, 2, 3, 4, 6, 8,11
+Heptatonica 369| 1, 2, 3, 4, 6, 8,11
+Heptatonica 370| 0, 1, 2, 5, 6, 8,11
+Heptatonica 371| 0, 1, 3, 5, 6, 8,11
+Heptatonica 372| 0, 2, 3, 5, 6, 8,11
+Heptatonica 373| 1, 2, 3, 5, 6, 8,11
+Heptatonica 374| 0, 1, 4, 5, 6, 8,11
+Heptatonica 375| 0, 2, 4, 5, 6, 8,11
+Heptatonica 376| 1, 2, 4, 5, 6, 8,11
+Heptatonica 377| 0, 3, 4, 5, 6, 8,11
+Heptatonica 378| 1, 3, 4, 5, 6, 8,11
+Heptatonica 379| 2, 3, 4, 5, 6, 8,11
+Heptatonica 380| 0, 1, 2, 3, 7, 8,11
+Heptatonica 381| 0, 1, 2, 4, 7, 8,11
+Heptatonica 382| 0, 1, 3, 4, 7, 8,11
+Heptatonica 383| 0, 2, 3, 4, 7, 8,11
+Heptatonica 384| 1, 2, 3, 4, 7, 8,11
+Heptatonica 385| 0, 1, 2, 5, 7, 8,11
+Heptatonica 386| 0, 1, 3, 5, 7, 8,11
+Heptatonica 387| 0, 2, 3, 5, 7, 8,11
+Heptatonica 388| 1, 2, 3, 5, 7, 8,11
+Heptatonica 389| 0, 1, 4, 5, 7, 8,11
+Heptatonica 390| 0, 2, 4, 5, 7, 8,11
+Heptatonica 391| 1, 2, 4, 5, 7, 8,11
+Heptatonica 392| 0, 3, 4, 5, 7, 8,11
+Heptatonica 393| 1, 3, 4, 5, 7, 8,11
+Heptatonica 394| 2, 3, 4, 5, 7, 8,11
+Heptatonica 395| 0, 1, 2, 6, 7, 8,11
+Heptatonica 396| 0, 1, 3, 6, 7, 8,11
+Heptatonica 397| 0, 2, 3, 6, 7, 8,11
+Heptatonica 398| 1, 2, 3, 6, 7, 8,11
+Heptatonica 399| 0, 1, 4, 6, 7, 8,11
+Heptatonica 400| 0, 2, 4, 6, 7, 8,11
+Heptatonica 401| 1, 2, 4, 6, 7, 8,11
+Heptatonica 402| 0, 3, 4, 6, 7, 8,11
+Heptatonica 403| 1, 3, 4, 6, 7, 8,11
+Heptatonica 404| 2, 3, 4, 6, 7, 8,11
+Heptatonica 405| 0, 1, 5, 6, 7, 8,11
+Heptatonica 406| 0, 2, 5, 6, 7, 8,11
+Heptatonica 407| 1, 2, 5, 6, 7, 8,11
+Heptatonica 408| 0, 3, 5, 6, 7, 8,11
+Heptatonica 409| 1, 3, 5, 6, 7, 8,11
+Heptatonica 410| 2, 3, 5, 6, 7, 8,11
+Heptatonica 411| 0, 4, 5, 6, 7, 8,11
+Heptatonica 412| 1, 4, 5, 6, 7, 8,11
+Heptatonica 413| 2, 4, 5, 6, 7, 8,11
+Heptatonica 414| 3, 4, 5, 6, 7, 8,11
+Heptatonica 415| 0, 1, 2, 3, 4, 9,11
+Heptatonica 416| 0, 1, 2, 3, 5, 9,11
+Heptatonica 417| 0, 1, 2, 4, 5, 9,11
+Heptatonica 418| 0, 1, 3, 4, 5, 9,11
+Heptatonica 419| 0, 2, 3, 4, 5, 9,11
+Heptatonica 420| 1, 2, 3, 4, 5, 9,11
+Heptatonica 421| 0, 1, 2, 3, 6, 9,11
+Heptatonica 422| 0, 1, 2, 4, 6, 9,11
+Heptatonica 423| 0, 1, 3, 4, 6, 9,11
+Heptatonica 424| 0, 2, 3, 4, 6, 9,11
+Heptatonica 425| 1, 2, 3, 4, 6, 9,11
+Heptatonica 426| 0, 1, 2, 5, 6, 9,11
+Heptatonica 427| 0, 1, 3, 5, 6, 9,11
+Heptatonica 428| 0, 2, 3, 5, 6, 9,11
+Heptatonica 429| 1, 2, 3, 5, 6, 9,11
+Heptatonica 430| 0, 1, 4, 5, 6, 9,11
+Heptatonica 431| 0, 2, 4, 5, 6, 9,11
+Heptatonica 432| 1, 2, 4, 5, 6, 9,11
+Heptatonica 433| 0, 3, 4, 5, 6, 9,11
+Heptatonica 434| 1, 3, 4, 5, 6, 9,11
+Heptatonica 435| 2, 3, 4, 5, 6, 9,11
+Heptatonica 436| 0, 1, 2, 3, 7, 9,11
+Heptatonica 437| 0, 1, 2, 4, 7, 9,11
+Heptatonica 438| 0, 1, 3, 4, 7, 9,11
+Heptatonica 439| 0, 2, 3, 4, 7, 9,11
+Heptatonica 440| 1, 2, 3, 4, 7, 9,11
+Heptatonica 441| 0, 1, 2, 5, 7, 9,11
+Heptatonica 442| 0, 1, 3, 5, 7, 9,11
+Heptatonica 443| 0, 2, 3, 5, 7, 9,11
+Heptatonica 444| 1, 2, 3, 5, 7, 9,11
+Heptatonica 445| 0, 1, 4, 5, 7, 9,11
+Heptatonica 446| 0, 2, 4, 5, 7, 9,11
+Heptatonica 447| 1, 2, 4, 5, 7, 9,11
+Heptatonica 448| 0, 3, 4, 5, 7, 9,11
+Heptatonica 449| 1, 3, 4, 5, 7, 9,11
+Heptatonica 450| 2, 3, 4, 5, 7, 9,11
+Heptatonica 451| 0, 1, 2, 6, 7, 9,11
+Heptatonica 452| 0, 1, 3, 6, 7, 9,11
+Heptatonica 453| 0, 2, 3, 6, 7, 9,11
+Heptatonica 454| 1, 2, 3, 6, 7, 9,11
+Heptatonica 455| 0, 1, 4, 6, 7, 9,11
+Heptatonica 456| 0, 2, 4, 6, 7, 9,11
+Heptatonica 457| 1, 2, 4, 6, 7, 9,11
+Heptatonica 458| 0, 3, 4, 6, 7, 9,11
+Heptatonica 459| 1, 3, 4, 6, 7, 9,11
+Heptatonica 460| 2, 3, 4, 6, 7, 9,11
+Heptatonica 461| 0, 1, 5, 6, 7, 9,11
+Heptatonica 462| 0, 2, 5, 6, 7, 9,11
+Heptatonica 463| 1, 2, 5, 6, 7, 9,11
+Heptatonica 464| 0, 3, 5, 6, 7, 9,11
+Heptatonica 465| 1, 3, 5, 6, 7, 9,11
+Heptatonica 466| 2, 3, 5, 6, 7, 9,11
+Heptatonica 467| 0, 4, 5, 6, 7, 9,11
+Heptatonica 468| 1, 4, 5, 6, 7, 9,11
+Heptatonica 469| 2, 4, 5, 6, 7, 9,11
+Heptatonica 470| 3, 4, 5, 6, 7, 9,11
+Heptatonica 471| 0, 1, 2, 3, 8, 9,11
+Heptatonica 472| 0, 1, 2, 4, 8, 9,11
+Heptatonica 473| 0, 1, 3, 4, 8, 9,11
+Heptatonica 474| 0, 2, 3, 4, 8, 9,11
+Heptatonica 475| 1, 2, 3, 4, 8, 9,11
+Heptatonica 476| 0, 1, 2, 5, 8, 9,11
+Heptatonica 477| 0, 1, 3, 5, 8, 9,11
+Heptatonica 478| 0, 2, 3, 5, 8, 9,11
+Heptatonica 479| 1, 2, 3, 5, 8, 9,11
+Heptatonica 480| 0, 1, 4, 5, 8, 9,11
+Heptatonica 481| 0, 2, 4, 5, 8, 9,11
+Heptatonica 482| 1, 2, 4, 5, 8, 9,11
+Heptatonica 483| 0, 3, 4, 5, 8, 9,11
+Heptatonica 484| 1, 3, 4, 5, 8, 9,11
+Heptatonica 485| 2, 3, 4, 5, 8, 9,11
+Heptatonica 486| 0, 1, 2, 6, 8, 9,11
+Heptatonica 487| 0, 1, 3, 6, 8, 9,11
+Heptatonica 488| 0, 2, 3, 6, 8, 9,11
+Heptatonica 489| 1, 2, 3, 6, 8, 9,11
+Heptatonica 490| 0, 1, 4, 6, 8, 9,11
+Heptatonica 491| 0, 2, 4, 6, 8, 9,11
+Heptatonica 492| 1, 2, 4, 6, 8, 9,11
+Heptatonica 493| 0, 3, 4, 6, 8, 9,11
+Heptatonica 494| 1, 3, 4, 6, 8, 9,11
+Heptatonica 495| 2, 3, 4, 6, 8, 9,11
+Heptatonica 496| 0, 1, 5, 6, 8, 9,11
+Heptatonica 497| 0, 2, 5, 6, 8, 9,11
+Heptatonica 498| 1, 2, 5, 6, 8, 9,11
+Heptatonica 499| 0, 3, 5, 6, 8, 9,11
+Heptatonica 500| 1, 3, 5, 6, 8, 9,11
+Heptatonica 501| 2, 3, 5, 6, 8, 9,11
+Heptatonica 502| 0, 4, 5, 6, 8, 9,11
+Heptatonica 503| 1, 4, 5, 6, 8, 9,11
+Heptatonica 504| 2, 4, 5, 6, 8, 9,11
+Heptatonica 505| 3, 4, 5, 6, 8, 9,11
+Heptatonica 506| 0, 1, 2, 7, 8, 9,11
+Heptatonica 507| 0, 1, 3, 7, 8, 9,11
+Heptatonica 508| 0, 2, 3, 7, 8, 9,11
+Heptatonica 509| 1, 2, 3, 7, 8, 9,11
+Heptatonica 510| 0, 1, 4, 7, 8, 9,11
+Heptatonica 511| 0, 2, 4, 7, 8, 9,11
+Heptatonica 512| 1, 2, 4, 7, 8, 9,11
+Heptatonica 513| 0, 3, 4, 7, 8, 9,11
+Heptatonica 514| 1, 3, 4, 7, 8, 9,11
+Heptatonica 515| 2, 3, 4, 7, 8, 9,11
+Heptatonica 516| 0, 1, 5, 7, 8, 9,11
+Heptatonica 517| 0, 2, 5, 7, 8, 9,11
+Heptatonica 518| 1, 2, 5, 7, 8, 9,11
+Heptatonica 519| 0, 3, 5, 7, 8, 9,11
+Heptatonica 520| 1, 3, 5, 7, 8, 9,11
+Heptatonica 521| 2, 3, 5, 7, 8, 9,11
+Heptatonica 522| 0, 4, 5, 7, 8, 9,11
+Heptatonica 523| 1, 4, 5, 7, 8, 9,11
+Heptatonica 524| 2, 4, 5, 7, 8, 9,11
+Heptatonica 525| 3, 4, 5, 7, 8, 9,11
+Heptatonica 526| 0, 1, 6, 7, 8, 9,11
+Heptatonica 527| 0, 2, 6, 7, 8, 9,11
+Heptatonica 528| 1, 2, 6, 7, 8, 9,11
+Heptatonica 529| 0, 3, 6, 7, 8, 9,11
+Heptatonica 530| 1, 3, 6, 7, 8, 9,11
+Heptatonica 531| 2, 3, 6, 7, 8, 9,11
+Heptatonica 532| 0, 4, 6, 7, 8, 9,11
+Heptatonica 533| 1, 4, 6, 7, 8, 9,11
+Heptatonica 534| 2, 4, 6, 7, 8, 9,11
+Heptatonica 535| 3, 4, 6, 7, 8, 9,11
+Heptatonica 536| 0, 5, 6, 7, 8, 9,11
+Heptatonica 537| 1, 5, 6, 7, 8, 9,11
+Heptatonica 538| 2, 5, 6, 7, 8, 9,11
+Heptatonica 539| 3, 5, 6, 7, 8, 9,11
+Heptatonica 540| 4, 5, 6, 7, 8, 9,11
+Heptatonica 541| 0, 1, 2, 3, 4,10,11
+Heptatonica 542| 0, 1, 2, 3, 5,10,11
+Heptatonica 543| 0, 1, 2, 4, 5,10,11
+Heptatonica 544| 0, 1, 3, 4, 5,10,11
+Heptatonica 545| 0, 2, 3, 4, 5,10,11
+Heptatonica 546| 1, 2, 3, 4, 5,10,11
+Heptatonica 547| 0, 1, 2, 3, 6,10,11
+Heptatonica 548| 0, 1, 2, 4, 6,10,11
+Heptatonica 549| 0, 1, 3, 4, 6,10,11
+Heptatonica 550| 0, 2, 3, 4, 6,10,11
+Heptatonica 551| 1, 2, 3, 4, 6,10,11
+Heptatonica 552| 0, 1, 2, 5, 6,10,11
+Heptatonica 553| 0, 1, 3, 5, 6,10,11
+Heptatonica 554| 0, 2, 3, 5, 6,10,11
+Heptatonica 555| 1, 2, 3, 5, 6,10,11
+Heptatonica 556| 0, 1, 4, 5, 6,10,11
+Heptatonica 557| 0, 2, 4, 5, 6,10,11
+Heptatonica 558| 1, 2, 4, 5, 6,10,11
+Heptatonica 559| 0, 3, 4, 5, 6,10,11
+Heptatonica 560| 1, 3, 4, 5, 6,10,11
+Heptatonica 561| 2, 3, 4, 5, 6,10,11
+Heptatonica 562| 0, 1, 2, 3, 7,10,11
+Heptatonica 563| 0, 1, 2, 4, 7,10,11
+Heptatonica 564| 0, 1, 3, 4, 7,10,11
+Heptatonica 565| 0, 2, 3, 4, 7,10,11
+Heptatonica 566| 1, 2, 3, 4, 7,10,11
+Heptatonica 567| 0, 1, 2, 5, 7,10,11
+Heptatonica 568| 0, 1, 3, 5, 7,10,11
+Heptatonica 569| 0, 2, 3, 5, 7,10,11
+Heptatonica 570| 1, 2, 3, 5, 7,10,11
+Heptatonica 571| 0, 1, 4, 5, 7,10,11
+Heptatonica 572| 0, 2, 4, 5, 7,10,11
+Heptatonica 573| 1, 2, 4, 5, 7,10,11
+Heptatonica 574| 0, 3, 4, 5, 7,10,11
+Heptatonica 575| 1, 3, 4, 5, 7,10,11
+Heptatonica 576| 2, 3, 4, 5, 7,10,11
+Heptatonica 577| 0, 1, 2, 6, 7,10,11
+Heptatonica 578| 0, 1, 3, 6, 7,10,11
+Heptatonica 579| 0, 2, 3, 6, 7,10,11
+Heptatonica 580| 1, 2, 3, 6, 7,10,11
+Heptatonica 581| 0, 1, 4, 6, 7,10,11
+Heptatonica 582| 0, 2, 4, 6, 7,10,11
+Heptatonica 583| 1, 2, 4, 6, 7,10,11
+Heptatonica 584| 0, 3, 4, 6, 7,10,11
+Heptatonica 585| 1, 3, 4, 6, 7,10,11
+Heptatonica 586| 2, 3, 4, 6, 7,10,11
+Heptatonica 587| 0, 1, 5, 6, 7,10,11
+Heptatonica 588| 0, 2, 5, 6, 7,10,11
+Heptatonica 589| 1, 2, 5, 6, 7,10,11
+Heptatonica 590| 0, 3, 5, 6, 7,10,11
+Heptatonica 591| 1, 3, 5, 6, 7,10,11
+Heptatonica 592| 2, 3, 5, 6, 7,10,11
+Heptatonica 593| 0, 4, 5, 6, 7,10,11
+Heptatonica 594| 1, 4, 5, 6, 7,10,11
+Heptatonica 595| 2, 4, 5, 6, 7,10,11
+Heptatonica 596| 3, 4, 5, 6, 7,10,11
+Heptatonica 597| 0, 1, 2, 3, 8,10,11
+Heptatonica 598| 0, 1, 2, 4, 8,10,11
+Heptatonica 599| 0, 1, 3, 4, 8,10,11
+Heptatonica 600| 0, 2, 3, 4, 8,10,11
+Heptatonica 601| 1, 2, 3, 4, 8,10,11
+Heptatonica 602| 0, 1, 2, 5, 8,10,11
+Heptatonica 603| 0, 1, 3, 5, 8,10,11
+Heptatonica 604| 0, 2, 3, 5, 8,10,11
+Heptatonica 605| 1, 2, 3, 5, 8,10,11
+Heptatonica 606| 0, 1, 4, 5, 8,10,11
+Heptatonica 607| 0, 2, 4, 5, 8,10,11
+Heptatonica 608| 1, 2, 4, 5, 8,10,11
+Heptatonica 609| 0, 3, 4, 5, 8,10,11
+Heptatonica 610| 1, 3, 4, 5, 8,10,11
+Heptatonica 611| 2, 3, 4, 5, 8,10,11
+Heptatonica 612| 0, 1, 2, 6, 8,10,11
+Heptatonica 613| 0, 1, 3, 6, 8,10,11
+Heptatonica 614| 0, 2, 3, 6, 8,10,11
+Heptatonica 615| 1, 2, 3, 6, 8,10,11
+Heptatonica 616| 0, 1, 4, 6, 8,10,11
+Heptatonica 617| 0, 2, 4, 6, 8,10,11
+Heptatonica 618| 1, 2, 4, 6, 8,10,11
+Heptatonica 619| 0, 3, 4, 6, 8,10,11
+Heptatonica 620| 1, 3, 4, 6, 8,10,11
+Heptatonica 621| 2, 3, 4, 6, 8,10,11
+Heptatonica 622| 0, 1, 5, 6, 8,10,11
+Heptatonica 623| 0, 2, 5, 6, 8,10,11
+Heptatonica 624| 1, 2, 5, 6, 8,10,11
+Heptatonica 625| 0, 3, 5, 6, 8,10,11
+Heptatonica 626| 1, 3, 5, 6, 8,10,11
+Heptatonica 627| 2, 3, 5, 6, 8,10,11
+Heptatonica 628| 0, 4, 5, 6, 8,10,11
+Heptatonica 629| 1, 4, 5, 6, 8,10,11
+Heptatonica 630| 2, 4, 5, 6, 8,10,11
+Heptatonica 631| 3, 4, 5, 6, 8,10,11
+Heptatonica 632| 0, 1, 2, 7, 8,10,11
+Heptatonica 633| 0, 1, 3, 7, 8,10,11
+Heptatonica 634| 0, 2, 3, 7, 8,10,11
+Heptatonica 635| 1, 2, 3, 7, 8,10,11
+Heptatonica 636| 0, 1, 4, 7, 8,10,11
+Heptatonica 637| 0, 2, 4, 7, 8,10,11
+Heptatonica 638| 1, 2, 4, 7, 8,10,11
+Heptatonica 639| 0, 3, 4, 7, 8,10,11
+Heptatonica 640| 1, 3, 4, 7, 8,10,11
+Heptatonica 641| 2, 3, 4, 7, 8,10,11
+Heptatonica 642| 0, 1, 5, 7, 8,10,11
+Heptatonica 643| 0, 2, 5, 7, 8,10,11
+Heptatonica 644| 1, 2, 5, 7, 8,10,11
+Heptatonica 645| 0, 3, 5, 7, 8,10,11
+Heptatonica 646| 1, 3, 5, 7, 8,10,11
+Heptatonica 647| 2, 3, 5, 7, 8,10,11
+Heptatonica 648| 0, 4, 5, 7, 8,10,11
+Heptatonica 649| 1, 4, 5, 7, 8,10,11
+Heptatonica 650| 2, 4, 5, 7, 8,10,11
+Heptatonica 651| 3, 4, 5, 7, 8,10,11
+Heptatonica 652| 0, 1, 6, 7, 8,10,11
+Heptatonica 653| 0, 2, 6, 7, 8,10,11
+Heptatonica 654| 1, 2, 6, 7, 8,10,11
+Heptatonica 655| 0, 3, 6, 7, 8,10,11
+Heptatonica 656| 1, 3, 6, 7, 8,10,11
+Heptatonica 657| 2, 3, 6, 7, 8,10,11
+Heptatonica 658| 0, 4, 6, 7, 8,10,11
+Heptatonica 659| 1, 4, 6, 7, 8,10,11
+Heptatonica 660| 2, 4, 6, 7, 8,10,11
+Heptatonica 661| 3, 4, 6, 7, 8,10,11
+Heptatonica 662| 0, 5, 6, 7, 8,10,11
+Heptatonica 663| 1, 5, 6, 7, 8,10,11
+Heptatonica 664| 2, 5, 6, 7, 8,10,11
+Heptatonica 665| 3, 5, 6, 7, 8,10,11
+Heptatonica 666| 4, 5, 6, 7, 8,10,11
+Heptatonica 667| 0, 1, 2, 3, 9,10,11
+Heptatonica 668| 0, 1, 2, 4, 9,10,11
+Heptatonica 669| 0, 1, 3, 4, 9,10,11
+Heptatonica 670| 0, 2, 3, 4, 9,10,11
+Heptatonica 671| 1, 2, 3, 4, 9,10,11
+Heptatonica 672| 0, 1, 2, 5, 9,10,11
+Heptatonica 673| 0, 1, 3, 5, 9,10,11
+Heptatonica 674| 0, 2, 3, 5, 9,10,11
+Heptatonica 675| 1, 2, 3, 5, 9,10,11
+Heptatonica 676| 0, 1, 4, 5, 9,10,11
+Heptatonica 677| 0, 2, 4, 5, 9,10,11
+Heptatonica 678| 1, 2, 4, 5, 9,10,11
+Heptatonica 679| 0, 3, 4, 5, 9,10,11
+Heptatonica 680| 1, 3, 4, 5, 9,10,11
+Heptatonica 681| 2, 3, 4, 5, 9,10,11
+Heptatonica 682| 0, 1, 2, 6, 9,10,11
+Heptatonica 683| 0, 1, 3, 6, 9,10,11
+Heptatonica 684| 0, 2, 3, 6, 9,10,11
+Heptatonica 685| 1, 2, 3, 6, 9,10,11
+Heptatonica 686| 0, 1, 4, 6, 9,10,11
+Heptatonica 687| 0, 2, 4, 6, 9,10,11
+Heptatonica 688| 1, 2, 4, 6, 9,10,11
+Heptatonica 689| 0, 3, 4, 6, 9,10,11
+Heptatonica 690| 1, 3, 4, 6, 9,10,11
+Heptatonica 691| 2, 3, 4, 6, 9,10,11
+Heptatonica 692| 0, 1, 5, 6, 9,10,11
+Heptatonica 693| 0, 2, 5, 6, 9,10,11
+Heptatonica 694| 1, 2, 5, 6, 9,10,11
+Heptatonica 695| 0, 3, 5, 6, 9,10,11
+Heptatonica 696| 1, 3, 5, 6, 9,10,11
+Heptatonica 697| 2, 3, 5, 6, 9,10,11
+Heptatonica 698| 0, 4, 5, 6, 9,10,11
+Heptatonica 699| 1, 4, 5, 6, 9,10,11
+Heptatonica 700| 2, 4, 5, 6, 9,10,11
+Heptatonica 701| 3, 4, 5, 6, 9,10,11
+Heptatonica 702| 0, 1, 2, 7, 9,10,11
+Heptatonica 703| 0, 1, 3, 7, 9,10,11
+Heptatonica 704| 0, 2, 3, 7, 9,10,11
+Heptatonica 705| 1, 2, 3, 7, 9,10,11
+Heptatonica 706| 0, 1, 4, 7, 9,10,11
+Heptatonica 707| 0, 2, 4, 7, 9,10,11
+Heptatonica 708| 1, 2, 4, 7, 9,10,11
+Heptatonica 709| 0, 3, 4, 7, 9,10,11
+Heptatonica 710| 1, 3, 4, 7, 9,10,11
+Heptatonica 711| 2, 3, 4, 7, 9,10,11
+Heptatonica 712| 0, 1, 5, 7, 9,10,11
+Heptatonica 713| 0, 2, 5, 7, 9,10,11
+Heptatonica 714| 1, 2, 5, 7, 9,10,11
+Heptatonica 715| 0, 3, 5, 7, 9,10,11
+Heptatonica 716| 1, 3, 5, 7, 9,10,11
+Heptatonica 717| 2, 3, 5, 7, 9,10,11
+Heptatonica 718| 0, 4, 5, 7, 9,10,11
+Heptatonica 719| 1, 4, 5, 7, 9,10,11
+Heptatonica 720| 2, 4, 5, 7, 9,10,11
+Heptatonica 721| 3, 4, 5, 7, 9,10,11
+Heptatonica 722| 0, 1, 6, 7, 9,10,11
+Heptatonica 723| 0, 2, 6, 7, 9,10,11
+Heptatonica 724| 1, 2, 6, 7, 9,10,11
+Heptatonica 725| 0, 3, 6, 7, 9,10,11
+Heptatonica 726| 1, 3, 6, 7, 9,10,11
+Heptatonica 727| 2, 3, 6, 7, 9,10,11
+Heptatonica 728| 0, 4, 6, 7, 9,10,11
+Heptatonica 729| 1, 4, 6, 7, 9,10,11
+Heptatonica 730| 2, 4, 6, 7, 9,10,11
+Heptatonica 731| 3, 4, 6, 7, 9,10,11
+Heptatonica 732| 0, 5, 6, 7, 9,10,11
+Heptatonica 733| 1, 5, 6, 7, 9,10,11
+Heptatonica 734| 2, 5, 6, 7, 9,10,11
+Heptatonica 735| 3, 5, 6, 7, 9,10,11
+Heptatonica 736| 4, 5, 6, 7, 9,10,11
+Heptatonica 737| 0, 1, 2, 8, 9,10,11
+Heptatonica 738| 0, 1, 3, 8, 9,10,11
+Heptatonica 739| 0, 2, 3, 8, 9,10,11
+Heptatonica 740| 1, 2, 3, 8, 9,10,11
+Heptatonica 741| 0, 1, 4, 8, 9,10,11
+Heptatonica 742| 0, 2, 4, 8, 9,10,11
+Heptatonica 743| 1, 2, 4, 8, 9,10,11
+Heptatonica 744| 0, 3, 4, 8, 9,10,11
+Heptatonica 745| 1, 3, 4, 8, 9,10,11
+Heptatonica 746| 2, 3, 4, 8, 9,10,11
+Heptatonica 747| 0, 1, 5, 8, 9,10,11
+Heptatonica 748| 0, 2, 5, 8, 9,10,11
+Heptatonica 749| 1, 2, 5, 8, 9,10,11
+Heptatonica 750| 0, 3, 5, 8, 9,10,11
+Heptatonica 751| 1, 3, 5, 8, 9,10,11
+Heptatonica 752| 2, 3, 5, 8, 9,10,11
+Heptatonica 753| 0, 4, 5, 8, 9,10,11
+Heptatonica 754| 1, 4, 5, 8, 9,10,11
+Heptatonica 755| 2, 4, 5, 8, 9,10,11
+Heptatonica 756| 3, 4, 5, 8, 9,10,11
+Heptatonica 757| 0, 1, 6, 8, 9,10,11
+Heptatonica 758| 0, 2, 6, 8, 9,10,11
+Heptatonica 759| 1, 2, 6, 8, 9,10,11
+Heptatonica 760| 0, 3, 6, 8, 9,10,11
+Heptatonica 761| 1, 3, 6, 8, 9,10,11
+Heptatonica 762| 2, 3, 6, 8, 9,10,11
+Heptatonica 763| 0, 4, 6, 8, 9,10,11
+Heptatonica 764| 1, 4, 6, 8, 9,10,11
+Heptatonica 765| 2, 4, 6, 8, 9,10,11
+Heptatonica 766| 3, 4, 6, 8, 9,10,11
+Heptatonica 767| 0, 5, 6, 8, 9,10,11
+Heptatonica 768| 1, 5, 6, 8, 9,10,11
+Heptatonica 769| 2, 5, 6, 8, 9,10,11
+Heptatonica 770| 3, 5, 6, 8, 9,10,11
+Heptatonica 771| 4, 5, 6, 8, 9,10,11
+Heptatonica 772| 0, 1, 7, 8, 9,10,11
+Heptatonica 773| 0, 2, 7, 8, 9,10,11
+Heptatonica 774| 1, 2, 7, 8, 9,10,11
+Heptatonica 775| 0, 3, 7, 8, 9,10,11
+Heptatonica 776| 1, 3, 7, 8, 9,10,11
+Heptatonica 777| 2, 3, 7, 8, 9,10,11
+Heptatonica 778| 0, 4, 7, 8, 9,10,11
+Heptatonica 779| 1, 4, 7, 8, 9,10,11
+Heptatonica 780| 2, 4, 7, 8, 9,10,11
+Heptatonica 781| 3, 4, 7, 8, 9,10,11
+Heptatonica 782| 0, 5, 7, 8, 9,10,11
+Heptatonica 783| 1, 5, 7, 8, 9,10,11
+Heptatonica 784| 2, 5, 7, 8, 9,10,11
+Heptatonica 785| 3, 5, 7, 8, 9,10,11
+Heptatonica 786| 4, 5, 7, 8, 9,10,11
+Heptatonica 787| 0, 6, 7, 8, 9,10,11
+Heptatonica 788| 1, 6, 7, 8, 9,10,11
+Heptatonica 789| 2, 6, 7, 8, 9,10,11
+Heptatonica 790| 3, 6, 7, 8, 9,10,11
+Heptatonica 791| 4, 6, 7, 8, 9,10,11
+Heptatonica 792| 5, 6, 7, 8, 9,10,11
+Octatonica 1| 0, 1, 2, 3, 4, 5, 6, 7
+Octatonica 2| 0, 1, 2, 3, 4, 5, 6, 8
+Octatonica 3| 0, 1, 2, 3, 4, 5, 7, 8
+Octatonica 4| 0, 1, 2, 3, 4, 6, 7, 8
+Octatonica 5| 0, 1, 2, 3, 5, 6, 7, 8
+Octatonica 6| 0, 1, 2, 4, 5, 6, 7, 8
+Octatonica 7| 0, 1, 3, 4, 5, 6, 7, 8
+Octatonica 8| 0, 2, 3, 4, 5, 6, 7, 8
+Octatonica 9| 1, 2, 3, 4, 5, 6, 7, 8
+Octatonica 10| 0, 1, 2, 3, 4, 5, 6, 9
+Octatonica 11| 0, 1, 2, 3, 4, 5, 7, 9
+Octatonica 12| 0, 1, 2, 3, 4, 6, 7, 9
+Octatonica 13| 0, 1, 2, 3, 5, 6, 7, 9
+Octatonica 14| 0, 1, 2, 4, 5, 6, 7, 9
+Octatonica 15| 0, 1, 3, 4, 5, 6, 7, 9
+Octatonica 16| 0, 2, 3, 4, 5, 6, 7, 9
+Octatonica 17| 1, 2, 3, 4, 5, 6, 7, 9
+Octatonica 18| 0, 1, 2, 3, 4, 5, 8, 9
+Octatonica 19| 0, 1, 2, 3, 4, 6, 8, 9
+Octatonica 20| 0, 1, 2, 3, 5, 6, 8, 9
+Octatonica 21| 0, 1, 2, 4, 5, 6, 8, 9
+Octatonica 22| 0, 1, 3, 4, 5, 6, 8, 9
+Octatonica 23| 0, 2, 3, 4, 5, 6, 8, 9
+Octatonica 24| 1, 2, 3, 4, 5, 6, 8, 9
+Octatonica 25| 0, 1, 2, 3, 4, 7, 8, 9
+Octatonica 26| 0, 1, 2, 3, 5, 7, 8, 9
+Octatonica 27| 0, 1, 2, 4, 5, 7, 8, 9
+Octatonica 28| 0, 1, 3, 4, 5, 7, 8, 9
+Octatonica 29| 0, 2, 3, 4, 5, 7, 8, 9
+Octatonica 30| 1, 2, 3, 4, 5, 7, 8, 9
+Octatonica 31| 0, 1, 2, 3, 6, 7, 8, 9
+Octatonica 32| 0, 1, 2, 4, 6, 7, 8, 9
+Octatonica 33| 0, 1, 3, 4, 6, 7, 8, 9
+Octatonica 34| 0, 2, 3, 4, 6, 7, 8, 9
+Octatonica 35| 1, 2, 3, 4, 6, 7, 8, 9
+Octatonica 36| 0, 1, 2, 5, 6, 7, 8, 9
+Octatonica 37| 0, 1, 3, 5, 6, 7, 8, 9
+Octatonica 38| 0, 2, 3, 5, 6, 7, 8, 9
+Octatonica 39| 1, 2, 3, 5, 6, 7, 8, 9
+Octatonica 40| 0, 1, 4, 5, 6, 7, 8, 9
+Octatonica 41| 0, 2, 4, 5, 6, 7, 8, 9
+Octatonica 42| 1, 2, 4, 5, 6, 7, 8, 9
+Octatonica 43| 0, 3, 4, 5, 6, 7, 8, 9
+Octatonica 44| 1, 3, 4, 5, 6, 7, 8, 9
+Octatonica 45| 2, 3, 4, 5, 6, 7, 8, 9
+Octatonica 46| 0, 1, 2, 3, 4, 5, 6,10
+Octatonica 47| 0, 1, 2, 3, 4, 5, 7,10
+Octatonica 48| 0, 1, 2, 3, 4, 6, 7,10
+Octatonica 49| 0, 1, 2, 3, 5, 6, 7,10
+Octatonica 50| 0, 1, 2, 4, 5, 6, 7,10
+Octatonica 51| 0, 1, 3, 4, 5, 6, 7,10
+Octatonica 52| 0, 2, 3, 4, 5, 6, 7,10
+Octatonica 53| 1, 2, 3, 4, 5, 6, 7,10
+Octatonica 54| 0, 1, 2, 3, 4, 5, 8,10
+Octatonica 55| 0, 1, 2, 3, 4, 6, 8,10
+Octatonica 56| 0, 1, 2, 3, 5, 6, 8,10
+Octatonica 57| 0, 1, 2, 4, 5, 6, 8,10
+Octatonica 58| 0, 1, 3, 4, 5, 6, 8,10
+Octatonica 59| 0, 2, 3, 4, 5, 6, 8,10
+Octatonica 60| 1, 2, 3, 4, 5, 6, 8,10
+Octatonica 61| 0, 1, 2, 3, 4, 7, 8,10
+Octatonica 62| 0, 1, 2, 3, 5, 7, 8,10
+Octatonica 63| 0, 1, 2, 4, 5, 7, 8,10
+Octatonica 64| 0, 1, 3, 4, 5, 7, 8,10
+Octatonica 65| 0, 2, 3, 4, 5, 7, 8,10
+Octatonica 66| 1, 2, 3, 4, 5, 7, 8,10
+Octatonica 67| 0, 1, 2, 3, 6, 7, 8,10
+Octatonica 68| 0, 1, 2, 4, 6, 7, 8,10
+Octatonica 69| 0, 1, 3, 4, 6, 7, 8,10
+Octatonica 70| 0, 2, 3, 4, 6, 7, 8,10
+Octatonica 71| 1, 2, 3, 4, 6, 7, 8,10
+Octatonica 72| 0, 1, 2, 5, 6, 7, 8,10
+Octatonica 73| 0, 1, 3, 5, 6, 7, 8,10
+Octatonica 74| 0, 2, 3, 5, 6, 7, 8,10
+Octatonica 75| 1, 2, 3, 5, 6, 7, 8,10
+Octatonica 76| 0, 1, 4, 5, 6, 7, 8,10
+Octatonica 77| 0, 2, 4, 5, 6, 7, 8,10
+Octatonica 78| 1, 2, 4, 5, 6, 7, 8,10
+Octatonica 79| 0, 3, 4, 5, 6, 7, 8,10
+Octatonica 80| 1, 3, 4, 5, 6, 7, 8,10
+Octatonica 81| 2, 3, 4, 5, 6, 7, 8,10
+Octatonica 82| 0, 1, 2, 3, 4, 5, 9,10
+Octatonica 83| 0, 1, 2, 3, 4, 6, 9,10
+Octatonica 84| 0, 1, 2, 3, 5, 6, 9,10
+Octatonica 85| 0, 1, 2, 4, 5, 6, 9,10
+Octatonica 86| 0, 1, 3, 4, 5, 6, 9,10
+Octatonica 87| 0, 2, 3, 4, 5, 6, 9,10
+Octatonica 88| 1, 2, 3, 4, 5, 6, 9,10
+Octatonica 89| 0, 1, 2, 3, 4, 7, 9,10
+Octatonica 90| 0, 1, 2, 3, 5, 7, 9,10
+Octatonica 91| 0, 1, 2, 4, 5, 7, 9,10
+Octatonica 92| 0, 1, 3, 4, 5, 7, 9,10
+Octatonica 93| 0, 2, 3, 4, 5, 7, 9,10
+Octatonica 94| 1, 2, 3, 4, 5, 7, 9,10
+Octatonica 95| 0, 1, 2, 3, 6, 7, 9,10
+Octatonica 96| 0, 1, 2, 4, 6, 7, 9,10
+Octatonica 97| 0, 1, 3, 4, 6, 7, 9,10
+Octatonica 98| 0, 2, 3, 4, 6, 7, 9,10
+Octatonica 99| 1, 2, 3, 4, 6, 7, 9,10
+Octatonica 100| 0, 1, 2, 5, 6, 7, 9,10
+Octatonica 101| 0, 1, 3, 5, 6, 7, 9,10
+Octatonica 102| 0, 2, 3, 5, 6, 7, 9,10
+Octatonica 103| 1, 2, 3, 5, 6, 7, 9,10
+Octatonica 104| 0, 1, 4, 5, 6, 7, 9,10
+Octatonica 105| 0, 2, 4, 5, 6, 7, 9,10
+Octatonica 106| 1, 2, 4, 5, 6, 7, 9,10
+Octatonica 107| 0, 3, 4, 5, 6, 7, 9,10
+Octatonica 108| 1, 3, 4, 5, 6, 7, 9,10
+Octatonica 109| 2, 3, 4, 5, 6, 7, 9,10
+Octatonica 110| 0, 1, 2, 3, 4, 8, 9,10
+Octatonica 111| 0, 1, 2, 3, 5, 8, 9,10
+Octatonica 112| 0, 1, 2, 4, 5, 8, 9,10
+Octatonica 113| 0, 1, 3, 4, 5, 8, 9,10
+Octatonica 114| 0, 2, 3, 4, 5, 8, 9,10
+Octatonica 115| 1, 2, 3, 4, 5, 8, 9,10
+Octatonica 116| 0, 1, 2, 3, 6, 8, 9,10
+Octatonica 117| 0, 1, 2, 4, 6, 8, 9,10
+Octatonica 118| 0, 1, 3, 4, 6, 8, 9,10
+Octatonica 119| 0, 2, 3, 4, 6, 8, 9,10
+Octatonica 120| 1, 2, 3, 4, 6, 8, 9,10
+Octatonica 121| 0, 1, 2, 5, 6, 8, 9,10
+Octatonica 122| 0, 1, 3, 5, 6, 8, 9,10
+Octatonica 123| 0, 2, 3, 5, 6, 8, 9,10
+Octatonica 124| 1, 2, 3, 5, 6, 8, 9,10
+Octatonica 125| 0, 1, 4, 5, 6, 8, 9,10
+Octatonica 126| 0, 2, 4, 5, 6, 8, 9,10
+Octatonica 127| 1, 2, 4, 5, 6, 8, 9,10
+Octatonica 128| 0, 3, 4, 5, 6, 8, 9,10
+Octatonica 129| 1, 3, 4, 5, 6, 8, 9,10
+Octatonica 130| 2, 3, 4, 5, 6, 8, 9,10
+Octatonica 131| 0, 1, 2, 3, 7, 8, 9,10
+Octatonica 132| 0, 1, 2, 4, 7, 8, 9,10
+Octatonica 133| 0, 1, 3, 4, 7, 8, 9,10
+Octatonica 134| 0, 2, 3, 4, 7, 8, 9,10
+Octatonica 135| 1, 2, 3, 4, 7, 8, 9,10
+Octatonica 136| 0, 1, 2, 5, 7, 8, 9,10
+Octatonica 137| 0, 1, 3, 5, 7, 8, 9,10
+Octatonica 138| 0, 2, 3, 5, 7, 8, 9,10
+Octatonica 139| 1, 2, 3, 5, 7, 8, 9,10
+Octatonica 140| 0, 1, 4, 5, 7, 8, 9,10
+Octatonica 141| 0, 2, 4, 5, 7, 8, 9,10
+Octatonica 142| 1, 2, 4, 5, 7, 8, 9,10
+Octatonica 143| 0, 3, 4, 5, 7, 8, 9,10
+Octatonica 144| 1, 3, 4, 5, 7, 8, 9,10
+Octatonica 145| 2, 3, 4, 5, 7, 8, 9,10
+Octatonica 146| 0, 1, 2, 6, 7, 8, 9,10
+Octatonica 147| 0, 1, 3, 6, 7, 8, 9,10
+Octatonica 148| 0, 2, 3, 6, 7, 8, 9,10
+Octatonica 149| 1, 2, 3, 6, 7, 8, 9,10
+Octatonica 150| 0, 1, 4, 6, 7, 8, 9,10
+Octatonica 151| 0, 2, 4, 6, 7, 8, 9,10
+Octatonica 152| 1, 2, 4, 6, 7, 8, 9,10
+Octatonica 153| 0, 3, 4, 6, 7, 8, 9,10
+Octatonica 154| 1, 3, 4, 6, 7, 8, 9,10
+Octatonica 155| 2, 3, 4, 6, 7, 8, 9,10
+Octatonica 156| 0, 1, 5, 6, 7, 8, 9,10
+Octatonica 157| 0, 2, 5, 6, 7, 8, 9,10
+Octatonica 158| 1, 2, 5, 6, 7, 8, 9,10
+Octatonica 159| 0, 3, 5, 6, 7, 8, 9,10
+Octatonica 160| 1, 3, 5, 6, 7, 8, 9,10
+Octatonica 161| 2, 3, 5, 6, 7, 8, 9,10
+Octatonica 162| 0, 4, 5, 6, 7, 8, 9,10
+Octatonica 163| 1, 4, 5, 6, 7, 8, 9,10
+Octatonica 164| 2, 4, 5, 6, 7, 8, 9,10
+Octatonica 165| 3, 4, 5, 6, 7, 8, 9,10
+Octatonica 166| 0, 1, 2, 3, 4, 5, 6,11
+Octatonica 167| 0, 1, 2, 3, 4, 5, 7,11
+Octatonica 168| 0, 1, 2, 3, 4, 6, 7,11
+Octatonica 169| 0, 1, 2, 3, 5, 6, 7,11
+Octatonica 170| 0, 1, 2, 4, 5, 6, 7,11
+Octatonica 171| 0, 1, 3, 4, 5, 6, 7,11
+Octatonica 172| 0, 2, 3, 4, 5, 6, 7,11
+Octatonica 173| 1, 2, 3, 4, 5, 6, 7,11
+Octatonica 174| 0, 1, 2, 3, 4, 5, 8,11
+Octatonica 175| 0, 1, 2, 3, 4, 6, 8,11
+Octatonica 176| 0, 1, 2, 3, 5, 6, 8,11
+Octatonica 177| 0, 1, 2, 4, 5, 6, 8,11
+Octatonica 178| 0, 1, 3, 4, 5, 6, 8,11
+Octatonica 179| 0, 2, 3, 4, 5, 6, 8,11
+Octatonica 180| 1, 2, 3, 4, 5, 6, 8,11
+Octatonica 181| 0, 1, 2, 3, 4, 7, 8,11
+Octatonica 182| 0, 1, 2, 3, 5, 7, 8,11
+Octatonica 183| 0, 1, 2, 4, 5, 7, 8,11
+Octatonica 184| 0, 1, 3, 4, 5, 7, 8,11
+Octatonica 185| 0, 2, 3, 4, 5, 7, 8,11
+Octatonica 186| 1, 2, 3, 4, 5, 7, 8,11
+Octatonica 187| 0, 1, 2, 3, 6, 7, 8,11
+Octatonica 188| 0, 1, 2, 4, 6, 7, 8,11
+Octatonica 189| 0, 1, 3, 4, 6, 7, 8,11
+Octatonica 190| 0, 2, 3, 4, 6, 7, 8,11
+Octatonica 191| 1, 2, 3, 4, 6, 7, 8,11
+Octatonica 192| 0, 1, 2, 5, 6, 7, 8,11
+Octatonica 193| 0, 1, 3, 5, 6, 7, 8,11
+Octatonica 194| 0, 2, 3, 5, 6, 7, 8,11
+Octatonica 195| 1, 2, 3, 5, 6, 7, 8,11
+Octatonica 196| 0, 1, 4, 5, 6, 7, 8,11
+Octatonica 197| 0, 2, 4, 5, 6, 7, 8,11
+Octatonica 198| 1, 2, 4, 5, 6, 7, 8,11
+Octatonica 199| 0, 3, 4, 5, 6, 7, 8,11
+Octatonica 200| 1, 3, 4, 5, 6, 7, 8,11
+Octatonica 201| 2, 3, 4, 5, 6, 7, 8,11
+Octatonica 202| 0, 1, 2, 3, 4, 5, 9,11
+Octatonica 203| 0, 1, 2, 3, 4, 6, 9,11
+Octatonica 204| 0, 1, 2, 3, 5, 6, 9,11
+Octatonica 205| 0, 1, 2, 4, 5, 6, 9,11
+Octatonica 206| 0, 1, 3, 4, 5, 6, 9,11
+Octatonica 207| 0, 2, 3, 4, 5, 6, 9,11
+Octatonica 208| 1, 2, 3, 4, 5, 6, 9,11
+Octatonica 209| 0, 1, 2, 3, 4, 7, 9,11
+Octatonica 210| 0, 1, 2, 3, 5, 7, 9,11
+Octatonica 211| 0, 1, 2, 4, 5, 7, 9,11
+Octatonica 212| 0, 1, 3, 4, 5, 7, 9,11
+Octatonica 213| 0, 2, 3, 4, 5, 7, 9,11
+Octatonica 214| 1, 2, 3, 4, 5, 7, 9,11
+Octatonica 215| 0, 1, 2, 3, 6, 7, 9,11
+Octatonica 216| 0, 1, 2, 4, 6, 7, 9,11
+Octatonica 217| 0, 1, 3, 4, 6, 7, 9,11
+Octatonica 218| 0, 2, 3, 4, 6, 7, 9,11
+Octatonica 219| 1, 2, 3, 4, 6, 7, 9,11
+Octatonica 220| 0, 1, 2, 5, 6, 7, 9,11
+Octatonica 221| 0, 1, 3, 5, 6, 7, 9,11
+Octatonica 222| 0, 2, 3, 5, 6, 7, 9,11
+Octatonica 223| 1, 2, 3, 5, 6, 7, 9,11
+Octatonica 224| 0, 1, 4, 5, 6, 7, 9,11
+Octatonica 225| 0, 2, 4, 5, 6, 7, 9,11
+Octatonica 226| 1, 2, 4, 5, 6, 7, 9,11
+Octatonica 227| 0, 3, 4, 5, 6, 7, 9,11
+Octatonica 228| 1, 3, 4, 5, 6, 7, 9,11
+Octatonica 229| 2, 3, 4, 5, 6, 7, 9,11
+Octatonica 230| 0, 1, 2, 3, 4, 8, 9,11
+Octatonica 231| 0, 1, 2, 3, 5, 8, 9,11
+Octatonica 232| 0, 1, 2, 4, 5, 8, 9,11
+Octatonica 233| 0, 1, 3, 4, 5, 8, 9,11
+Octatonica 234| 0, 2, 3, 4, 5, 8, 9,11
+Octatonica 235| 1, 2, 3, 4, 5, 8, 9,11
+Octatonica 236| 0, 1, 2, 3, 6, 8, 9,11
+Octatonica 237| 0, 1, 2, 4, 6, 8, 9,11
+Octatonica 238| 0, 1, 3, 4, 6, 8, 9,11
+Octatonica 239| 0, 2, 3, 4, 6, 8, 9,11
+Octatonica 240| 1, 2, 3, 4, 6, 8, 9,11
+Octatonica 241| 0, 1, 2, 5, 6, 8, 9,11
+Octatonica 242| 0, 1, 3, 5, 6, 8, 9,11
+Octatonica 243| 0, 2, 3, 5, 6, 8, 9,11
+Octatonica 244| 1, 2, 3, 5, 6, 8, 9,11
+Octatonica 245| 0, 1, 4, 5, 6, 8, 9,11
+Octatonica 246| 0, 2, 4, 5, 6, 8, 9,11
+Octatonica 247| 1, 2, 4, 5, 6, 8, 9,11
+Octatonica 248| 0, 3, 4, 5, 6, 8, 9,11
+Octatonica 249| 1, 3, 4, 5, 6, 8, 9,11
+Octatonica 250| 2, 3, 4, 5, 6, 8, 9,11
+Octatonica 251| 0, 1, 2, 3, 7, 8, 9,11
+Octatonica 252| 0, 1, 2, 4, 7, 8, 9,11
+Octatonica 253| 0, 1, 3, 4, 7, 8, 9,11
+Octatonica 254| 0, 2, 3, 4, 7, 8, 9,11
+Octatonica 255| 1, 2, 3, 4, 7, 8, 9,11
+Octatonica 256| 0, 1, 2, 5, 7, 8, 9,11
+Octatonica 257| 0, 1, 3, 5, 7, 8, 9,11
+Octatonica 258| 0, 2, 3, 5, 7, 8, 9,11
+Octatonica 259| 1, 2, 3, 5, 7, 8, 9,11
+Octatonica 260| 0, 1, 4, 5, 7, 8, 9,11
+Octatonica 261| 0, 2, 4, 5, 7, 8, 9,11
+Octatonica 262| 1, 2, 4, 5, 7, 8, 9,11
+Octatonica 263| 0, 3, 4, 5, 7, 8, 9,11
+Octatonica 264| 1, 3, 4, 5, 7, 8, 9,11
+Octatonica 265| 2, 3, 4, 5, 7, 8, 9,11
+Octatonica 266| 0, 1, 2, 6, 7, 8, 9,11
+Octatonica 267| 0, 1, 3, 6, 7, 8, 9,11
+Octatonica 268| 0, 2, 3, 6, 7, 8, 9,11
+Octatonica 269| 1, 2, 3, 6, 7, 8, 9,11
+Octatonica 270| 0, 1, 4, 6, 7, 8, 9,11
+Octatonica 271| 0, 2, 4, 6, 7, 8, 9,11
+Octatonica 272| 1, 2, 4, 6, 7, 8, 9,11
+Octatonica 273| 0, 3, 4, 6, 7, 8, 9,11
+Octatonica 274| 1, 3, 4, 6, 7, 8, 9,11
+Octatonica 275| 2, 3, 4, 6, 7, 8, 9,11
+Octatonica 276| 0, 1, 5, 6, 7, 8, 9,11
+Octatonica 277| 0, 2, 5, 6, 7, 8, 9,11
+Octatonica 278| 1, 2, 5, 6, 7, 8, 9,11
+Octatonica 279| 0, 3, 5, 6, 7, 8, 9,11
+Octatonica 280| 1, 3, 5, 6, 7, 8, 9,11
+Octatonica 281| 2, 3, 5, 6, 7, 8, 9,11
+Octatonica 282| 0, 4, 5, 6, 7, 8, 9,11
+Octatonica 283| 1, 4, 5, 6, 7, 8, 9,11
+Octatonica 284| 2, 4, 5, 6, 7, 8, 9,11
+Octatonica 285| 3, 4, 5, 6, 7, 8, 9,11
+Octatonica 286| 0, 1, 2, 3, 4, 5,10,11
+Octatonica 287| 0, 1, 2, 3, 4, 6,10,11
+Octatonica 288| 0, 1, 2, 3, 5, 6,10,11
+Octatonica 289| 0, 1, 2, 4, 5, 6,10,11
+Octatonica 290| 0, 1, 3, 4, 5, 6,10,11
+Octatonica 291| 0, 2, 3, 4, 5, 6,10,11
+Octatonica 292| 1, 2, 3, 4, 5, 6,10,11
+Octatonica 293| 0, 1, 2, 3, 4, 7,10,11
+Octatonica 294| 0, 1, 2, 3, 5, 7,10,11
+Octatonica 295| 0, 1, 2, 4, 5, 7,10,11
+Octatonica 296| 0, 1, 3, 4, 5, 7,10,11
+Octatonica 297| 0, 2, 3, 4, 5, 7,10,11
+Octatonica 298| 1, 2, 3, 4, 5, 7,10,11
+Octatonica 299| 0, 1, 2, 3, 6, 7,10,11
+Octatonica 300| 0, 1, 2, 4, 6, 7,10,11
+Octatonica 301| 0, 1, 3, 4, 6, 7,10,11
+Octatonica 302| 0, 2, 3, 4, 6, 7,10,11
+Octatonica 303| 1, 2, 3, 4, 6, 7,10,11
+Octatonica 304| 0, 1, 2, 5, 6, 7,10,11
+Octatonica 305| 0, 1, 3, 5, 6, 7,10,11
+Octatonica 306| 0, 2, 3, 5, 6, 7,10,11
+Octatonica 307| 1, 2, 3, 5, 6, 7,10,11
+Octatonica 308| 0, 1, 4, 5, 6, 7,10,11
+Octatonica 309| 0, 2, 4, 5, 6, 7,10,11
+Octatonica 310| 1, 2, 4, 5, 6, 7,10,11
+Octatonica 311| 0, 3, 4, 5, 6, 7,10,11
+Octatonica 312| 1, 3, 4, 5, 6, 7,10,11
+Octatonica 313| 2, 3, 4, 5, 6, 7,10,11
+Octatonica 314| 0, 1, 2, 3, 4, 8,10,11
+Octatonica 315| 0, 1, 2, 3, 5, 8,10,11
+Octatonica 316| 0, 1, 2, 4, 5, 8,10,11
+Octatonica 317| 0, 1, 3, 4, 5, 8,10,11
+Octatonica 318| 0, 2, 3, 4, 5, 8,10,11
+Octatonica 319| 1, 2, 3, 4, 5, 8,10,11
+Octatonica 320| 0, 1, 2, 3, 6, 8,10,11
+Octatonica 321| 0, 1, 2, 4, 6, 8,10,11
+Octatonica 322| 0, 1, 3, 4, 6, 8,10,11
+Octatonica 323| 0, 2, 3, 4, 6, 8,10,11
+Octatonica 324| 1, 2, 3, 4, 6, 8,10,11
+Octatonica 325| 0, 1, 2, 5, 6, 8,10,11
+Octatonica 326| 0, 1, 3, 5, 6, 8,10,11
+Octatonica 327| 0, 2, 3, 5, 6, 8,10,11
+Octatonica 328| 1, 2, 3, 5, 6, 8,10,11
+Octatonica 329| 0, 1, 4, 5, 6, 8,10,11
+Octatonica 330| 0, 2, 4, 5, 6, 8,10,11
+Octatonica 331| 1, 2, 4, 5, 6, 8,10,11
+Octatonica 332| 0, 3, 4, 5, 6, 8,10,11
+Octatonica 333| 1, 3, 4, 5, 6, 8,10,11
+Octatonica 334| 2, 3, 4, 5, 6, 8,10,11
+Octatonica 335| 0, 1, 2, 3, 7, 8,10,11
+Octatonica 336| 0, 1, 2, 4, 7, 8,10,11
+Octatonica 337| 0, 1, 3, 4, 7, 8,10,11
+Octatonica 338| 0, 2, 3, 4, 7, 8,10,11
+Octatonica 339| 1, 2, 3, 4, 7, 8,10,11
+Octatonica 340| 0, 1, 2, 5, 7, 8,10,11
+Octatonica 341| 0, 1, 3, 5, 7, 8,10,11
+Octatonica 342| 0, 2, 3, 5, 7, 8,10,11
+Octatonica 343| 1, 2, 3, 5, 7, 8,10,11
+Octatonica 344| 0, 1, 4, 5, 7, 8,10,11
+Octatonica 345| 0, 2, 4, 5, 7, 8,10,11
+Octatonica 346| 1, 2, 4, 5, 7, 8,10,11
+Octatonica 347| 0, 3, 4, 5, 7, 8,10,11
+Octatonica 348| 1, 3, 4, 5, 7, 8,10,11
+Octatonica 349| 2, 3, 4, 5, 7, 8,10,11
+Octatonica 350| 0, 1, 2, 6, 7, 8,10,11
+Octatonica 351| 0, 1, 3, 6, 7, 8,10,11
+Octatonica 352| 0, 2, 3, 6, 7, 8,10,11
+Octatonica 353| 1, 2, 3, 6, 7, 8,10,11
+Octatonica 354| 0, 1, 4, 6, 7, 8,10,11
+Octatonica 355| 0, 2, 4, 6, 7, 8,10,11
+Octatonica 356| 1, 2, 4, 6, 7, 8,10,11
+Octatonica 357| 0, 3, 4, 6, 7, 8,10,11
+Octatonica 358| 1, 3, 4, 6, 7, 8,10,11
+Octatonica 359| 2, 3, 4, 6, 7, 8,10,11
+Octatonica 360| 0, 1, 5, 6, 7, 8,10,11
+Octatonica 361| 0, 2, 5, 6, 7, 8,10,11
+Octatonica 362| 1, 2, 5, 6, 7, 8,10,11
+Octatonica 363| 0, 3, 5, 6, 7, 8,10,11
+Octatonica 364| 1, 3, 5, 6, 7, 8,10,11
+Octatonica 365| 2, 3, 5, 6, 7, 8,10,11
+Octatonica 366| 0, 4, 5, 6, 7, 8,10,11
+Octatonica 367| 1, 4, 5, 6, 7, 8,10,11
+Octatonica 368| 2, 4, 5, 6, 7, 8,10,11
+Octatonica 369| 3, 4, 5, 6, 7, 8,10,11
+Octatonica 370| 0, 1, 2, 3, 4, 9,10,11
+Octatonica 371| 0, 1, 2, 3, 5, 9,10,11
+Octatonica 372| 0, 1, 2, 4, 5, 9,10,11
+Octatonica 373| 0, 1, 3, 4, 5, 9,10,11
+Octatonica 374| 0, 2, 3, 4, 5, 9,10,11
+Octatonica 375| 1, 2, 3, 4, 5, 9,10,11
+Octatonica 376| 0, 1, 2, 3, 6, 9,10,11
+Octatonica 377| 0, 1, 2, 4, 6, 9,10,11
+Octatonica 378| 0, 1, 3, 4, 6, 9,10,11
+Octatonica 379| 0, 2, 3, 4, 6, 9,10,11
+Octatonica 380| 1, 2, 3, 4, 6, 9,10,11
+Octatonica 381| 0, 1, 2, 5, 6, 9,10,11
+Octatonica 382| 0, 1, 3, 5, 6, 9,10,11
+Octatonica 383| 0, 2, 3, 5, 6, 9,10,11
+Octatonica 384| 1, 2, 3, 5, 6, 9,10,11
+Octatonica 385| 0, 1, 4, 5, 6, 9,10,11
+Octatonica 386| 0, 2, 4, 5, 6, 9,10,11
+Octatonica 387| 1, 2, 4, 5, 6, 9,10,11
+Octatonica 388| 0, 3, 4, 5, 6, 9,10,11
+Octatonica 389| 1, 3, 4, 5, 6, 9,10,11
+Octatonica 390| 2, 3, 4, 5, 6, 9,10,11
+Octatonica 391| 0, 1, 2, 3, 7, 9,10,11
+Octatonica 392| 0, 1, 2, 4, 7, 9,10,11
+Octatonica 393| 0, 1, 3, 4, 7, 9,10,11
+Octatonica 394| 0, 2, 3, 4, 7, 9,10,11
+Octatonica 395| 1, 2, 3, 4, 7, 9,10,11
+Octatonica 396| 0, 1, 2, 5, 7, 9,10,11
+Octatonica 397| 0, 1, 3, 5, 7, 9,10,11
+Octatonica 398| 0, 2, 3, 5, 7, 9,10,11
+Octatonica 399| 1, 2, 3, 5, 7, 9,10,11
+Octatonica 400| 0, 1, 4, 5, 7, 9,10,11
+Octatonica 401| 0, 2, 4, 5, 7, 9,10,11
+Octatonica 402| 1, 2, 4, 5, 7, 9,10,11
+Octatonica 403| 0, 3, 4, 5, 7, 9,10,11
+Octatonica 404| 1, 3, 4, 5, 7, 9,10,11
+Octatonica 405| 2, 3, 4, 5, 7, 9,10,11
+Octatonica 406| 0, 1, 2, 6, 7, 9,10,11
+Octatonica 407| 0, 1, 3, 6, 7, 9,10,11
+Octatonica 408| 0, 2, 3, 6, 7, 9,10,11
+Octatonica 409| 1, 2, 3, 6, 7, 9,10,11
+Octatonica 410| 0, 1, 4, 6, 7, 9,10,11
+Octatonica 411| 0, 2, 4, 6, 7, 9,10,11
+Octatonica 412| 1, 2, 4, 6, 7, 9,10,11
+Octatonica 413| 0, 3, 4, 6, 7, 9,10,11
+Octatonica 414| 1, 3, 4, 6, 7, 9,10,11
+Octatonica 415| 2, 3, 4, 6, 7, 9,10,11
+Octatonica 416| 0, 1, 5, 6, 7, 9,10,11
+Octatonica 417| 0, 2, 5, 6, 7, 9,10,11
+Octatonica 418| 1, 2, 5, 6, 7, 9,10,11
+Octatonica 419| 0, 3, 5, 6, 7, 9,10,11
+Octatonica 420| 1, 3, 5, 6, 7, 9,10,11
+Octatonica 421| 2, 3, 5, 6, 7, 9,10,11
+Octatonica 422| 0, 4, 5, 6, 7, 9,10,11
+Octatonica 423| 1, 4, 5, 6, 7, 9,10,11
+Octatonica 424| 2, 4, 5, 6, 7, 9,10,11
+Octatonica 425| 3, 4, 5, 6, 7, 9,10,11
+Octatonica 426| 0, 1, 2, 3, 8, 9,10,11
+Octatonica 427| 0, 1, 2, 4, 8, 9,10,11
+Octatonica 428| 0, 1, 3, 4, 8, 9,10,11
+Octatonica 429| 0, 2, 3, 4, 8, 9,10,11
+Octatonica 430| 1, 2, 3, 4, 8, 9,10,11
+Octatonica 431| 0, 1, 2, 5, 8, 9,10,11
+Octatonica 432| 0, 1, 3, 5, 8, 9,10,11
+Octatonica 433| 0, 2, 3, 5, 8, 9,10,11
+Octatonica 434| 1, 2, 3, 5, 8, 9,10,11
+Octatonica 435| 0, 1, 4, 5, 8, 9,10,11
+Octatonica 436| 0, 2, 4, 5, 8, 9,10,11
+Octatonica 437| 1, 2, 4, 5, 8, 9,10,11
+Octatonica 438| 0, 3, 4, 5, 8, 9,10,11
+Octatonica 439| 1, 3, 4, 5, 8, 9,10,11
+Octatonica 440| 2, 3, 4, 5, 8, 9,10,11
+Octatonica 441| 0, 1, 2, 6, 8, 9,10,11
+Octatonica 442| 0, 1, 3, 6, 8, 9,10,11
+Octatonica 443| 0, 2, 3, 6, 8, 9,10,11
+Octatonica 444| 1, 2, 3, 6, 8, 9,10,11
+Octatonica 445| 0, 1, 4, 6, 8, 9,10,11
+Octatonica 446| 0, 2, 4, 6, 8, 9,10,11
+Octatonica 447| 1, 2, 4, 6, 8, 9,10,11
+Octatonica 448| 0, 3, 4, 6, 8, 9,10,11
+Octatonica 449| 1, 3, 4, 6, 8, 9,10,11
+Octatonica 450| 2, 3, 4, 6, 8, 9,10,11
+Octatonica 451| 0, 1, 5, 6, 8, 9,10,11
+Octatonica 452| 0, 2, 5, 6, 8, 9,10,11
+Octatonica 453| 1, 2, 5, 6, 8, 9,10,11
+Octatonica 454| 0, 3, 5, 6, 8, 9,10,11
+Octatonica 455| 1, 3, 5, 6, 8, 9,10,11
+Octatonica 456| 2, 3, 5, 6, 8, 9,10,11
+Octatonica 457| 0, 4, 5, 6, 8, 9,10,11
+Octatonica 458| 1, 4, 5, 6, 8, 9,10,11
+Octatonica 459| 2, 4, 5, 6, 8, 9,10,11
+Octatonica 460| 3, 4, 5, 6, 8, 9,10,11
+Octatonica 461| 0, 1, 2, 7, 8, 9,10,11
+Octatonica 462| 0, 1, 3, 7, 8, 9,10,11
+Octatonica 463| 0, 2, 3, 7, 8, 9,10,11
+Octatonica 464| 1, 2, 3, 7, 8, 9,10,11
+Octatonica 465| 0, 1, 4, 7, 8, 9,10,11
+Octatonica 466| 0, 2, 4, 7, 8, 9,10,11
+Octatonica 467| 1, 2, 4, 7, 8, 9,10,11
+Octatonica 468| 0, 3, 4, 7, 8, 9,10,11
+Octatonica 469| 1, 3, 4, 7, 8, 9,10,11
+Octatonica 470| 2, 3, 4, 7, 8, 9,10,11
+Octatonica 471| 0, 1, 5, 7, 8, 9,10,11
+Octatonica 472| 0, 2, 5, 7, 8, 9,10,11
+Octatonica 473| 1, 2, 5, 7, 8, 9,10,11
+Octatonica 474| 0, 3, 5, 7, 8, 9,10,11
+Octatonica 475| 1, 3, 5, 7, 8, 9,10,11
+Octatonica 476| 2, 3, 5, 7, 8, 9,10,11
+Octatonica 477| 0, 4, 5, 7, 8, 9,10,11
+Octatonica 478| 1, 4, 5, 7, 8, 9,10,11
+Octatonica 479| 2, 4, 5, 7, 8, 9,10,11
+Octatonica 480| 3, 4, 5, 7, 8, 9,10,11
+Octatonica 481| 0, 1, 6, 7, 8, 9,10,11
+Octatonica 482| 0, 2, 6, 7, 8, 9,10,11
+Octatonica 483| 1, 2, 6, 7, 8, 9,10,11
+Octatonica 484| 0, 3, 6, 7, 8, 9,10,11
+Octatonica 485| 1, 3, 6, 7, 8, 9,10,11
+Octatonica 486| 2, 3, 6, 7, 8, 9,10,11
+Octatonica 487| 0, 4, 6, 7, 8, 9,10,11
+Octatonica 488| 1, 4, 6, 7, 8, 9,10,11
+Octatonica 489| 2, 4, 6, 7, 8, 9,10,11
+Octatonica 490| 3, 4, 6, 7, 8, 9,10,11
+Octatonica 491| 0, 5, 6, 7, 8, 9,10,11
+Octatonica 492| 1, 5, 6, 7, 8, 9,10,11
+Octatonica 493| 2, 5, 6, 7, 8, 9,10,11
+Octatonica 494| 3, 5, 6, 7, 8, 9,10,11
+Octatonica 495| 4, 5, 6, 7, 8, 9,10,11
+Nanotonica 1| 0, 1, 2, 3, 4, 5, 6, 7, 8
+Nanotonica 2| 0, 1, 2, 3, 4, 5, 6, 7, 9
+Nanotonica 3| 0, 1, 2, 3, 4, 5, 6, 8, 9
+Nanotonica 4| 0, 1, 2, 3, 4, 5, 7, 8, 9
+Nanotonica 5| 0, 1, 2, 3, 4, 6, 7, 8, 9
+Nanotonica 6| 0, 1, 2, 3, 5, 6, 7, 8, 9
+Nanotonica 7| 0, 1, 2, 4, 5, 6, 7, 8, 9
+Nanotonica 8| 0, 1, 3, 4, 5, 6, 7, 8, 9
+Nanotonica 9| 0, 2, 3, 4, 5, 6, 7, 8, 9
+Nanotonica 10| 1, 2, 3, 4, 5, 6, 7, 8, 9
+Nanotonica 11| 0, 1, 2, 3, 4, 5, 6, 7,10
+Nanotonica 12| 0, 1, 2, 3, 4, 5, 6, 8,10
+Nanotonica 13| 0, 1, 2, 3, 4, 5, 7, 8,10
+Nanotonica 14| 0, 1, 2, 3, 4, 6, 7, 8,10
+Nanotonica 15| 0, 1, 2, 3, 5, 6, 7, 8,10
+Nanotonica 16| 0, 1, 2, 4, 5, 6, 7, 8,10
+Nanotonica 17| 0, 1, 3, 4, 5, 6, 7, 8,10
+Nanotonica 18| 0, 2, 3, 4, 5, 6, 7, 8,10
+Nanotonica 19| 1, 2, 3, 4, 5, 6, 7, 8,10
+Nanotonica 20| 0, 1, 2, 3, 4, 5, 6, 9,10
+Nanotonica 21| 0, 1, 2, 3, 4, 5, 7, 9,10
+Nanotonica 22| 0, 1, 2, 3, 4, 6, 7, 9,10
+Nanotonica 23| 0, 1, 2, 3, 5, 6, 7, 9,10
+Nanotonica 24| 0, 1, 2, 4, 5, 6, 7, 9,10
+Nanotonica 25| 0, 1, 3, 4, 5, 6, 7, 9,10
+Nanotonica 26| 0, 2, 3, 4, 5, 6, 7, 9,10
+Nanotonica 27| 1, 2, 3, 4, 5, 6, 7, 9,10
+Nanotonica 28| 0, 1, 2, 3, 4, 5, 8, 9,10
+Nanotonica 29| 0, 1, 2, 3, 4, 6, 8, 9,10
+Nanotonica 30| 0, 1, 2, 3, 5, 6, 8, 9,10
+Nanotonica 31| 0, 1, 2, 4, 5, 6, 8, 9,10
+Nanotonica 32| 0, 1, 3, 4, 5, 6, 8, 9,10
+Nanotonica 33| 0, 2, 3, 4, 5, 6, 8, 9,10
+Nanotonica 34| 1, 2, 3, 4, 5, 6, 8, 9,10
+Nanotonica 35| 0, 1, 2, 3, 4, 7, 8, 9,10
+Nanotonica 36| 0, 1, 2, 3, 5, 7, 8, 9,10
+Nanotonica 37| 0, 1, 2, 4, 5, 7, 8, 9,10
+Nanotonica 38| 0, 1, 3, 4, 5, 7, 8, 9,10
+Nanotonica 39| 0, 2, 3, 4, 5, 7, 8, 9,10
+Nanotonica 40| 1, 2, 3, 4, 5, 7, 8, 9,10
+Nanotonica 41| 0, 1, 2, 3, 6, 7, 8, 9,10
+Nanotonica 42| 0, 1, 2, 4, 6, 7, 8, 9,10
+Nanotonica 43| 0, 1, 3, 4, 6, 7, 8, 9,10
+Nanotonica 44| 0, 2, 3, 4, 6, 7, 8, 9,10
+Nanotonica 45| 1, 2, 3, 4, 6, 7, 8, 9,10
+Nanotonica 46| 0, 1, 2, 5, 6, 7, 8, 9,10
+Nanotonica 47| 0, 1, 3, 5, 6, 7, 8, 9,10
+Nanotonica 48| 0, 2, 3, 5, 6, 7, 8, 9,10
+Nanotonica 49| 1, 2, 3, 5, 6, 7, 8, 9,10
+Nanotonica 50| 0, 1, 4, 5, 6, 7, 8, 9,10
+Nanotonica 51| 0, 2, 4, 5, 6, 7, 8, 9,10
+Nanotonica 52| 1, 2, 4, 5, 6, 7, 8, 9,10
+Nanotonica 53| 0, 3, 4, 5, 6, 7, 8, 9,10
+Nanotonica 54| 1, 3, 4, 5, 6, 7, 8, 9,10
+Nanotonica 55| 2, 3, 4, 5, 6, 7, 8, 9,10
+Nanotonica 56| 0, 1, 2, 3, 4, 5, 6, 7,11
+Nanotonica 57| 0, 1, 2, 3, 4, 5, 6, 8,11
+Nanotonica 58| 0, 1, 2, 3, 4, 5, 7, 8,11
+Nanotonica 59| 0, 1, 2, 3, 4, 6, 7, 8,11
+Nanotonica 60| 0, 1, 2, 3, 5, 6, 7, 8,11
+Nanotonica 61| 0, 1, 2, 4, 5, 6, 7, 8,11
+Nanotonica 62| 0, 1, 3, 4, 5, 6, 7, 8,11
+Nanotonica 63| 0, 2, 3, 4, 5, 6, 7, 8,11
+Nanotonica 64| 1, 2, 3, 4, 5, 6, 7, 8,11
+Nanotonica 65| 0, 1, 2, 3, 4, 5, 6, 9,11
+Nanotonica 66| 0, 1, 2, 3, 4, 5, 7, 9,11
+Nanotonica 67| 0, 1, 2, 3, 4, 6, 7, 9,11
+Nanotonica 68| 0, 1, 2, 3, 5, 6, 7, 9,11
+Nanotonica 69| 0, 1, 2, 4, 5, 6, 7, 9,11
+Nanotonica 70| 0, 1, 3, 4, 5, 6, 7, 9,11
+Nanotonica 71| 0, 2, 3, 4, 5, 6, 7, 9,11
+Nanotonica 72| 1, 2, 3, 4, 5, 6, 7, 9,11
+Nanotonica 73| 0, 1, 2, 3, 4, 5, 8, 9,11
+Nanotonica 74| 0, 1, 2, 3, 4, 6, 8, 9,11
+Nanotonica 75| 0, 1, 2, 3, 5, 6, 8, 9,11
+Nanotonica 76| 0, 1, 2, 4, 5, 6, 8, 9,11
+Nanotonica 77| 0, 1, 3, 4, 5, 6, 8, 9,11
+Nanotonica 78| 0, 2, 3, 4, 5, 6, 8, 9,11
+Nanotonica 79| 1, 2, 3, 4, 5, 6, 8, 9,11
+Nanotonica 80| 0, 1, 2, 3, 4, 7, 8, 9,11
+Nanotonica 81| 0, 1, 2, 3, 5, 7, 8, 9,11
+Nanotonica 82| 0, 1, 2, 4, 5, 7, 8, 9,11
+Nanotonica 83| 0, 1, 3, 4, 5, 7, 8, 9,11
+Nanotonica 84| 0, 2, 3, 4, 5, 7, 8, 9,11
+Nanotonica 85| 1, 2, 3, 4, 5, 7, 8, 9,11
+Nanotonica 86| 0, 1, 2, 3, 6, 7, 8, 9,11
+Nanotonica 87| 0, 1, 2, 4, 6, 7, 8, 9,11
+Nanotonica 88| 0, 1, 3, 4, 6, 7, 8, 9,11
+Nanotonica 89| 0, 2, 3, 4, 6, 7, 8, 9,11
+Nanotonica 90| 1, 2, 3, 4, 6, 7, 8, 9,11
+Nanotonica 91| 0, 1, 2, 5, 6, 7, 8, 9,11
+Nanotonica 92| 0, 1, 3, 5, 6, 7, 8, 9,11
+Nanotonica 93| 0, 2, 3, 5, 6, 7, 8, 9,11
+Nanotonica 94| 1, 2, 3, 5, 6, 7, 8, 9,11
+Nanotonica 95| 0, 1, 4, 5, 6, 7, 8, 9,11
+Nanotonica 96| 0, 2, 4, 5, 6, 7, 8, 9,11
+Nanotonica 97| 1, 2, 4, 5, 6, 7, 8, 9,11
+Nanotonica 98| 0, 3, 4, 5, 6, 7, 8, 9,11
+Nanotonica 99| 1, 3, 4, 5, 6, 7, 8, 9,11
+Nanotonica 100| 2, 3, 4, 5, 6, 7, 8, 9,11
+Nanotonica 101| 0, 1, 2, 3, 4, 5, 6,10,11
+Nanotonica 102| 0, 1, 2, 3, 4, 5, 7,10,11
+Nanotonica 103| 0, 1, 2, 3, 4, 6, 7,10,11
+Nanotonica 104| 0, 1, 2, 3, 5, 6, 7,10,11
+Nanotonica 105| 0, 1, 2, 4, 5, 6, 7,10,11
+Nanotonica 106| 0, 1, 3, 4, 5, 6, 7,10,11
+Nanotonica 107| 0, 2, 3, 4, 5, 6, 7,10,11
+Nanotonica 108| 1, 2, 3, 4, 5, 6, 7,10,11
+Nanotonica 109| 0, 1, 2, 3, 4, 5, 8,10,11
+Nanotonica 110| 0, 1, 2, 3, 4, 6, 8,10,11
+Nanotonica 111| 0, 1, 2, 3, 5, 6, 8,10,11
+Nanotonica 112| 0, 1, 2, 4, 5, 6, 8,10,11
+Nanotonica 113| 0, 1, 3, 4, 5, 6, 8,10,11
+Nanotonica 114| 0, 2, 3, 4, 5, 6, 8,10,11
+Nanotonica 115| 1, 2, 3, 4, 5, 6, 8,10,11
+Nanotonica 116| 0, 1, 2, 3, 4, 7, 8,10,11
+Nanotonica 117| 0, 1, 2, 3, 5, 7, 8,10,11
+Nanotonica 118| 0, 1, 2, 4, 5, 7, 8,10,11
+Nanotonica 119| 0, 1, 3, 4, 5, 7, 8,10,11
+Nanotonica 120| 0, 2, 3, 4, 5, 7, 8,10,11
+Nanotonica 121| 1, 2, 3, 4, 5, 7, 8,10,11
+Nanotonica 122| 0, 1, 2, 3, 6, 7, 8,10,11
+Nanotonica 123| 0, 1, 2, 4, 6, 7, 8,10,11
+Nanotonica 124| 0, 1, 3, 4, 6, 7, 8,10,11
+Nanotonica 125| 0, 2, 3, 4, 6, 7, 8,10,11
+Nanotonica 126| 1, 2, 3, 4, 6, 7, 8,10,11
+Nanotonica 127| 0, 1, 2, 5, 6, 7, 8,10,11
+Nanotonica 128| 0, 1, 3, 5, 6, 7, 8,10,11
+Nanotonica 129| 0, 2, 3, 5, 6, 7, 8,10,11
+Nanotonica 130| 1, 2, 3, 5, 6, 7, 8,10,11
+Nanotonica 131| 0, 1, 4, 5, 6, 7, 8,10,11
+Nanotonica 132| 0, 2, 4, 5, 6, 7, 8,10,11
+Nanotonica 133| 1, 2, 4, 5, 6, 7, 8,10,11
+Nanotonica 134| 0, 3, 4, 5, 6, 7, 8,10,11
+Nanotonica 135| 1, 3, 4, 5, 6, 7, 8,10,11
+Nanotonica 136| 2, 3, 4, 5, 6, 7, 8,10,11
+Nanotonica 137| 0, 1, 2, 3, 4, 5, 9,10,11
+Nanotonica 138| 0, 1, 2, 3, 4, 6, 9,10,11
+Nanotonica 139| 0, 1, 2, 3, 5, 6, 9,10,11
+Nanotonica 140| 0, 1, 2, 4, 5, 6, 9,10,11
+Nanotonica 141| 0, 1, 3, 4, 5, 6, 9,10,11
+Nanotonica 142| 0, 2, 3, 4, 5, 6, 9,10,11
+Nanotonica 143| 1, 2, 3, 4, 5, 6, 9,10,11
+Nanotonica 144| 0, 1, 2, 3, 4, 7, 9,10,11
+Nanotonica 145| 0, 1, 2, 3, 5, 7, 9,10,11
+Nanotonica 146| 0, 1, 2, 4, 5, 7, 9,10,11
+Nanotonica 147| 0, 1, 3, 4, 5, 7, 9,10,11
+Nanotonica 148| 0, 2, 3, 4, 5, 7, 9,10,11
+Nanotonica 149| 1, 2, 3, 4, 5, 7, 9,10,11
+Nanotonica 150| 0, 1, 2, 3, 6, 7, 9,10,11
+Nanotonica 151| 0, 1, 2, 4, 6, 7, 9,10,11
+Nanotonica 152| 0, 1, 3, 4, 6, 7, 9,10,11
+Nanotonica 153| 0, 2, 3, 4, 6, 7, 9,10,11
+Nanotonica 154| 1, 2, 3, 4, 6, 7, 9,10,11
+Nanotonica 155| 0, 1, 2, 5, 6, 7, 9,10,11
+Nanotonica 156| 0, 1, 3, 5, 6, 7, 9,10,11
+Nanotonica 157| 0, 2, 3, 5, 6, 7, 9,10,11
+Nanotonica 158| 1, 2, 3, 5, 6, 7, 9,10,11
+Nanotonica 159| 0, 1, 4, 5, 6, 7, 9,10,11
+Nanotonica 160| 0, 2, 4, 5, 6, 7, 9,10,11
+Nanotonica 161| 1, 2, 4, 5, 6, 7, 9,10,11
+Nanotonica 162| 0, 3, 4, 5, 6, 7, 9,10,11
+Nanotonica 163| 1, 3, 4, 5, 6, 7, 9,10,11
+Nanotonica 164| 2, 3, 4, 5, 6, 7, 9,10,11
+Nanotonica 165| 0, 1, 2, 3, 4, 8, 9,10,11
+Nanotonica 166| 0, 1, 2, 3, 5, 8, 9,10,11
+Nanotonica 167| 0, 1, 2, 4, 5, 8, 9,10,11
+Nanotonica 168| 0, 1, 3, 4, 5, 8, 9,10,11
+Nanotonica 169| 0, 2, 3, 4, 5, 8, 9,10,11
+Nanotonica 170| 1, 2, 3, 4, 5, 8, 9,10,11
+Nanotonica 171| 0, 1, 2, 3, 6, 8, 9,10,11
+Nanotonica 172| 0, 1, 2, 4, 6, 8, 9,10,11
+Nanotonica 173| 0, 1, 3, 4, 6, 8, 9,10,11
+Nanotonica 174| 0, 2, 3, 4, 6, 8, 9,10,11
+Nanotonica 175| 1, 2, 3, 4, 6, 8, 9,10,11
+Nanotonica 176| 0, 1, 2, 5, 6, 8, 9,10,11
+Nanotonica 177| 0, 1, 3, 5, 6, 8, 9,10,11
+Nanotonica 178| 0, 2, 3, 5, 6, 8, 9,10,11
+Nanotonica 179| 1, 2, 3, 5, 6, 8, 9,10,11
+Nanotonica 180| 0, 1, 4, 5, 6, 8, 9,10,11
+Nanotonica 181| 0, 2, 4, 5, 6, 8, 9,10,11
+Nanotonica 182| 1, 2, 4, 5, 6, 8, 9,10,11
+Nanotonica 183| 0, 3, 4, 5, 6, 8, 9,10,11
+Nanotonica 184| 1, 3, 4, 5, 6, 8, 9,10,11
+Nanotonica 185| 2, 3, 4, 5, 6, 8, 9,10,11
+Nanotonica 186| 0, 1, 2, 3, 7, 8, 9,10,11
+Nanotonica 187| 0, 1, 2, 4, 7, 8, 9,10,11
+Nanotonica 188| 0, 1, 3, 4, 7, 8, 9,10,11
+Nanotonica 189| 0, 2, 3, 4, 7, 8, 9,10,11
+Nanotonica 190| 1, 2, 3, 4, 7, 8, 9,10,11
+Nanotonica 191| 0, 1, 2, 5, 7, 8, 9,10,11
+Nanotonica 192| 0, 1, 3, 5, 7, 8, 9,10,11
+Nanotonica 193| 0, 2, 3, 5, 7, 8, 9,10,11
+Nanotonica 194| 1, 2, 3, 5, 7, 8, 9,10,11
+Nanotonica 195| 0, 1, 4, 5, 7, 8, 9,10,11
+Nanotonica 196| 0, 2, 4, 5, 7, 8, 9,10,11
+Nanotonica 197| 1, 2, 4, 5, 7, 8, 9,10,11
+Nanotonica 198| 0, 3, 4, 5, 7, 8, 9,10,11
+Nanotonica 199| 1, 3, 4, 5, 7, 8, 9,10,11
+Nanotonica 200| 2, 3, 4, 5, 7, 8, 9,10,11
+Nanotonica 201| 0, 1, 2, 6, 7, 8, 9,10,11
+Nanotonica 202| 0, 1, 3, 6, 7, 8, 9,10,11
+Nanotonica 203| 0, 2, 3, 6, 7, 8, 9,10,11
+Nanotonica 204| 1, 2, 3, 6, 7, 8, 9,10,11
+Nanotonica 205| 0, 1, 4, 6, 7, 8, 9,10,11
+Nanotonica 206| 0, 2, 4, 6, 7, 8, 9,10,11
+Nanotonica 207| 1, 2, 4, 6, 7, 8, 9,10,11
+Nanotonica 208| 0, 3, 4, 6, 7, 8, 9,10,11
+Nanotonica 209| 1, 3, 4, 6, 7, 8, 9,10,11
+Nanotonica 210| 2, 3, 4, 6, 7, 8, 9,10,11
+Nanotonica 211| 0, 1, 5, 6, 7, 8, 9,10,11
+Nanotonica 212| 0, 2, 5, 6, 7, 8, 9,10,11
+Nanotonica 213| 1, 2, 5, 6, 7, 8, 9,10,11
+Nanotonica 214| 0, 3, 5, 6, 7, 8, 9,10,11
+Nanotonica 215| 1, 3, 5, 6, 7, 8, 9,10,11
+Nanotonica 216| 2, 3, 5, 6, 7, 8, 9,10,11
+Nanotonica 217| 0, 4, 5, 6, 7, 8, 9,10,11
+Nanotonica 218| 1, 4, 5, 6, 7, 8, 9,10,11
+Nanotonica 219| 2, 4, 5, 6, 7, 8, 9,10,11
+Nanotonica 220| 3, 4, 5, 6, 7, 8, 9,10,11
+Decatonica 1| 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+Decatonica 2| 0, 1, 2, 3, 4, 5, 6, 7, 8,10
+Decatonica 3| 0, 1, 2, 3, 4, 5, 6, 7, 9,10
+Decatonica 4| 0, 1, 2, 3, 4, 5, 6, 8, 9,10
+Decatonica 5| 0, 1, 2, 3, 4, 5, 7, 8, 9,10
+Decatonica 6| 0, 1, 2, 3, 4, 6, 7, 8, 9,10
+Decatonica 7| 0, 1, 2, 3, 5, 6, 7, 8, 9,10
+Decatonica 8| 0, 1, 2, 4, 5, 6, 7, 8, 9,10
+Decatonica 9| 0, 1, 3, 4, 5, 6, 7, 8, 9,10
+Decatonica 10| 0, 2, 3, 4, 5, 6, 7, 8, 9,10
+Decatonica 11| 1, 2, 3, 4, 5, 6, 7, 8, 9,10
+Decatonica 12| 0, 1, 2, 3, 4, 5, 6, 7, 8,11
+Decatonica 13| 0, 1, 2, 3, 4, 5, 6, 7, 9,11
+Decatonica 14| 0, 1, 2, 3, 4, 5, 6, 8, 9,11
+Decatonica 15| 0, 1, 2, 3, 4, 5, 7, 8, 9,11
+Decatonica 16| 0, 1, 2, 3, 4, 6, 7, 8, 9,11
+Decatonica 17| 0, 1, 2, 3, 5, 6, 7, 8, 9,11
+Decatonica 18| 0, 1, 2, 4, 5, 6, 7, 8, 9,11
+Decatonica 19| 0, 1, 3, 4, 5, 6, 7, 8, 9,11
+Decatonica 20| 0, 2, 3, 4, 5, 6, 7, 8, 9,11
+Decatonica 21| 1, 2, 3, 4, 5, 6, 7, 8, 9,11
+Decatonica 22| 0, 1, 2, 3, 4, 5, 6, 7,10,11
+Decatonica 23| 0, 1, 2, 3, 4, 5, 6, 8,10,11
+Decatonica 24| 0, 1, 2, 3, 4, 5, 7, 8,10,11
+Decatonica 25| 0, 1, 2, 3, 4, 6, 7, 8,10,11
+Decatonica 26| 0, 1, 2, 3, 5, 6, 7, 8,10,11
+Decatonica 27| 0, 1, 2, 4, 5, 6, 7, 8,10,11
+Decatonica 28| 0, 1, 3, 4, 5, 6, 7, 8,10,11
+Decatonica 29| 0, 2, 3, 4, 5, 6, 7, 8,10,11
+Decatonica 30| 1, 2, 3, 4, 5, 6, 7, 8,10,11
+Decatonica 31| 0, 1, 2, 3, 4, 5, 6, 9,10,11
+Decatonica 32| 0, 1, 2, 3, 4, 5, 7, 9,10,11
+Decatonica 33| 0, 1, 2, 3, 4, 6, 7, 9,10,11
+Decatonica 34| 0, 1, 2, 3, 5, 6, 7, 9,10,11
+Decatonica 35| 0, 1, 2, 4, 5, 6, 7, 9,10,11
+Decatonica 36| 0, 1, 3, 4, 5, 6, 7, 9,10,11
+Decatonica 37| 0, 2, 3, 4, 5, 6, 7, 9,10,11
+Decatonica 38| 1, 2, 3, 4, 5, 6, 7, 9,10,11
+Decatonica 39| 0, 1, 2, 3, 4, 5, 8, 9,10,11
+Decatonica 40| 0, 1, 2, 3, 4, 6, 8, 9,10,11
+Decatonica 41| 0, 1, 2, 3, 5, 6, 8, 9,10,11
+Decatonica 42| 0, 1, 2, 4, 5, 6, 8, 9,10,11
+Decatonica 43| 0, 1, 3, 4, 5, 6, 8, 9,10,11
+Decatonica 44| 0, 2, 3, 4, 5, 6, 8, 9,10,11
+Decatonica 45| 1, 2, 3, 4, 5, 6, 8, 9,10,11
+Decatonica 46| 0, 1, 2, 3, 4, 7, 8, 9,10,11
+Decatonica 47| 0, 1, 2, 3, 5, 7, 8, 9,10,11
+Decatonica 48| 0, 1, 2, 4, 5, 7, 8, 9,10,11
+Decatonica 49| 0, 1, 3, 4, 5, 7, 8, 9,10,11
+Decatonica 50| 0, 2, 3, 4, 5, 7, 8, 9,10,11
+Decatonica 51| 1, 2, 3, 4, 5, 7, 8, 9,10,11
+Decatonica 52| 0, 1, 2, 3, 6, 7, 8, 9,10,11
+Decatonica 53| 0, 1, 2, 4, 6, 7, 8, 9,10,11
+Decatonica 54| 0, 1, 3, 4, 6, 7, 8, 9,10,11
+Decatonica 55| 0, 2, 3, 4, 6, 7, 8, 9,10,11
+Decatonica 56| 1, 2, 3, 4, 6, 7, 8, 9,10,11
+Decatonica 57| 0, 1, 2, 5, 6, 7, 8, 9,10,11
+Decatonica 58| 0, 1, 3, 5, 6, 7, 8, 9,10,11
+Decatonica 59| 0, 2, 3, 5, 6, 7, 8, 9,10,11
+Decatonica 60| 1, 2, 3, 5, 6, 7, 8, 9,10,11
+Decatonica 61| 0, 1, 4, 5, 6, 7, 8, 9,10,11
+Decatonica 62| 0, 2, 4, 5, 6, 7, 8, 9,10,11
+Decatonica 63| 1, 2, 4, 5, 6, 7, 8, 9,10,11
+Decatonica 64| 0, 3, 4, 5, 6, 7, 8, 9,10,11
+Decatonica 65| 1, 3, 4, 5, 6, 7, 8, 9,10,11
+Decatonica 66| 2, 3, 4, 5, 6, 7, 8, 9,10,11
+Undecatonica 1| 0, 1, 2, 3, 4, 5, 6, 7, 8, 9,10
+Undecatonica 2| 0, 1, 2, 3, 4, 5, 6, 7, 8, 9,11
+Undecatonica 3| 0, 1, 2, 3, 4, 5, 6, 7, 8,10,11
+Undecatonica 4| 0, 1, 2, 3, 4, 5, 6, 7, 9,10,11
+Undecatonica 5| 0, 1, 2, 3, 4, 5, 6, 8, 9,10,11
+Undecatonica 6| 0, 1, 2, 3, 4, 5, 7, 8, 9,10,11
+Undecatonica 7| 0, 1, 2, 3, 4, 6, 7, 8, 9,10,11
+Undecatonica 8| 0, 1, 2, 3, 5, 6, 7, 8, 9,10,11
+Undecatonica 9| 0, 1, 2, 4, 5, 6, 7, 8, 9,10,11
+Undecatonica 10| 0, 1, 3, 4, 5, 6, 7, 8, 9,10,11
+Undecatonica 11| 0, 2, 3, 4, 5, 6, 7, 8, 9,10,11
+Undecatonica 12| 1, 2, 3, 4, 5, 6, 7, 8, 9,10,11
+Todo el trastero| 0, 1, 2, 3, 4, 5, 6, 7, 8, 9,10,11

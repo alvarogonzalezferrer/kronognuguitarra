@@ -1,0 +1,43 @@
+# Makefile para GNUitarra
+# Por Kronoman - (c) 2002 - Licencia GNU
+# En memoria de mi querido padre
+
+# -- Variables --
+
+# Objetos a compilar (los archivos .c)
+OBJ = chordram krstring main mimenu textbox drawfret \
+      loaddata mainfile myincs ui
+      
+# ejecutable de salida
+EJECUTABLE = gnuitarra
+
+# Banderas para el compilador, linker, etc...
+# sacar -g luego de debuggear!
+
+# Flag de produccion
+CFLAGS = -Wall -O3
+
+# Flags de debug (poner -g para usar symify)
+# CFLAGS = -Wall -g
+
+# Flags para el linker
+LFLAGS = -s
+
+# Librerias: NCurses
+ALLEG = -lncurses
+
+# -- Comienzo de los scripts --
+
+# le quito el sufijo a los OBJ, y luego les agrego .o y los pongo en OBJS
+OBJS = $(addsuffix .o, $(basename $(OBJ)) )
+
+all: $(OBJS)
+	gcc $(LFLAGS) $(OBJS) -o $(EJECUTABLE) $(ALLEG)
+
+$(OBJS): %.o: %.c
+	gcc $(CFLAGS) -c $< -o $@
+
+# Limpiar la compilacion
+.PHONY: clean
+clean:
+	rm -rvf $(OBJS)

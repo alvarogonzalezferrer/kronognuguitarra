@@ -1,0 +1,491 @@
+octavas|0
+todo el trastero|0,1,2,3,4,5,6,7,8,9,10,11
+mayor|0,2,4,5,7,9,11
+jonica|0,2,4,5,7,9,11
+etiope 1|0,2,4,5,7,9,11
+dorica|0,2,3,5,7,9,10
+frigia|0,1,3,5,7,8,10
+menor|0,2,3,5,7,8,10
+eolica|0,2,3,5,7,8,10
+etiope 2|0,2,3,5,7,8,10
+etiope 3|0,2,4,5,7,8,11
+armonica mayor|0,2,4,5,7,8,11
+arabe 2|0,2,3,5,6,8,9,11
+disminuida 1|0,2,3,5,6,8,9,11
+hungara mayor 1|0,3,4,6,7,9,10
+disminuida 2|0,3,4,6,7,9,10
+disminuida 3|0,1,3,4,6,7,9,10
+doble armonica|0,1,4,5,7,8,11
+cingara mayor 1|0,1,4,5,7,8,11
+persa 2|0,1,4,5,7,8,11
+bizantina 2|0,1,4,5,7,8,11
+hispano-arabe|0,1,4,5,7,8,11
+enigmatica 1|0,1,3,5,8
+balinesa 1|0,1,3,5,8
+javanesa 1|0,1,3,5,8
+frigia #6|0,1,3,5,7,9,10
+javanesa 2|0,1,3,5,7,9,10
+locria mayor|0,2,4,5,6,8,10
+arabe 1|0,2,4,5,6,8,10
+frigia mayor|0,1,4,5,7,8,10
+israeli 2|0,1,4,5,7,8,10
+bizantina 1|0,1,4,5,7,8,10
+menor armonica|0,2,3,5,7,8,11
+mahometana|0,2,3,5,7,8,11
+hawayana 1|0,2,3,7,9,11
+menor melodica|0,2,3,5,7,9,11
+jazz menor|0,2,3,5,7,9,11
+hawayana 2|0,2,3,5,7,9,11
+lidia|0,2,4,6,7,9,11
+mixolidia|0,2,4,5,7,9,10
+mixolidia cromatica|0,1,2,5,6,7,10
+mixolidia aumentada|0,2,4,5,8,9,10
+mixolidia hexatonica|0,2,5,7,9,10
+lidia aumentada|0,2,4,6,8,9,11
+lidia b7|0,2,4,6,7,9,10
+overtone|0,2,4,6,7,9,10
+lidia disminuida|0,2,3,6,7,9,11
+locria|0,1,3,5,6,8,10
+pentatonica mayor 1|0,2,4,7,9
+china 2|0,2,4,7,9
+mongolica|0,2,4,7,9
+coreana 1|0,2,4,7,9
+pentatonica mayor 2|0,2,4,7,11
+pentatonica alt.b2|0,1,4,7,9
+skriabin 2|0,1,4,7,9
+pentatonica alt. b5|0,2,4,6,9
+pentatonica alt. b6|0,2,4,7,8
+pentatonica alt.b3/b6|0,2,3,7,8
+pentatonica menor 1|0,3,5,7,10
+pentatonica menor 2|0,2,3,7,9
+pentatonica menor 3|0,3,5,6,10
+pentatonica menor 4|0,2,3,7,10
+pentatonica de dominante|0,2,4,7,10
+pentatonica de dominante|0,4,5,7,10
+simetrica 1|0,2,3,5,6,8,9,11
+simetrica 2|0,1,3,4,6,7,9,10
+simetrica 3|0,1,2,4,5,6,7,8,10,11
+algeriana|0,2,3,5,6,7,8,11
+hungara menor 2|0,2,3,6,7,8,11
+balinesa 2|0,1,3,7,8
+cingara mayor 2|0,1,4,6,7,8,10
+hungara mayor 2|0,1,4,6,7,8,10
+coreana 2|0,2,5,7,9,10
+dom. sus 4|0,2,5,7,9,10
+china 1|0,4,6,7,11
+egipcia|0,2,5,7,10
+pentatonica neutral 1|0,2,5,7,10
+pentatonica neutral 2|0,1,5,7,9
+enigmatica 2|0,1,4,6,8,11
+espa~ola octotonica|0,1,3,4,5,6,8,10
+espa~ola hexatonica|0,1,4,5,7,10
+indostan|0,2,4,5,7,8,10
+hungara menor 1|0,2,3,6,7,8,10
+napolitana 3|0,1,3,5,7,8,11
+israeli 1|0,1,3,4,6,8,9,11
+javanesa 3|0,1,3,7,8
+napolitana 1|0,1,4,6,9,10
+napolitana 2|0,1,3,5,7,9,11
+oriental 1|0,1,4,5,6,8,10
+oriental 2|0,1,4,5,6,9,10
+pelog|0,1,3,7,10
+persa 1|0,1,4,5,6,8,11
+rumana|0,2,3,6,7,9,10
+skriabin 1|0,2,4,6,9,10
+tcherepnin|0,1,3,4,5,7,8,9,11
+tonal|0,2,4,6,8,10
+leading whole tone|0,2,4,6,8,10,11
+alterada|0,1,3,4,6,8,10
+blues 1|0,3,5,6,7,10
+blues 2|0,3,5,6,7,10,11
+blues 3|0,2,3,4,5,6,7,9,10,11
+blues 4|0,1,3,4,6,7,9,10
+blues 5|0,2,3,5,6,7,10
+blues 6|0,2,3,5,6,7,9,10
+blues 7|0,3,4,5,6,7,10,11
+blues 8|0,2,3,4,5,6,7,9,10
+blues 9|0,3,4,5,6,7,9,10,11
+blues 10|0,3,4,5,7,8,10
+tritonica o teoria de los 3 acordes|0,5,7
+tetratonica|0,5,6,11
+cromatica|0,1,2,3,4,5,6,7,8,9,10,11
+dorica alterada|0,2,3,5,6,8,10
+flamenca|0,1,4,5,7,8,10
+aumentada 1|0,3,4,7,8,11
+aumentada 2|0,3,4,7,8,10
+aumentada 3|0,2,4,6,8,10
+super locria|0,1,3,4,6,8,10
+be-bop menor|0,2,3,4,5,7,9,10
+be-bop mayor|0,2,4,5,7,8,9,11
+be-bop semi-disminuida|0,1,3,5,6,7,8,11
+be-bop dominante|0,2,4,5,7,9,10,11
+frigia espa~ola|0,1,3,4,5,7,8,10
+kumoi|0,4,5,9,11
+judia|0,2,4,5,8,9,11
+jonica aumentada|0,2,4,5,8,9,11
+prometheus|0,2,4,6,9,10
+prometheus neopolitan|0,1,4,6,9,10
+simetrica hexatonica|0,1,4,5,8,9
+nonatonica|0,2,3,4,6,7,8,9,11
+ichikosucho|0,2,4,5,6,7,9,11
+dorica b2|0,1,3,5,7,9,10
+warao tetratonica|0,2,3,10
+esquimal tetratonica|0,2,4,7
+esquimal hexatonica 1|0,2,4,6,8,11
+esquimal hexatonica 2|0,2,3,5,7,10
+esquimal heptatonica|0,2,3,5,7,9,10
+yu heptatonica|0,2,3,5,7,9,10
+bi yu|0,3,7,10
+yu pentatonica|0,3,5,7,10
+kung|0,2,4,6,9
+yo|0,2,5,7,10
+jin yu|0,2,5,7,10
+chaio|0,2,5,8,10
+menor hexatonica|0,2,3,5,7,10
+pyongjo|0,2,5,7,9,10
+enigmatica de verdi 1|0,1,4,5,6,8,10,11
+enigmatica de verdi 2|0,1,4,5,8,10,11
+enigmatica de verdi 3|0,1,4,6,8,10,11
+dorica cromatica|0,1,2,5,7,8,9
+frigia cromatica|0,3,4,5,8,9,10
+lidia cromatica|0,1,4,5,6,9,11
+sansagari|0,5,10
+ritusen|0,2,5,7,9
+zhi|0,2,5,7,9
+ujo|0,2,5,7,9
+honchoshi plagal|0,1,3,5,6,10
+hexatonica piramidal|0,2,3,5,6,9
+ultra locria|0,1,3,4,6,8,9
+todi that|0,1,3,6,7,8,11
+espla|0,1,3,4,5,6,8,10
+zirafkend|0,2,3,5,7,8,9,11
+youlan|0,1,2,4,5,6,7,9,10
+taishikicho|0,2,4,5,6,7,9,10,11
+arabe 3|0,2,3,5,6,9,10
+arabe 4|0,2,3,5,7,9,10,11
+ute|0,3,10
+arabe 5|0,1,3,4,5,7,8,10,11
+mesianica 1|0,1,2,4,5,6,7,9,10
+mesianica 2|0,1,2,3,6,7,8,9
+mesianica 3|0,1,2,6,7,8
+mesianica 4|0,1,2,4,6,7,8,10
+mesianica 5|0,1,2,3,4,6,7,8,9,10
+honchoshi|0,5
+niagari ditonica|0,7
+niagari hexatonica|0,1,5,7,8,10
+warao ditonica|0,10
+warao tritonica|0,5,7
+peruana tritonica 1|0,4,7
+peruana tritonica 2|0,3,7
+peruana menor|0,2,3,5,7,8,10
+peruana mayor|0,2,4,5,7,9,11
+genus primum|0,2,5,7
+genus diatonicum|0,2,4,5,7,9,10,11
+genus chromaticum|0,1,3,4,5,7,8,9,11
+genus secundum|0,4,5,7,9,11
+genus tertium|0,3,4,7,8,11
+genus diatonicum veterum|0,2,4,5,6,7,9,11
+han-kumoi|0,2,5,7,8
+hira-joshi|0,2,3,7,8
+hon-kumoi-joshi|0,1,5,7,8
+kokin-joshi|0,1,5,7,10
+iwato|0,1,5,6,10
+ryosen|0,2,4,7,9
+gong|0,2,4,7,9
+minyo|0,3,5,7,10
+yi ze|0,3,5,8,10
+akebono|0,2,3,7,9
+shang|0,2,4,7,10
+kyemyonjo|0,3,5,7,9
+yosen|0,2,5,7,9,10
+frigia b4|0,1,3,4,7,8,10
+cingara menor|0,2,3,6,7,8,11
+cingara espa~ola|0,2,3,5,7,8,11
+cingara hexatonica|0,1,4,5,7,8,bb7
+hipofrigia cromatica|0,3,5,6,7,10,11
+hipolidia cromatica|0,1,4,6,7,8,11
+hipodorica cromatica|0,2,3,4,7,8,9
+frigia doble hexatonica|0,1,3,5,6,9
+marva that|0,1,4,6,7,9,11
+adonai malakh|0,1,2,3,5,7,9,10
+octatonica|0,1,3,4,6,7,9,10
+semitono-tono|0,1,3,4,6,7,9,10
+magen abot|0,1,3,4,6,8,9,11
+maqam hijaz|0,1,4,5,7,8,10,11
+maqam shadd'araban|0,1,3,4,5,6,9,10
+maqam nahawand|0,2,3,5,7,8,10,11
+maqam karcigar|0,2,3,5,6,9,10
+maqam bayat-e-esfahan|0,2,3,5,7,8,11
+maqam hicaz|0,1,4,5,7,9,10
+maqam huzzam|0,1,3,4,7,8,10
+maqam shahnaz kurdi|0,1,3,5,7,8,11
+maqam humayun|0,1,4,5,7,8,10
+maqam zengule|0,1,4,5,7,8,11
+maqam nakriz|0,2,3,6,7,9,10
+maqam shawq|0,2,4,5,7,9,10,11
+maqam kurd|0,1,3,5,7,8,10
+maqam suzdil|0,2,3,6,7,8,10
+mayor invertida|0,1,3,5,7,8,10
+frigia arabe|0,1,3,4,5,7,8,10,11
+frigia hexatonica|0,3,5,7,8,10
+chin|0,3,6,8,10
+chiao|0,2,3,5,7,8,10
+siria|0,1,4,5,8
+ritsu|0,1,3,5,8,10
+lidia hexatonica|0,2,4,7,9,11
+china antigua|0,2,4,6,7,9
+china octontonica|0,2,4,5,7,9,10,11
+pien chih|0,1,3,5,6,8,10
+in|0,1,3,5,7,8,10
+ousak|0,1,3,5,7,8,10
+nohkan|0,2,5,6,8,9,11
+ryukyu|0,4,5,7,11
+sambah|0,2,3,4,7,8,10
+alhijaz|0,1,4,5,7,8,10
+hitzaskiar|0,1,4,5,7,8,11
+hitzaz|0,1,4,5,7,8,10
+sengah|0,3,4,5,7,8,11
+houzam|0,3,4,5,7,9,11
+peiraiotikos|0,1,4,6,7,9,11
+niavent|0,2,3,6,7,8,11
+souzinak|0,2,3,6,7,9,10
+rast|0,2,4,5,7,9,10,11
+ghana pentatonica 1|0,2,3,5,7
+ghana pentatonica 2|0,2,4,7,9
+ghana heptatonica|0,2,4,5,7,9,11
+semidisminuida|0,2,3,5,6,8,10
+gregoriana|0,2,3,5,7,8,9,10
+tono-semitono|0,2,3,5,6,8,9,11
+chad gadyo|0,2,3,5,7
+ahavoh rabboh|0,1,4,5,7,8,10
+hedjaz|0,2,3,6,7,9,10
+mischung 1|0,2,3,5,7,9,11
+mischung 2|0,2,4,5,7,8,11
+mischung 3|0,2,4,5,7,9,10
+mischung 4|0,2,3,5,7,8,11
+mischung 5|0,2,3,5,7,9,10
+mischung 6|0,2,4,5,7,8,10
+raga malasri|0,4,7
+raga sarvasri|0,5,7
+raga ongkari|0,6,7
+raga lavangi|0,1,7,10
+raga bhavani tetratonica|0,2,5,9
+raga sumukam|0,2,6,11
+raga mahathi|0,4,7,10
+raga nabhomani|0,1,2,6,7
+raga chhaya todi|0,1,3,6,8
+raga megharanjani|0,1,4,5,8
+raga megharanji|0,1,4,5,11
+raga reva|0,1,4,7,8
+raga rasika ranjani|0,1,4,7,9
+raga gauri|0,1,5,7,11
+raga kshanika|0,1,5,8,11
+raga saugandhini|0,1,6,7,8
+raga deshgaur|0,1,7,8,11
+raga purnalalita|0,2,3,5,7
+raga audav tukhari|0,2,3,5,8
+raga abhogi|0,2,3,5,9
+raga kumurdaki|0,2,4,6,11
+raga bhupeshwari|0,2,4,7,8
+raga bhupalam|0,1,3,7,8
+raga hamsadhvani|0,2,4,7,10
+raga neroshta|0,2,4,8,10
+raga desh|0,2,5,7,11
+raga priyadharshini|0,2,5,8,11
+raga gorakh kalyan|0,2,5,9,10
+raga rasranjani|0,2,5,9,11
+raga shri kalyan|0,2,6,7,9
+raga vaijayanti|0,2,6,7,11
+raga mohanangi|0,3,4,7,9
+raga jayakauns|0,3,5,6,10
+raga kokil pancham|0,3,5,7,8
+raga nata|0,3,5,7,11
+raga samudhra priya|0,3,6,7,10
+raga multani|0,3,6,7,11
+raga harikauns|0,3,6,8,10
+raga shailaja|0,3,7,8,10
+raga zilaf|0,4,5,7,8
+raga nagasvaravali|0,4,5,7,9
+raga gambhiranata|0,4,5,7,11
+raga girija|0,4,5,8,11
+raga khamaji durga|0,4,5,9,10
+raga bhinna shadja|0,4,5,9,11
+raga dhavalashri|0,4,6,7,9
+raga amritavarsini|0,4,6,7,11
+raga valaji|0,4,7,9,10
+raga mamata|0,4,7,9,11
+raga devranjani|0,5,7,8,10
+raga devaranji|0,5,7,8,11
+raga kuntvarali|0,5,7,9,10
+raga puruhutika|0,5,7,9,11
+raga suddha mukhari|0,1,2,5,8,9
+raga chandrajyoti|0,1,2,6,7,9
+raga suddha simantini|0,1,3,5,7,8
+raga gandharavam|0,1,3,5,7,10
+raga vijayasri|0,1,3,6,7,11
+raga bhavani hexatonica|0,1,3,6,8,10
+raga gurjari todi|0,1,3,6,8,11
+raga salagavarali|0,1,3,7,9,10
+raga purna pancama|0,1,4,5,7,8
+raga kalavati|0,1,4,5,7,9
+raga gaula|0,1,4,5,7,11
+raga vasantabhairavi|0,1,4,5,8,10
+raga lalita|0,1,4,5,6,8,11
+raga rudra pancama|0,1,4,5,9,10
+raga vasanta|0,1,4,5,9,11
+raga dhavalangam|0,1,4,6,7,8
+raga mandari|0,1,4,6,7,11
+raga hejjajji|0,1,4,6,8,9
+raga hamsanandi|0,1,4,6,9,11
+raga kalagada|0,1,4,7,8,9
+raga bauli|0,1,4,7,8,11
+raga malayamarutam|0,1,4,7,9,10
+raga kalakanthi|0,1,5,7,8,9
+raga phenadyuti|0,1,5,7,8,10
+raga padi|0,1,5,7,8,11
+raga rasavali|0,1,5,7,9,10
+raga jivantika|0,1,5,7,9,11
+raga suddha bangala|0,2,3,5,7,9
+raga suddha todi|0,1,3,5,8,10
+raga sindhura kafi|0,2,3,5,7,11
+raga ghantana|0,2,3,5,8,11
+raga bagesri|0,2,3,5,9,10
+raga syamalam|0,2,3,6,7,8
+raga vijayanagari|0,2,3,6,7,9
+raga kaikavasi|0,2,3,6,7,11
+raga ranjani|0,2,3,6,9,11
+raga trimurti|0,2,3,7,8,10
+raga manavi|0,2,3,7,9,10
+raga dipak|0,2,4,5,6,7
+raga siva kambhoji|0,2,4,5,7,10
+raga nalinakanti|0,2,4,5,7,11
+raga sarasanana|0,2,4,5,8,11
+raga rageshri|0,2,4,5,9,10
+raga shri|0,1,4,6,7,8,11
+raga hamsa vinodini|0,2,4,5,9,11
+raga yamuna kalyani|0,2,4,6,7,9
+raga caturangini|0,2,4,6,7,11
+raga mruganandana|0,2,4,6,9,11
+raga latika|0,2,4,7,8,11
+raga kumud|0,2,4,7,9,11
+raga navamanohari|0,2,5,7,8,10
+raga bhinna pancama|0,2,5,7,8,11
+raga nagagandhari|0,2,5,7,9,11
+raga sarang|0,2,5,7,10,11
+raga jaganmohanam|0,2,6,7,8,10
+raga sarasvati|0,2,6,7,9,10
+raga malarani|0,2,6,7,10,11
+raga bhanumanjari|0,3,4,5,7,10
+raga bhanumati|0,1,2,5,7,9,10
+raga rasamanjari|0,3,4,6,7,11
+raga gopikavasantam|0,3,5,7,8,10
+raga takka|0,3,5,7,8,11
+raga manohari|0,3,5,7,9,10
+raga jivantini|0,3,6,7,10,11
+raga kamalamanohari|0,4,5,7,8,10
+raga paraju|0,4,5,7,8,11
+raga khamas|0,4,5,7,9,10
+raga hari nata|0,4,5,7,9,11
+raga tilang|0,4,5,7,10,11
+raga jyoti|0,4,6,7,8,10
+raga vutari|0,4,6,7,9,10
+raga vijayavasanta|0,4,6,7,10,11
+raga ragesri|0,2,4,5,9,10,11
+raga sorati|0,2,5,7,9,10,11
+raga madhuri|0,4,5,7,9,10,11
+raga ramkali|0,1,4,5,6,7,8,11
+raga bhatiyar|0,1,4,5,6,7,9,11
+raga saurastra|0,1,4,5,7,8,9,11
+raga mukhari|0,2,3,5,7,8,9,10
+raga mian ki malhar|0,2,3,5,7,9,10,11
+raga cintamani|0,2,3,6,7,8,9,10
+raga ramdasi malhar|0,2,3,4,6,8,9,10,11
+raga pilu|0,2,3,5,7,8,9,10,11
+raga sindhi bhairavi|0,1,2,3,4,5,7,8,10,11
+raga manaranjani i|0,1,4,7,10
+raga manaranjani ii|0,1,5,7,9
+raga madhukauns|0,3,6,7,9,10
+raga saravati|0,4,5,7,8,bb7
+raga sivaranjini|0,2,3,7,9
+raga malkauns|0,3,5,8,10
+raga chndrakauns-kiravani|0,3,5,8,11
+raga chandrakauns-kafi|0,3,5,9,10
+raga chandrakauns-modern|0,3,5,9,11
+raga matha kokila|0,2,7,9,10
+raga hindol|0,4,6,9,11
+raga simharava|0,2,3,6,7,10
+raga gopriya|0,2,4,6,8,10
+raga barbara|0,2,4,6,9,10
+raga amarasenapriya|0,2,3,6,7,11
+raga brindabani sarang|0,2,5,7,10,11
+raga viyogavarali|0,1,3,5,8,11
+raga salanganata|0,1,5,7,8
+raga shobhavari|0,2,5,7,8
+raga vibhavari|0,1,5,7,10
+raga devakriya|0,2,5,7,9
+raga madhyamavati|0,2,5,7,10
+raga darbar|0,2,5,7,9,10
+raga kambhoji|0,2,4,5,7,9
+raga palasi|0,2,3,5,7,10
+raga bilashkhani todi|0,1,3,5,7,8,10
+raga shuddh kalyan|0,2,4,6,7,9,11
+raga adana|0,2,3,5,7,8,10
+raga kanakambari|0,1,2,5,7,8,bb7
+raga patdip|0,2,3,5,7,9,11
+raga kiranavali|0,2,3,5,7,8,11
+raga ahir bhairav|0,1,4,5,7,9,10
+raga ganasamavarali|0,1,2,5,7,8,11
+mela ratnangi|0,1,2,5,7,8,10
+mela shankarabharanam|0,2,4,5,7,9,11
+mela ganamurti|0,1,2,5,7,8,11
+mela vanaspati|0,1,2,5,7,9,10
+mela manavati|0,1,2,5,7,9,11
+mela tanarupi|0,1,2,5,7,10,11
+mela salaga|0,1,2,6,7,8,bb7
+mela jalarnava|0,1,2,6,7,8,10
+mela jhalavarali|0,1,2,6,7,8,11
+mela navanitam|0,1,2,6,7,9,10
+mela pavani|0,1,2,6,7,9,11
+mela raghupriya|0,1,2,6,7,10,11
+mela senavati|0,1,3,5,7,8,bb7
+mela natakapriya|0,1,3,5,7,9,10
+mela rupavati|0,1,3,5,7,10,11
+mela gavambodhi|0,1,3,6,7,8,bb7
+mela bhavapriya|0,1,3,6,7,8,10
+mela sadvidhamargini|0,1,3,6,7,9,10
+mela suvarnangi|0,1,3,6,7,9,11
+mela divyamani|0,1,3,6,7,10,11
+mela gayakapriya|0,1,4,5,7,8,bb7
+mela vakulabharanam|0,1,4,5,7,8,10
+mela chakravakam|0,1,4,5,7,9,10
+mela suryakanta|0,1,4,5,7,9,11
+mela hatakambari|0,1,4,5,7,10,11
+mela dhavalambari|0,1,4,6,7,8,bb7
+mela namanarayani|0,1,4,6,7,8,10
+mela ramapriya|0,1,4,6,7,9,10
+mela visvambhari|0,1,4,6,7,10,11
+mela jhankaradhvani|0,2,3,5,7,8,bb7
+mela varunapriya|0,2,3,5,7,10,11
+mela syamalangi|0,2,3,6,7,8,bb7
+mela sanmukhapriya|0,2,3,6,7,8,10
+mela hemavati|0,2,3,6,7,9,10
+mela dharmavati|0,2,3,6,7,9,11
+mela nitimati|0,2,3,6,7,10,11
+mela mararanjani|0,2,4,5,7,8,bb7
+mela carukesi|0,2,4,5,7,8,bb7
+mela naganandini|0,2,4,5,7,10,11
+mela kantamani|0,2,4,6,7,8,bb7
+mela latangi|0,2,4,6,7,8,11
+mela citrambari|0,2,4,6,7,10,11
+mela yagapriya|0,3,4,5,7,8,bb7
+mela ragavardhani|0,3,4,5,7,8,10
+mela gangeyabhusani|0,3,4,5,7,8,11
+mela vagadhisvari|0,3,4,5,7,9,10
+mela sulini|0,3,4,5,7,9,11
+mela calanata|0,3,4,5,7,10,11
+mela sucaritra|0,3,4,6,7,8,bb7
+mela jyotisvarupini|0,3,4,6,7,8,10
+mela dhatuvardhani|0,3,4,6,7,8,11
+mela kosalam|0,3,4,6,7,9,11
+mela rasikapriya|0,3,4,6,7,10,11
+mela harikambhoji|0,2,4,5,7,9,10

@@ -1,0 +1,20 @@
+GNUitara - User's Manual
+
+http://gnuitarra.sourceforge.net/
+
+TODO: Do this f* manual in SGML!!
+
+To install, read the README.1ST file...
+
+DONT'FORGET TO COPY THE DATAFILES in a place where the software can find them!
+THIS MEANS, PUT THE *.dat IN THE SAME DIR AS THE BINARY, 
+AND EXECUTE IT FROM THE DIR WHERE IT IS, BECAUSE IT WILL
+SEARCH IN ./ FIRST (THIS WILL BE FIXED (SOON?)...)
+
+Some Keys (just play with the keyboard...):
+Arrow keys move trought menus, ENTER/y -> OK, ESC/q -> cancel
+In the fret view: J,U,K,I,arrow keys change tonic & [scale/chord]
+                  Y/H/PGUP/PGDWN change instrument
+                  Q=quit
+		  S=save diagram to text file
+		  etc... :^P
