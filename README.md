@@ -33,17 +33,17 @@ Very fast, low memory, low disk footprint, runs on very cheap hardware!
 
 Running on Linux Mint console
 
-![1]("screenshoots/1.jpg")
+![1](screenshoots/1.jpg)
 
-![2]("screenshoots/2.jpg")
+![2](screenshoots/2.jpg)
 
-![3]("screenshoots/3.jpg")
+![3](screenshoots/3.jpg)
 
-![4]("screenshoots/4.jpg")
+![4](screenshoots/4.jpg)
 
-![5]("screenshoots/5.jpg")
+![5](screenshoots/5.jpg)
 
-![6]("screenshoots/6.jpg")
+![6](screenshoots/6.jpg)
 
 
 ## Compilation
